@@ -1,0 +1,7437 @@
+{
+ "version": 0.6,
+ "generator": "Geofabrik extract russia/volga-fed-district, отобрано по запросу из поля query",
+ "osm3s": {
+  "timestamp_osm_base": "2026-10-02T20:21:34Z",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+ },
+ "query": "[out:json][timeout:90];\nnwr[\"amenity\"=\"pharmacy\"](55.84,43.54,56.43,44.82);\nout center tags;",
+ "elements": [
+  {
+   "type": "node",
+   "id": 633532053,
+   "lat": 56.2513528,
+   "lon": 43.8434761,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 660506253,
+   "lat": 56.2268146,
+   "lon": 43.8619681,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Farmani",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 660506263,
+   "lat": 56.2251864,
+   "lon": 43.8646858,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 666993571,
+   "lat": 56.3245628,
+   "lon": 43.9930448,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Солнечное здоровье"
+   }
+  },
+  {
+   "type": "node",
+   "id": 666993577,
+   "lat": 56.3239503,
+   "lon": 43.9956114,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 853630026,
+   "lat": 56.2744025,
+   "lon": 43.9414231,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "3",
+    "addr:postcode": "603029",
+    "addr:street": "Перекопская улица",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 950114675,
+   "lat": 56.2870063,
+   "lon": 43.9281415,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 951622556,
+   "lat": 56.2661474,
+   "lon": 43.8916643,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 951622558,
+   "lat": 56.2673567,
+   "lon": 43.8822627,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 988668209,
+   "lat": 56.3291495,
+   "lon": 43.9289682,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Будь здоров",
+    "opening_hours": "PH,Mo-Su 08:00-21:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 989073633,
+   "lat": 56.3231312,
+   "lon": 44.0313277,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2024-09-18",
+    "healthcare": "pharmacy",
+    "name": "Солнечное здоровье",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 989111792,
+   "lat": 56.1495786,
+   "lon": 44.2055554,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1037008266,
+   "lat": 56.3314819,
+   "lon": 43.9622552,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1056924694,
+   "lat": 56.3165589,
+   "lon": 44.0065116,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani",
+    "website": "https://www.farmani.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1110386498,
+   "lat": 56.345899,
+   "lon": 43.9296802,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1153141837,
+   "lat": 56.3327807,
+   "lon": 43.8482768,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1153141839,
+   "lat": 56.3338712,
+   "lon": 43.8471446,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "У Фонтана",
+    "name:ru": "Максавит",
+    "opening_hours": "08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1153141891,
+   "lat": 56.3361938,
+   "lon": 43.8394248,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1153141902,
+   "lat": 56.3299581,
+   "lon": 43.8538751,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1153141919,
+   "lat": 56.3320161,
+   "lon": 43.8405195,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Столички",
+    "brand:wikidata": "Q109717665",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru/",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1153141951,
+   "lat": 56.3317017,
+   "lon": 43.8407696,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1153141974,
+   "lat": 56.3312396,
+   "lon": 43.843069,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2023-06-07",
+    "name": "Farmani",
+    "opening_hours": "08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1153141992,
+   "lat": 56.3305661,
+   "lon": 43.8430186,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1189452520,
+   "lat": 56.3629586,
+   "lon": 43.8210167,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1189469539,
+   "lat": 56.3666177,
+   "lon": 43.8233747,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "36.7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1214594835,
+   "lat": 56.2744934,
+   "lon": 43.9205286,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "62",
+    "addr:postcode": "603073",
+    "addr:street": "проспект Ленина",
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "brand:wikidata": "Q114060847",
+    "healthcare": "pharmacy",
+    "name": "Апрель",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1214595342,
+   "lat": 56.2713782,
+   "lon": 43.9222393,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252618708,
+   "lat": 56.3467335,
+   "lon": 44.1881771,
+   "tags": {
+    "addr:housenumber": "24",
+    "addr:street": "Больничная улица",
+    "addr:suburb": "Большое Пикино",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1274769569,
+   "lat": 56.3165906,
+   "lon": 44.0171924,
+   "tags": {
+    "addr:housenumber": "106А",
+    "addr:street": "улица Белинского",
+    "amenity": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "website": "https://6030000.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1274791509,
+   "lat": 56.3194539,
+   "lon": 44.0232623,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1274791512,
+   "lat": 56.3181477,
+   "lon": 44.0217407,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "118/29",
+    "addr:street": "улица Белинского",
+    "amenity": "pharmacy",
+    "brand": "Ригла",
+    "brand:wikidata": "Q4394431",
+    "check_date": "2026-07-04",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Ригла",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1274791515,
+   "lat": 56.3184563,
+   "lon": 44.022875,
+   "tags": {
+    "addr:housenumber": "118/29",
+    "addr:street": "улица Белинского",
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "check_date:opening_hours": "2024-02-22",
+    "name": "Максавит",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "website": "https://maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1302983375,
+   "lat": 56.3394263,
+   "lon": 43.880039,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1303056989,
+   "lat": 56.2699712,
+   "lon": 43.8834915,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1317287123,
+   "lat": 56.3628047,
+   "lon": 44.0628704,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "39",
+    "addr:postcode": "606440",
+    "addr:street": "Интернациональная улица",
+    "amenity": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1435428495,
+   "lat": 56.3258952,
+   "lon": 43.8676214,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "opening_hours": "08:30-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1606208890,
+   "lat": 56.3216615,
+   "lon": 44.0220117,
+   "tags": {
+    "addr:housenumber": "56",
+    "addr:postcode": "603155",
+    "addr:street": "Ковалихинская улица",
+    "amenity": "pharmacy",
+    "name": "Будьте здоровы"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1708285532,
+   "lat": 56.1465353,
+   "lon": 44.1956733,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Госаптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1708285539,
+   "lat": 56.1486913,
+   "lon": 44.1942343,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1708286550,
+   "lat": 56.1494973,
+   "lon": 44.2019625,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1722610615,
+   "lat": 56.1466766,
+   "lon": 44.1798337,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "36,6"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1728278431,
+   "lat": 56.29408,
+   "lon": 44.0226106,
+   "tags": {
+    "amenity": "pharmacy",
+    "entrance": "yes",
+    "name": "Farmani",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "operator": "ООО Городские аптеки",
+    "phone": "+7 831 4173796"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1732909875,
+   "lat": 56.2837566,
+   "lon": 43.9251974,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1740678265,
+   "lat": 56.2945781,
+   "lon": 44.0263438,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Айболит",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1781680047,
+   "lat": 56.2928846,
+   "lon": 44.0400275,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "У дома"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1785211977,
+   "lat": 56.2929102,
+   "lon": 44.0147581,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека Оптика"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1795413202,
+   "lat": 56.2978038,
+   "lon": 44.1888498,
+   "tags": {
+    "addr:housenumber": "14",
+    "addr:street": "улица Победы",
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1814200555,
+   "lat": 56.1446028,
+   "lon": 44.2055485,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1822527218,
+   "lat": 56.3883256,
+   "lon": 43.7440514,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1823216697,
+   "lat": 56.312872,
+   "lon": 44.0070914,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Будь здоров!",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1825762064,
+   "lat": 56.3108145,
+   "lon": 43.9990908,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека №3",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1827093404,
+   "lat": 56.2497825,
+   "lon": 43.8586053,
+   "tags": {
+    "addr:housenumber": "16",
+    "addr:street": "улица Челюскинцев",
+    "amenity": "pharmacy",
+    "check_date": "2022-07-14",
+    "dispensing": "no",
+    "name": "Farmani",
+    "opening_hours": "08:00-21:00",
+    "phone": "+78312200009; +7 910 399-81-20",
+    "ref": "411",
+    "website": "https://www.farmani.ru/",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1828379953,
+   "lat": 56.2645341,
+   "lon": 43.8960851,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Выбор"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1831350544,
+   "lat": 56.2522163,
+   "lon": 43.8666815,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1832402118,
+   "lat": 56.2573656,
+   "lon": 43.8492161,
+   "tags": {
+    "amenity": "pharmacy",
+    "name:signed": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1832535164,
+   "lat": 56.2501577,
+   "lon": 43.8508905,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "check_date": "2023-03-12",
+    "dispensing": "no",
+    "level": "0",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su 08:00-21:00",
+    "phone": "+7 930 801-08-21",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1835619753,
+   "lat": 56.3179811,
+   "lon": 43.868376,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1854927753,
+   "lat": 56.2844616,
+   "lon": 44.0353958,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Айболит52",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1864479904,
+   "lat": 56.2970918,
+   "lon": 44.0282375,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптечный киоск",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1864620157,
+   "lat": 56.2702129,
+   "lon": 43.9301988,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1870086940,
+   "lat": 56.3026544,
+   "lon": 44.0410512,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Озёрки",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "operator": "ООО «Эркафарм Нижний Новгород»",
+    "website": "https://6030000.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1871794403,
+   "lat": 56.2943048,
+   "lon": 44.0212382,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2026-04-20",
+    "name": "Максавит",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "+7 831 2340570"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1885004940,
+   "lat": 56.3201127,
+   "lon": 43.8690305,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1896435545,
+   "lat": 56.3033497,
+   "lon": 43.9839604,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1896703462,
+   "lat": 56.3008932,
+   "lon": 44.0273604,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптечный пункт",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1903814569,
+   "lat": 56.3011082,
+   "lon": 44.0428789,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1903937522,
+   "lat": 56.2814898,
+   "lon": 43.9918596,
+   "tags": {
+    "addr:housenumber": "26",
+    "addr:street": "Медицинская улица",
+    "amenity": "pharmacy",
+    "brand": "Столички",
+    "brand:wikidata": "Q109717665",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1922390700,
+   "lat": 56.2901755,
+   "lon": 43.9951168,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2021-02-05",
+    "name": "Аптека Района",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1935571802,
+   "lat": 56.2845559,
+   "lon": 44.0458741,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ладушка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1936265924,
+   "lat": 56.3013473,
+   "lon": 44.0789529,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "А5",
+    "brand:wikidata": "Q62663476",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "А5",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1939897038,
+   "lat": 56.3040436,
+   "lon": 44.0789979,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "Наш доктор"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1983187159,
+   "lat": 56.2847512,
+   "lon": 44.0516652,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека у дома",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-18:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1986466244,
+   "lat": 56.28595,
+   "lon": 44.0692598,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ладушка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2000078551,
+   "lat": 56.3004657,
+   "lon": 43.9836893,
+   "tags": {
+    "addr:housenumber": "21",
+    "addr:street": "Проспект Гагарина",
+    "amenity": "pharmacy",
+    "name": "Здравсити",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "+78005009262"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2001545414,
+   "lat": 56.3261656,
+   "lon": 43.9135653,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Ваше здоровье",
+    "opening_hours": "Mo-Su 08:30-20:30"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2036826705,
+   "lat": 56.3407322,
+   "lon": 43.8781935,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Фармани",
+    "name:en": "Farmani",
+    "name:ru": "Фармани",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "+7 910 3998228"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2036826723,
+   "lat": 56.3499897,
+   "lon": 43.8674064,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2054436026,
+   "lat": 56.3067315,
+   "lon": 43.9859476,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2054436094,
+   "lat": 56.3151243,
+   "lon": 44.0137832,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2054436098,
+   "lat": 56.3170739,
+   "lon": 44.0189137,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Веста"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2054436104,
+   "lat": 56.3188404,
+   "lon": 44.0267091,
+   "tags": {
+    "addr:housenumber": "93А",
+    "addr:street": "улица Белинского",
+    "amenity": "pharmacy",
+    "check_date": "2026-05-26",
+    "healthcare": "pharmacy",
+    "name": "Здравсити",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2054436129,
+   "lat": 56.3203337,
+   "lon": 44.048558,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2025-09-02",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Farmani",
+    "opening_hours": "24/7",
+    "phone": "+7 910 3998236",
+    "ref": "№ 341",
+    "website": "https://farmani.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2102483145,
+   "lat": 56.2783241,
+   "lon": 43.9799688,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Эвениус",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2137878716,
+   "lat": 56.1459094,
+   "lon": 44.1949809,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2178875685,
+   "lat": 56.3553338,
+   "lon": 43.830012,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2178875687,
+   "lat": 56.3553931,
+   "lon": 43.8299366,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2200264001,
+   "lat": 56.3072339,
+   "lon": 44.0746803,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "level": "1",
+    "name": "Аптека №313"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2228019492,
+   "lat": 56.3216888,
+   "lon": 43.9475776,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ладушка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2244514601,
+   "lat": 56.3148444,
+   "lon": 43.8831596,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2258622843,
+   "lat": 56.3893407,
+   "lon": 43.761102,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Почта",
+    "name:ru": "Почта+Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2281147177,
+   "lat": 56.3454293,
+   "lon": 43.8388266,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2289516628,
+   "lat": 56.3463708,
+   "lon": 43.8447137,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2325378570,
+   "lat": 56.3395324,
+   "lon": 43.8670588,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2325378576,
+   "lat": 56.3449865,
+   "lon": 43.8715808,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2325378578,
+   "lat": 56.3469095,
+   "lon": 43.8692869,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2325378579,
+   "lat": 56.3485723,
+   "lon": 43.8700323,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптечество"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2338101583,
+   "lat": 56.3291074,
+   "lon": 43.9915972,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2024-04-11",
+    "name": "Farmani",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2352478778,
+   "lat": 56.3264561,
+   "lon": 43.9810274,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2360201056,
+   "lat": 56.3515441,
+   "lon": 43.8670511,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Максавит",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2391910635,
+   "lat": 56.1567979,
+   "lon": 44.1958654,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2392940890,
+   "lat": 56.2770861,
+   "lon": 43.922158,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2393118157,
+   "lat": 56.1485254,
+   "lon": 44.2089926,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "A5"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2451466155,
+   "lat": 56.323366,
+   "lon": 44.0015006,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2024-06-30",
+    "contact:vk": "aptekifarmani",
+    "dispensing": "yes",
+    "level": "0",
+    "name": "farmani",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "+7 800 7750009",
+    "website": "https://farmani.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2471734817,
+   "lat": 56.3145561,
+   "lon": 43.8831936,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2482277062,
+   "lat": 56.1455384,
+   "lon": 44.1943042,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2482280120,
+   "lat": 56.1435408,
+   "lon": 44.1897939,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2498349188,
+   "lat": 56.3212642,
+   "lon": 43.8663602,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2502357975,
+   "lat": 56.2938033,
+   "lon": 44.0690506,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека района"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2508797474,
+   "lat": 56.2939753,
+   "lon": 44.0699923,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Наш доктор"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2513315691,
+   "lat": 56.2925972,
+   "lon": 44.0676502,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2529828910,
+   "lat": 56.2611165,
+   "lon": 43.8763568,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2575502448,
+   "lat": 56.2415925,
+   "lon": 43.8660821,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani",
+    "opening_hours": "Mo-Sa 07:00-19:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2618745551,
+   "lat": 56.2456335,
+   "lon": 44.0072249,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Будьте здоровы"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2636972266,
+   "lat": 56.2284584,
+   "lon": 43.9462318,
+   "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "улица 40 лет Победы",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani",
+    "opening_hours": "24/7",
+    "phone": "+78312200009",
+    "website": "https://farmani.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2636972273,
+   "lat": 56.230027,
+   "lon": 43.9465446,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2636972274,
+   "lat": 56.2305281,
+   "lon": 43.9473917,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "apteka.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2651643580,
+   "lat": 56.3285739,
+   "lon": 43.908208,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Лекарь"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2652066807,
+   "lat": 56.3112,
+   "lon": 43.9394257,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2782749359,
+   "lat": 56.2322873,
+   "lon": 43.9531071,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2782749367,
+   "lat": 56.2327137,
+   "lon": 43.952385,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2782749369,
+   "lat": 56.2331349,
+   "lon": 43.9516633,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2856392695,
+   "lat": 56.379482,
+   "lon": 44.0234789,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2882420397,
+   "lat": 56.266133,
+   "lon": 43.8735355,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Наш доктор"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2974115608,
+   "lat": 56.32698,
+   "lon": 43.9144356,
+   "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "улица Куйбышева",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Забота"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3043826791,
+   "lat": 56.3064054,
+   "lon": 43.9979541,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3043826792,
+   "lat": 56.3063777,
+   "lon": 43.9978709,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Рубин",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3092495699,
+   "lat": 56.3051404,
+   "lon": 43.845455,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3095362509,
+   "lat": 56.2946548,
+   "lon": 44.041111,
+   "tags": {
+    "addr:housenumber": "5 к1",
+    "addr:postcode": "603122",
+    "addr:street": "улица Богородского",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "+7 831 2340570"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3110095280,
+   "lat": 56.148388,
+   "lon": 44.1999231,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3116233737,
+   "lat": 56.3365721,
+   "lon": 43.8742021,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3116256884,
+   "lat": 56.3160663,
+   "lon": 43.8792535,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3118008264,
+   "lat": 56.3242888,
+   "lon": 44.0091923,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Ригла",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3142455579,
+   "lat": 56.246282,
+   "lon": 43.9740005,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3220330065,
+   "lat": 56.2769474,
+   "lon": 43.9201258,
+   "tags": {
+    "addr:housenumber": "55",
+    "addr:street": "проспект Ленина",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Здоровита"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3339662074,
+   "lat": 56.261329,
+   "lon": 43.9746049,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Асна",
+    "opening_hours": "Mo-Fr 09:00-17:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3339732535,
+   "lat": 56.2611684,
+   "lon": 43.9755901,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ладушка",
+    "opening_hours": "Mo-Fr 09:00-17:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3418378055,
+   "lat": 56.2864391,
+   "lon": 44.0788754,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3420165518,
+   "lat": 56.2876917,
+   "lon": 44.0778238,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека 313"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3439201351,
+   "lat": 56.2902979,
+   "lon": 44.0473599,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3455099911,
+   "lat": 56.2390853,
+   "lon": 43.9611287,
+   "tags": {
+    "addr:housenumber": "186",
+    "addr:street": "проспект Гагарина",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3470986103,
+   "lat": 56.337197,
+   "lon": 43.8836115,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ладушка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3470986117,
+   "lat": 56.3373553,
+   "lon": 43.8839648,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3472665163,
+   "lat": 56.3321688,
+   "lon": 43.8804314,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Фармани"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3497473526,
+   "lat": 56.3087939,
+   "lon": 43.9826687,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека Ригла"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3526517311,
+   "lat": 56.2087426,
+   "lon": 44.0233592,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3526524851,
+   "lat": 56.2089131,
+   "lon": 44.1006106,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3568675907,
+   "lat": 56.3295496,
+   "lon": 43.8510964,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3568675908,
+   "lat": 56.3298156,
+   "lon": 43.8559755,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "10:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3568675910,
+   "lat": 56.3298817,
+   "lon": 43.8512586,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Госаптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3568675925,
+   "lat": 56.33005,
+   "lon": 43.8486558,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3603292466,
+   "lat": 56.2566879,
+   "lon": 43.9854469,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3614907972,
+   "lat": 56.3475808,
+   "lon": 43.8707032,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ладушка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3668420019,
+   "lat": 56.3351007,
+   "lon": 43.8408328,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3701667543,
+   "lat": 56.2625316,
+   "lon": 43.883201,
+   "tags": {
+    "amenity": "pharmacy",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Фармани"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3785408385,
+   "lat": 56.3181256,
+   "lon": 43.9433217,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3798448744,
+   "lat": 56.1534009,
+   "lon": 44.2109046,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3801271203,
+   "lat": 56.3117702,
+   "lon": 43.9404349,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3802571406,
+   "lat": 56.2678642,
+   "lon": 44.092719,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3802571407,
+   "lat": 56.3441339,
+   "lon": 43.9301551,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ладушка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3802571418,
+   "lat": 56.266494,
+   "lon": 44.0927043,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3844320566,
+   "lat": 56.333752,
+   "lon": 43.8765081,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3844910319,
+   "lat": 56.3332354,
+   "lon": 43.8776098,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3844910329,
+   "lat": 56.3334621,
+   "lon": 43.8758306,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ваше здоровье"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3874576097,
+   "lat": 56.2341456,
+   "lon": 43.8291932,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "opening_hours": "08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3891841413,
+   "lat": 56.3248753,
+   "lon": 43.9921106,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3893192829,
+   "lat": 56.3150011,
+   "lon": 43.994247,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3900984610,
+   "lat": 56.1452483,
+   "lon": 44.2051248,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3907089990,
+   "lat": 56.3196252,
+   "lon": 43.9464178,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "check_date": "2023-10-29",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-19:00",
+    "operator": "ООО \"Витамакс-нн\"",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3908569600,
+   "lat": 56.3007791,
+   "lon": 43.9398673,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "check_date": "2026-07-05",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 09:00-18:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3908571557,
+   "lat": 56.148912,
+   "lon": 44.2018315,
+   "tags": {
+    "amenity": "pharmacy",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3920549026,
+   "lat": 56.2789984,
+   "lon": 43.9513622,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Ригла",
+    "brand:wikidata": "Q4394431",
+    "healthcare": "pharmacy",
+    "name": "Ригла"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4006345340,
+   "lat": 56.147311,
+   "lon": 44.1924056,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека 322"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4084085518,
+   "lat": 56.3623666,
+   "lon": 43.8091831,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4086600441,
+   "lat": 56.2323331,
+   "lon": 43.821168,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4109582490,
+   "lat": 56.2922417,
+   "lon": 43.9800846,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Госаптека",
+    "opening_hours": "Mo-Sa 09:00-19:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4109582915,
+   "lat": 56.2824562,
+   "lon": 43.9814935,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Здрав Сити.ру",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4109583197,
+   "lat": 56.288885,
+   "lon": 43.9823058,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 09:00-18:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4123883990,
+   "lat": 56.2909477,
+   "lon": 43.9965194,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Эвениус"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4123883994,
+   "lat": 56.2927212,
+   "lon": 44.0094875,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека Здравсити",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4123901794,
+   "lat": 56.2909341,
+   "lon": 44.0001866,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Берегиня",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 09:00-19:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4123902391,
+   "lat": 56.308492,
+   "lon": 44.0235537,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "08:00-21:00",
+    "website": "https://6030000.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4123902392,
+   "lat": 56.3141568,
+   "lon": 44.0172172,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4124428589,
+   "lat": 56.3230302,
+   "lon": 44.0330317,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-02-07",
+    "healthcare": "pharmacy",
+    "name": "Farmani",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4124431692,
+   "lat": 56.3246779,
+   "lon": 44.0251019,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Солнечное здоровье",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4124532990,
+   "lat": 56.2796906,
+   "lon": 43.9865396,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4159863917,
+   "lat": 56.3147877,
+   "lon": 43.9904893,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4161531889,
+   "lat": 56.2222314,
+   "lon": 43.9408067,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "check_date": "2022-07-29",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Аптечество",
+    "opening_hours": "09:30-19:30",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4177789833,
+   "lat": 56.2413485,
+   "lon": 43.9645663,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4187232792,
+   "lat": 56.2938409,
+   "lon": 44.0210134,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Глюкоза",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4225543158,
+   "lat": 56.3672202,
+   "lon": 43.8057391,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4258342099,
+   "lat": 56.315301,
+   "lon": 44.0506426,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Солнечное здоровье",
+    "healthcare": "pharmacy",
+    "name": "Солнечное здоровье",
+    "opening_hours": "08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4259431507,
+   "lat": 56.3179193,
+   "lon": 44.0546681,
+   "tags": {
+    "addr:housenumber": "5 к1",
+    "addr:street": "Фруктовая улица",
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4260083711,
+   "lat": 56.3152167,
+   "lon": 44.0499678,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Солнечное здоровье",
+    "healthcare": "pharmacy",
+    "name": "Солнечное здоровье",
+    "opening_hours": "09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4313248189,
+   "lat": 56.3026714,
+   "lon": 44.0411261,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo 08:00-17:00; Sa-Su 08:00-20:00; Tu-Fr 09:00-20:00",
+    "operator": "ООО «Полинея»",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes",
+    "ref": "Аптека № 401"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4334339594,
+   "lat": 56.3204326,
+   "lon": 44.0423838,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "check_date": "2026-07-04",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Госаптека",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4342550690,
+   "lat": 56.2892612,
+   "lon": 44.0738624,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4342616289,
+   "lat": 56.3022407,
+   "lon": 44.0420564,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa, Su, PH 08:00-20:00",
+    "operator": "ООО «СодействиеФарм»",
+    "phone": "+7 831 4354723",
+    "website": "https://maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4353059086,
+   "lat": 56.3075926,
+   "lon": 43.9365921,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4353059087,
+   "lat": 56.3063043,
+   "lon": 43.936353,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "37",
+    "addr:postcode": "603011",
+    "addr:street": "улица Октябрьской Революции",
+    "amenity": "pharmacy",
+    "brand": "Прайд",
+    "brand:wikidata": "Q121090210",
+    "dispensing": "yes",
+    "email": "info@prideapteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Аптека № 83",
+    "name:en": "Pharmacy 83",
+    "opening_hours": "24/7",
+    "operator": "ООО «Прайд»",
+    "phone": "+78312404747",
+    "website": "https://prideapteka.ru",
+    "wikidata": "Q121090210"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4353685534,
+   "lat": 56.3355428,
+   "lon": 43.8394734,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4356501020,
+   "lat": 56.300808,
+   "lon": 44.0820126,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4356511613,
+   "lat": 56.2947051,
+   "lon": 44.0770129,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4359086355,
+   "lat": 56.2867639,
+   "lon": 43.9480287,
+   "tags": {
+    "addr:housenumber": "6 к3",
+    "addr:street": "улица Адмирала Макарова",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name:ru": "Аптека",
+    "opening_hours": "Mo-Su 08:00-13:00,13:30-19:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4361122402,
+   "lat": 56.3582899,
+   "lon": 43.8084279,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4361124699,
+   "lat": 56.3639297,
+   "lon": 43.8137684,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4361152397,
+   "lat": 56.3555384,
+   "lon": 43.8308855,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4361890289,
+   "lat": 56.2958044,
+   "lon": 44.0386661,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "ООО \"Декоп\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 4368367003,
+   "lat": 56.3259557,
+   "lon": 43.957592,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4368659281,
+   "lat": 56.2820657,
+   "lon": 43.9246088,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптечество"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4370642892,
+   "lat": 56.3105669,
+   "lon": 43.990964,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ваше здоровье"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4370903642,
+   "lat": 56.2338664,
+   "lon": 43.8273418,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "15А",
+    "addr:postcode": "603142",
+    "addr:street": "Мончегорская улица",
+    "amenity": "pharmacy",
+    "brand": "Прайд",
+    "brand:wikidata": "Q121090210",
+    "description": "Прайд Аптека — это 20 000 товаров для здоровья, красоты и широкий выбор редких лекарственных препаратов.",
+    "dispensing": "yes",
+    "email": "info@prideapteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Прайд",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "operator": "ООО «Прайд»",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:unionpay": "yes",
+    "payment:visa": "yes",
+    "phone": "+78312340486",
+    "website": "https://prideapteka.ru",
+    "wikidata": "Q121090210"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4380833979,
+   "lat": 56.2891867,
+   "lon": 43.9412516,
+   "tags": {
+    "addr:housenumber": "3/2",
+    "addr:street": "улица Академика Баха",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4385973044,
+   "lat": 56.2753621,
+   "lon": 43.9196139,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптечество"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4393215591,
+   "lat": 56.3008276,
+   "lon": 43.9480015,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "brand": "Мелодия здоровья",
+    "brand:wikidata": "Q110278680",
+    "check_date": "2026-07-04",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Мелодия здоровья",
+    "opening_hours": "09:00-22:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4446678396,
+   "lat": 56.1562416,
+   "lon": 44.1972373,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4456584747,
+   "lat": 56.310942,
+   "lon": 43.9420096,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4456619101,
+   "lat": 56.1509476,
+   "lon": 44.1877267,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4463074425,
+   "lat": 56.2392466,
+   "lon": 43.9619385,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4492243276,
+   "lat": 56.3502298,
+   "lon": 43.8659362,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4560930206,
+   "lat": 56.3185453,
+   "lon": 43.9218369,
+   "tags": {
+    "addr:postcode": "603079",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "opening_hours": "Mo-Fr 08:00-20:00",
+    "phone": "+7 831 2413852"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4609497844,
+   "lat": 56.1449114,
+   "lon": 44.1982583,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4609498633,
+   "lat": 56.1530671,
+   "lon": 44.2037907,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4609560832,
+   "lat": 56.285637,
+   "lon": 43.9397437,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4609562391,
+   "lat": 56.2855832,
+   "lon": 43.9301375,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "34",
+    "addr:postcode": "603076",
+    "addr:street": "проспект Ленина",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Farmani",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "operator": "ООО “Нижегородская аптечная сеть”",
+    "phone": "+7-910-387-61-91",
+    "website": "https://farmani.ru",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4610235444,
+   "lat": 56.2780452,
+   "lon": 43.9239732,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4610235445,
+   "lat": 56.2835497,
+   "lon": 43.9272548,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4723585128,
+   "lat": 56.2334268,
+   "lon": 43.8363764,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4724014363,
+   "lat": 56.236766,
+   "lon": 43.8412835,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4754530292,
+   "lat": 56.2648233,
+   "lon": 43.9087033,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Тифломир"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4802985621,
+   "lat": 56.2821012,
+   "lon": 44.0521348,
+   "tags": {
+    "amenity": "pharmacy",
+    "drive_through": "no",
+    "name": "Максавит",
+    "name:ru": "Максавит",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "operator": "Максавит",
+    "website": "https://maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4836958625,
+   "lat": 56.3108246,
+   "lon": 43.8127165,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4844395510,
+   "lat": 56.2464356,
+   "lon": 43.8450911,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4844395997,
+   "lat": 56.2476509,
+   "lon": 43.8312313,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Госаптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4854020825,
+   "lat": 56.2945168,
+   "lon": 44.0440158,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Фармани",
+    "name:ru": "Фармани"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4865707225,
+   "lat": 56.2379559,
+   "lon": 43.9671805,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "name:ru": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4865718221,
+   "lat": 56.2415603,
+   "lon": 43.9648174,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4883674022,
+   "lat": 56.3012897,
+   "lon": 43.9406216,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Здоровяк",
+    "name:ru": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4899598039,
+   "lat": 56.3589378,
+   "lon": 43.8063365,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4908630708,
+   "lat": 56.4152842,
+   "lon": 43.6542177,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-18:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5092580621,
+   "lat": 56.2168973,
+   "lon": 43.858586,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5094281742,
+   "lat": 56.2766739,
+   "lon": 43.9197954,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "name:ru": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5118077798,
+   "lat": 56.30381,
+   "lon": 43.9840087,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "А-Мега",
+    "opening_hours": "08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5137316021,
+   "lat": 56.2564121,
+   "lon": 43.8667715,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит",
+    "website": "https://www.maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5138960550,
+   "lat": 56.2714309,
+   "lon": 43.977245,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека района"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5163625295,
+   "lat": 56.2382226,
+   "lon": 43.9799861,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Фитобар",
+    "opening_hours": "Mo-Su 8:00-19:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5169895667,
+   "lat": 56.3124539,
+   "lon": 43.8518541,
+   "tags": {
+    "amenity": "pharmacy",
+    "description": "Находится внутри поликлиники",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5169897042,
+   "lat": 56.3141474,
+   "lon": 43.8732702,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5186234314,
+   "lat": 56.2397087,
+   "lon": 43.8266891,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Медея"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5198766509,
+   "lat": 56.1456788,
+   "lon": 44.205255,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Госаптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5202755723,
+   "lat": 56.3182422,
+   "lon": 44.0168081,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5233210059,
+   "lat": 56.2908547,
+   "lon": 43.9949045,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Озерки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5233210062,
+   "lat": 56.2914747,
+   "lon": 43.9889386,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5274259064,
+   "lat": 56.1561996,
+   "lon": 44.2116121,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптечество"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5274259095,
+   "lat": 56.1527232,
+   "lon": 44.209648,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптечество"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5274260932,
+   "lat": 56.1570646,
+   "lon": 44.2096622,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5287453818,
+   "lat": 56.1464338,
+   "lon": 44.1851666,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Удача"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5303021305,
+   "lat": 56.3408618,
+   "lon": 43.8392553,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "А-Мега"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5322551661,
+   "lat": 56.3452478,
+   "lon": 43.8710314,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5327388623,
+   "lat": 56.2118423,
+   "lon": 44.1028399,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-15:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5352535759,
+   "lat": 56.3362493,
+   "lon": 43.885172,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5353026851,
+   "lat": 56.3474388,
+   "lon": 43.8672227,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5353026863,
+   "lat": 56.348607,
+   "lon": 43.8571751,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:website": "https://vitaexpress.ru/",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr,Su 09:00-20:00; Sa 09:00-19:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5353026864,
+   "lat": 56.3486174,
+   "lon": 43.8554665,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5353026869,
+   "lat": 56.3489192,
+   "lon": 43.8518429,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Озерки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5378484364,
+   "lat": 56.2570376,
+   "lon": 43.9801058,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5378485924,
+   "lat": 56.2570173,
+   "lon": 43.9799257,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Солнечное здоровье",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5381044524,
+   "lat": 56.2468139,
+   "lon": 43.849953,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-05-19",
+    "name": "Аптечество",
+    "opening_hours": "08:00-21:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5383359421,
+   "lat": 56.2879108,
+   "lon": 43.9247818,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411833319,
+   "lat": 56.3400473,
+   "lon": 44.1228331,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "16",
+    "addr:place": "2-й микрорайон",
+    "addr:postcode": "606448",
+    "addr:street": "2-й микрорайон",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411835894,
+   "lat": 56.3992524,
+   "lon": 44.0106016,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "12А",
+    "addr:place": "квартал Дружба",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411837833,
+   "lat": 56.3349133,
+   "lon": 44.1109012,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "7",
+    "addr:street": "Коммунистическая улица",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411837847,
+   "lat": 56.3593334,
+   "lon": 44.0548837,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "131",
+    "addr:street": "улица Ленина",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411842795,
+   "lat": 56.3507009,
+   "lon": 44.0685097,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "208",
+    "addr:street": "улица Луначарского",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411842950,
+   "lat": 56.3776936,
+   "lon": 44.0222506,
+   "tags": {
+    "addr:housenumber": "104",
+    "addr:street": "улица Максима Горького",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411845781,
+   "lat": 56.4034441,
+   "lon": 43.9925692,
+   "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Трудовая улица",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411849386,
+   "lat": 56.3566558,
+   "lon": 44.0665989,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "55",
+    "addr:street": "Октябрьская улица",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411849387,
+   "lat": 56.3559303,
+   "lon": 44.071276,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "79",
+    "addr:street": "Октябрьская улица",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411854567,
+   "lat": 56.3386239,
+   "lon": 44.103284,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "1",
+    "addr:street": "улица Чугунова",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411855048,
+   "lat": 56.3574073,
+   "lon": 44.0590223,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "159",
+    "addr:street": "улица Ленина",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Центральная аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411856759,
+   "lat": 56.338818,
+   "lon": 44.1007387,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "4",
+    "addr:street": "улица Чугунова",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411857327,
+   "lat": 56.3390388,
+   "lon": 44.0999541,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "5",
+    "addr:street": "улица Чугунова",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411857763,
+   "lat": 56.3607775,
+   "lon": 44.0528042,
+   "tags": {
+    "addr:city": "Бор",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5411858640,
+   "lat": 56.3606335,
+   "lon": 44.0550115,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "17",
+    "addr:street": "Интернациональная улица",
+    "amenity": "pharmacy",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5418348611,
+   "lat": 56.1572677,
+   "lon": 44.20984,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Госаптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5418361733,
+   "lat": 56.3568719,
+   "lon": 44.0597953,
+   "tags": {
+    "addr:housenumber": "172",
+    "addr:street": "улица Ленина",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Фармани"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5418361760,
+   "lat": 56.3564189,
+   "lon": 44.0659634,
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "78",
+    "addr:street": "Октябрьская улица",
+    "amenity": "pharmacy",
+    "brand": "Озерки",
+    "brand:wikidata": "Q109712399",
+    "healthcare": "pharmacy",
+    "name": "Озерки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5444494923,
+   "lat": 56.3416433,
+   "lon": 43.947257,
+   "tags": {
+    "addr:housenumber": "16",
+    "addr:street": "Волжская набережная",
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:website": "https://vitaexpress.ru/",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5468085152,
+   "lat": 56.2375473,
+   "lon": 43.8668608,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Добрыня"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5764582255,
+   "lat": 56.2670106,
+   "lon": 43.9761202,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-04-20",
+    "name": "Солнечное здоровье",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5768080453,
+   "lat": 56.2258829,
+   "lon": 44.070302,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name:en": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5775384611,
+   "lat": 56.3135164,
+   "lon": 44.0281035,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5839416056,
+   "lat": 56.2296175,
+   "lon": 43.8208,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5857090153,
+   "lat": 56.3126292,
+   "lon": 43.9902969,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5922791066,
+   "lat": 56.2675237,
+   "lon": 43.8756858,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru;https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5922791198,
+   "lat": 56.2675892,
+   "lon": 43.8755843,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5981397114,
+   "lat": 56.1582763,
+   "lon": 44.2148919,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека 322"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5993693685,
+   "lat": 56.2622814,
+   "lon": 44.0208073,
+   "tags": {
+    "addr:housenumber": "109А",
+    "addr:street": "улица Академика Сахарова",
+    "amenity": "pharmacy",
+    "brand": "Ригла",
+    "brand:wikidata": "Q4394431",
+    "check_date": "2025-06-29",
+    "healthcare": "pharmacy",
+    "name": "Ригла",
+    "opening_hours": "08:00-21:00",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5999897580,
+   "lat": 56.151183,
+   "lon": 44.186198,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Госаптека",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6267925717,
+   "lat": 56.3200406,
+   "lon": 44.0468382,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2026-06-04",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6281290366,
+   "lat": 56.3568462,
+   "lon": 44.0598542,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6284591763,
+   "lat": 56.3567614,
+   "lon": 44.0660783,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "ref": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6286544444,
+   "lat": 56.3535417,
+   "lon": 44.0703469,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6326119767,
+   "lat": 56.1406953,
+   "lon": 44.1926264,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Вита"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6378427473,
+   "lat": 56.3174073,
+   "lon": 44.0520528,
+   "tags": {
+    "addr:street": "Фруктовая улица",
+    "amenity": "pharmacy",
+    "brand": "Фармани",
+    "check_date:opening_hours": "2024-02-25",
+    "level": "0",
+    "name": "Фармани",
+    "opening_hours": "09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6378444086,
+   "lat": 56.308506,
+   "lon": 44.0237772,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Аптечество",
+    "name": "Аптечество",
+    "opening_hours": "24/7",
+    "operator": "ООО «Фест аптека»",
+    "ref": "Аптечный пункт № 638",
+    "website": "https://aptechestvo.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6378458150,
+   "lat": 56.3087606,
+   "lon": 44.0246497,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "name": "Максавит",
+    "opening_hours": "08:00-21:00; Sa, Su, PH 08:00-20:00",
+    "website": "https://maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6378458151,
+   "lat": 56.3086672,
+   "lon": 44.0241823,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru;https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6378464908,
+   "lat": 56.310008,
+   "lon": 44.0288529,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "08:00-21:00; Sa, Su, PH 08:00-20:00",
+    "website": "https://maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6385344254,
+   "lat": 56.3185865,
+   "lon": 44.0229946,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 08:00-21:00;Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6385344255,
+   "lat": 56.3185197,
+   "lon": 44.0229421,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Озерки",
+    "name": "Озерки",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "website": "https://6030000.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6385382573,
+   "lat": 56.3183399,
+   "lon": 44.0291584,
+   "tags": {
+    "addr:housenumber": "87",
+    "addr:street": "улица Белинского",
+    "amenity": "pharmacy",
+    "check_date": "2025-11-25",
+    "check_date:opening_hours": "2025-11-25",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su,PH 08:00-21:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+7‒930‒801‒08‒21",
+    "website": "https://maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6385382574,
+   "lat": 56.3183081,
+   "lon": 44.0291847,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "87",
+    "addr:postcode": "603024",
+    "addr:street": "улица Белинского",
+    "amenity": "pharmacy",
+    "check_date": "2025-11-25",
+    "check_date:opening_hours": "2025-11-25",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Здравсити",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su,PH 08:00-20:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "8‒800‒500‒92‒62",
+    "website": "https://zdravcity.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6406499885,
+   "lat": 56.320487,
+   "lon": 44.0469978,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "здравсити",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6406572040,
+   "lat": 56.3195116,
+   "lon": 44.0546583,
+   "tags": {
+    "addr:housenumber": "17",
+    "addr:street": "улица Родионова",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптечество",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "ref": "Аптечный пункт № 834",
+    "website": "https://aptechestvo.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6406752485,
+   "lat": 56.3108676,
+   "lon": 44.0229144,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su, PH 08:00-20:00",
+    "website": "https://maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6406758186,
+   "lat": 56.3106367,
+   "lon": 44.020425,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Солнечное здоровье",
+    "opening_hours": "24/7",
+    "website": "http://solapteka.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6406774786,
+   "lat": 56.3098316,
+   "lon": 44.017958,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Здоровита",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "operator": "ООО «Торговый дом Рубикон»",
+    "phone": "+7 831 2917468"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6418486768,
+   "lat": 56.2885027,
+   "lon": 44.0537514,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "website": "https://maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6465865585,
+   "lat": 56.2021354,
+   "lon": 44.1341538,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека Удача +"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6556225044,
+   "lat": 56.3203834,
+   "lon": 44.0089439,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Озерки у дома"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6556225068,
+   "lat": 56.3201835,
+   "lon": 44.0090787,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:website": "https://vitaexpress.ru/",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 09:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6557934891,
+   "lat": 56.3141536,
+   "lon": 43.992821,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптечество",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6570147636,
+   "lat": 56.3172453,
+   "lon": 44.0031696,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Солнечное здоровье"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6570147698,
+   "lat": 56.3185091,
+   "lon": 44.0102078,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6579689800,
+   "lat": 56.3125565,
+   "lon": 43.9905453,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Апрель",
+    "note": "По заметке #1809735 - других данных не нашёл"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6584359349,
+   "lat": 56.2621156,
+   "lon": 44.0194572,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2025-07-15",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6614994022,
+   "lat": 56.2377371,
+   "lon": 43.8712692,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6617403341,
+   "lat": 56.2277905,
+   "lon": 43.8636099,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Здоров.ру"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6618811938,
+   "lat": 56.2319937,
+   "lon": 43.8756765,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Центральная",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "http://facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Центральная",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6620298235,
+   "lat": 56.2317519,
+   "lon": 43.8746089,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6620298241,
+   "lat": 56.3151656,
+   "lon": 43.9992898,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптечество",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 10:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6624852594,
+   "lat": 56.2336841,
+   "lon": 43.8721714,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6624852597,
+   "lat": 56.2343954,
+   "lon": 43.8711946,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6624852604,
+   "lat": 56.2370903,
+   "lon": 43.8679113,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "52 плюс"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6632253648,
+   "lat": 56.2336664,
+   "lon": 43.8587087,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6632253663,
+   "lat": 56.230753,
+   "lon": 43.8758523,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6648105802,
+   "lat": 56.2609109,
+   "lon": 43.8800873,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6677254103,
+   "lat": 56.2645196,
+   "lon": 44.0210355,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "check_date": "2025-07-26",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru;https://vitaexpress.ru/",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Sa 10:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6786540728,
+   "lat": 56.3129764,
+   "lon": 44.0298116,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека № 313",
+    "opening_hours": "8:00-21:00",
+    "operator": "ООО «Аптека № 313»",
+    "phone": "+7 831 4351946",
+    "website": "https://www.apteka313.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6947290285,
+   "lat": 56.2882629,
+   "lon": 44.0672656,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека 313"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6968343711,
+   "lat": 56.2486957,
+   "lon": 44.0469494,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "operator": "ООО \"РановаФарма\"",
+    "operator:ref:inn": "6230121836"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6968343714,
+   "lat": 56.2480043,
+   "lon": 44.0430549,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00, Sa-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7099658086,
+   "lat": 56.2861053,
+   "lon": 44.0780381,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Маскавит",
+    "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7132759285,
+   "lat": 56.2964307,
+   "lon": 43.9424263,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Фармани",
+    "name:en": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7148418766,
+   "lat": 56.2933749,
+   "lon": 44.0676229,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:website": "https://vitaexpress.ru/",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7148429300,
+   "lat": 56.2934606,
+   "lon": 44.0676212,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7148431169,
+   "lat": 56.2928715,
+   "lon": 44.0676122,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Госаптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7187318182,
+   "lat": 56.2487414,
+   "lon": 44.0454381,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Аптечество",
+    "name": "Аптечество",
+    "opening_hours": "08:00-21:00",
+    "operator": "ООО \"Фест аптека\"",
+    "operator:ref:inn": "5262292840"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7226725082,
+   "lat": 56.2505554,
+   "lon": 43.8510302,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "9",
+    "addr:street": "улица Краснодонцев",
+    "amenity": "pharmacy",
+    "check_date": "2023-03-12",
+    "check_date:opening_hours": "2022-05-19",
+    "level": "0",
+    "name": "Госаптека",
+    "opening_hours": "PH,Mo-Su 08:00-20:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7236377349,
+   "lat": 56.261749,
+   "lon": 44.0181583,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2025-08-13",
+    "name": "Аптечество",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7351266385,
+   "lat": 56.3213403,
+   "lon": 43.8869804,
+   "tags": {
+    "addr:housenumber": "35",
+    "addr:postcode": "603044",
+    "addr:street": "проспект Героев",
+    "amenity": "pharmacy",
+    "name": "Аптека",
+    "opening_hours": "Mo-Fr 08:00-13:00,14:00-19:00; Sa 08:00-13:00,14:00-18:00; Su 08:00-18:00",
+    "phone": "+7 831 2702330"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7462617985,
+   "lat": 56.3072823,
+   "lon": 43.9367589,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Farmani",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7597042731,
+   "lat": 56.3332434,
+   "lon": 43.9404401,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710254360,
+   "lat": 56.3121868,
+   "lon": 43.9889708,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru;https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Центральная",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710254384,
+   "lat": 56.3665502,
+   "lon": 43.8231272,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710264831,
+   "lat": 56.2951218,
+   "lon": 44.0360409,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:facebook": "http://facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "name": "Вита Центральная",
+    "opening_hours": "Mo-Fr 08:00-21:00;Sa 08:00-20:00;Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710264855,
+   "lat": 56.3217502,
+   "lon": 43.9484024,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710264876,
+   "lat": 56.285348,
+   "lon": 44.070476,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru;https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710300773,
+   "lat": 56.1485396,
+   "lon": 44.201151,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes",
+    "website": "https://vitaexpress.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710301845,
+   "lat": 56.3194255,
+   "lon": 43.9262849,
+   "tags": {
+    "addr:housenumber": "20",
+    "addr:street": "Сормовское шоссе",
+    "amenity": "pharmacy",
+    "brand": "Вита Центральная",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "http://facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Центральная",
+    "opening_hours": "Mo-Su 07:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710301852,
+   "lat": 56.3510402,
+   "lon": 43.8670027,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:facebook": "http://facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "name": "Вита Центральная",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710303594,
+   "lat": 56.3302169,
+   "lon": 43.9331594,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710303644,
+   "lat": 56.1519846,
+   "lon": 44.2100626,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710304622,
+   "lat": 56.1454284,
+   "lon": 44.2057335,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes",
+    "website": "https://vitaexpress.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710307918,
+   "lat": 56.3401816,
+   "lon": 43.8831175,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru;https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 09:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710307940,
+   "lat": 56.2665308,
+   "lon": 43.97641,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:website": "https://vitaexpress.ru/",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710309303,
+   "lat": 56.30457,
+   "lon": 43.845682,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes",
+    "website": "https://vitaexpress.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710309321,
+   "lat": 56.288715,
+   "lon": 43.9138153,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710309326,
+   "lat": 56.3338332,
+   "lon": 43.8758487,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru;https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710312194,
+   "lat": 56.343967,
+   "lon": 43.9321,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:website": "https://vitaexpress.ru/",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710312196,
+   "lat": 56.2329259,
+   "lon": 43.8337641,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:website": "https://vitaexpress.ru/",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710312197,
+   "lat": 56.3454736,
+   "lon": 43.8706452,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru;https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Tu,Fr-Su 08:00-20:00; Th 09:00-18:00; We 09:00-19:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710312218,
+   "lat": 56.3377762,
+   "lon": 43.9296162,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru;https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Tu,Th-Fr 08:00-21:00; Sa-Su 08:00-20:00; We 08:00-18:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710312231,
+   "lat": 56.358628,
+   "lon": 43.8571215,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:website": "https://vitaexpress.ru/",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-We,Fr 09:00-19:00; Sa-Su 08:00-20:00; Th 10:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710312232,
+   "lat": 56.28919,
+   "lon": 43.9399918,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru;https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710312249,
+   "lat": 56.3239872,
+   "lon": 43.946085,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru;https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710312250,
+   "lat": 56.3799169,
+   "lon": 43.79601,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 08:00-21:00;Sa-Su 08:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes",
+    "website": "https://vitaexpress.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7710312322,
+   "lat": 56.2187827,
+   "lon": 43.8644975,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru;https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7804049422,
+   "lat": 56.3415718,
+   "lon": 43.9549566,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-05-12",
+    "name": "Максавит",
+    "opening_hours": "08:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "website": "https://maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7804049424,
+   "lat": 56.3420364,
+   "lon": 43.9465003,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Магнит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7809320618,
+   "lat": 56.295006,
+   "lon": 44.0753949,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7809320622,
+   "lat": 56.2827667,
+   "lon": 44.0356681,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7942370980,
+   "lat": 56.2746536,
+   "lon": 43.9190891,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Центральная",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "http://facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Центральная",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8167877156,
+   "lat": 56.2751753,
+   "lon": 44.0489267,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8635452062,
+   "lat": 56.3110413,
+   "lon": 43.9415494,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 1008063;+7 987 5427061",
+    "contact:website": "https://nfapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Надежда-Фарм",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "operator": "ООО Экономика +"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8635452065,
+   "lat": 56.2496539,
+   "lon": 43.8766748,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 1008063;+7 831 7861005",
+    "contact:website": "https://nfapteka.ru/",
+    "name": "Надежда-Фарм",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "operator": "ООО ПочинМед"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8635452143,
+   "lat": 56.2683047,
+   "lon": 43.9261776,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 1008063;+7 987 5427166",
+    "contact:website": "https://nfapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Надежда-Фарм",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "operator": "ООО Экономика +"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8742463256,
+   "lat": 56.2502721,
+   "lon": 43.8509339,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-03-12",
+    "healthcare": "pharmacy",
+    "name": "Будь Здоров",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "operator": "ООО \"Ригла\"",
+    "phone": "+78007777003",
+    "website": "https://budzdorov.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8839198935,
+   "lat": 56.3257199,
+   "lon": 43.957833,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:website": "https://vitaexpress.ru/",
+    "brand:wikidata": "Q109810737",
+    "contact:facebook": "https://www.facebook.com/aptekivita",
+    "contact:instagram": "https://www.instagram.com/vita_express/",
+    "contact:phone": "+7 800 7550003",
+    "contact:vk": "https://vk.com/aptekivita",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8866180245,
+   "lat": 56.2371825,
+   "lon": 43.8675901,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Забота"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8878915217,
+   "lat": 56.2372004,
+   "lon": 43.8675886,
+   "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "603016",
+    "addr:street": "улица Веденяпина",
+    "amenity": "pharmacy",
+    "name": "Забота",
+    "name:en": "Zabota",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9176508976,
+   "lat": 56.2940845,
+   "lon": 43.9351906,
+   "tags": {
+    "addr:housenumber": "16",
+    "addr:street": "проспект Ленина",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9177955018,
+   "lat": 56.3349282,
+   "lon": 43.9343032,
+   "tags": {
+    "addr:housenumber": "32",
+    "addr:street": "улица Сергея Есенина",
+    "amenity": "pharmacy",
+    "brand": "Ригла",
+    "brand:wikidata": "Q4394431",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Ригла",
+    "operator": "Ригла",
+    "website": "https://www.rigla.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9177955019,
+   "lat": 56.334889,
+   "lon": 43.9344497,
+   "tags": {
+    "addr:housenumber": "32",
+    "addr:street": "улица Сергея Есенина",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "phone": "+7 (930) 801-08-21",
+    "website": "https://maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9177955020,
+   "lat": 56.3355561,
+   "lon": 43.934783,
+   "tags": {
+    "addr:housenumber": "27",
+    "addr:street": "улица Сергея Есенина",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Поволжье-фарм",
+    "phone": "+7 (831) 243-62-35",
+    "website": "https://www.biotec.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9177955021,
+   "lat": 56.3346293,
+   "lon": 43.9345537,
+   "tags": {
+    "addr:housenumber": "32",
+    "addr:street": "улица Сергея Есенина",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Госаптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9447141805,
+   "lat": 56.293487,
+   "lon": 44.077052,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Сбер Еаптека",
+    "brand:wikidata": "Q110253378",
+    "contact:email": "info@eapteka.ru",
+    "contact:phone": "+7 800 7007711",
+    "contact:website": "https://www.eapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Сбер Еаптека",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9680623091,
+   "lat": 56.259514,
+   "lon": 44.0115144,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2025-08-06",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9680652240,
+   "lat": 56.3014425,
+   "lon": 43.9837802,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:website": "https://vitaexpress.ru/",
+    "brand:wikidata": "Q109810737",
+    "check_date": "2026-07-04",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9680652243,
+   "lat": 56.2755457,
+   "lon": 44.0516272,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9680652335,
+   "lat": 56.2811281,
+   "lon": 43.9238952,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:website": "https://vitaexpress.ru/",
+    "brand:wikidata": "Q109810737",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9738030999,
+   "lat": 56.2567393,
+   "lon": 43.8525973,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "check_date": "2025-08-14",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9755192624,
+   "lat": 56.2432591,
+   "lon": 43.8489635,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "check_date": "2022-05-19",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9759671429,
+   "lat": 56.2600063,
+   "lon": 43.8549495,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "check_date": "2022-05-21",
+    "healthcare": "pharmacy",
+    "name": "Апрель",
+    "opening_hours": "08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9767275492,
+   "lat": 56.2494912,
+   "lon": 43.8567494,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "check_date": "2022-05-24",
+    "healthcare": "pharmacy",
+    "name": "Апрель"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9767556105,
+   "lat": 56.2524038,
+   "lon": 43.8655905,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Озерки",
+    "brand:wikidata": "Q109712399",
+    "check_date": "2022-05-24",
+    "healthcare": "pharmacy",
+    "name": "Озерки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9783836602,
+   "lat": 56.2317667,
+   "lon": 43.9458653,
+   "tags": {
+    "addr:housenumber": "113",
+    "addr:street": "проспект Гагарина",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa, Su 08:00-20:00",
+    "website": "https://maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9783839402,
+   "lat": 56.2269287,
+   "lon": 43.9477882,
+   "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "улица 40 лет Победы",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa, Su 08:00-20:00",
+    "phone": "+79308010821",
+    "website": "https://maksavit.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9783966090,
+   "lat": 56.2309169,
+   "lon": 43.9465947,
+   "tags": {
+    "addr:housenumber": "222А",
+    "addr:street": "проспект Гагарина",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека.ру",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "website": "https://apteka.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9801761331,
+   "lat": 56.3175736,
+   "lon": 43.9236509,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Алоэ",
+    "brand:wikidata": "Q110253348",
+    "contact:phone": "+7 831 2350775-5610",
+    "contact:website": "https://aloeapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9801761342,
+   "lat": 56.3010748,
+   "lon": 44.0819952,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 831 2350775-5609",
+    "contact:website": "https://aloeapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9821974543,
+   "lat": 56.2488719,
+   "lon": 43.8657452,
+   "tags": {
+    "addr:housenumber": "12",
+    "addr:street": "проспект Октября",
+    "amenity": "pharmacy",
+    "check_date": "2022-06-16",
+    "description": "ИП Третьякова О. А.",
+    "healthcare": "pharmacy",
+    "name": "Аптека",
+    "opening_hours": "08:00-20:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9822068400,
+   "lat": 56.2527774,
+   "lon": 43.8610178,
+   "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Комсомольская улица",
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "check_date": "2022-06-16",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9826061817,
+   "lat": 56.3258604,
+   "lon": 43.8756076,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптечество",
+    "name:en": "Aptechestvo",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "website": "https://aptechestvo.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9826064817,
+   "lat": 56.3258155,
+   "lon": 43.8761696,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Озерки",
+    "name:en": "Ozerki",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "website": "https://ozerki.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9828617613,
+   "lat": 56.3253473,
+   "lon": 43.9147525,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптечество",
+    "opening_hours": "Mo-Su 08:30-20:30"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9866992189,
+   "lat": 56.2852791,
+   "lon": 43.84893,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9866992205,
+   "lat": 56.152246,
+   "lon": 44.205173,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9873797708,
+   "lat": 56.3237209,
+   "lon": 43.9184403,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптечество",
+    "opening_hours": "Mo-Su 08:30-20:30"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9944276759,
+   "lat": 56.2124602,
+   "lon": 43.820582,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Алоэ",
+    "brand:wikidata": "Q110253348",
+    "contact:phone": "+7 831 2350775-5733",
+    "contact:website": "https://aloeapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9969082317,
+   "lat": 56.0024821,
+   "lon": 43.9797907,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9991515364,
+   "lat": 56.3184861,
+   "lon": 43.8680112,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9992518435,
+   "lat": 56.3646932,
+   "lon": 43.8216086,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Центральная",
+    "brand:wikidata": "Q109810737",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Центральная",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9992527843,
+   "lat": 56.2479111,
+   "lon": 43.864385,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru/",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00;Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9992527844,
+   "lat": 56.2469327,
+   "lon": 43.8486296,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru/",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00;Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9992527845,
+   "lat": 56.3550611,
+   "lon": 43.865463,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru/",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9992527846,
+   "lat": 56.233336,
+   "lon": 43.9484453,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Столички",
+    "brand:wikidata": "Q109717665",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru/",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00;Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9992527848,
+   "lat": 56.3167643,
+   "lon": 44.0174156,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru/",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00;Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10047143945,
+   "lat": 56.2365262,
+   "lon": 43.8685101,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru/",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10209834426,
+   "lat": 56.3204981,
+   "lon": 43.9467493,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "10",
+    "addr:street": "улица Фильченкова Героя",
+    "amenity": "pharmacy",
+    "brand": "Вита Центральная",
+    "brand:wikidata": "Q109810737",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Вита Центральная",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10209851745,
+   "lat": 56.2307881,
+   "lon": 43.9464712,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10230933085,
+   "lat": 56.3221444,
+   "lon": 44.0100637,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand:wikidata": "Q110253378",
+    "contact:email": "info@eapteka.ru",
+    "contact:phone": "+7 800 7007711",
+    "contact:website": "https://www.eapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Еаптека",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10230933099,
+   "lat": 56.2433514,
+   "lon": 43.8629767,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand:wikidata": "Q110253378",
+    "contact:email": "info@eapteka.ru",
+    "contact:phone": "+7 800 7007711",
+    "contact:website": "https://www.eapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Еаптека",
+    "opening_hours": "Mo-Fr 09:00-18:30"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10230933100,
+   "lat": 56.3299507,
+   "lon": 43.8467279,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand:wikidata": "Q110253378",
+    "contact:email": "info@eapteka.ru",
+    "contact:phone": "+7 800 7007711",
+    "contact:website": "https://www.eapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Еаптека",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10284211409,
+   "lat": 56.2758379,
+   "lon": 43.9854731,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "АптекаПлюс"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10542075858,
+   "lat": 56.2582803,
+   "lon": 43.85311,
+   "tags": {
+    "addr:floor": ";1",
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "check_date": "2023-01-09",
+    "healthcare": "pharmacy",
+    "level": "0;0",
+    "name": "Максавит",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10709902111,
+   "lat": 56.2896183,
+   "lon": 43.9324766,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "26",
+    "addr:postcode": "603132",
+    "addr:street": "проспект Ленина",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптечество",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10709902119,
+   "lat": 56.2889932,
+   "lon": 43.9330215,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10710052796,
+   "lat": 56.2875902,
+   "lon": 43.9432625,
+   "tags": {
+    "amenity": "pharmacy",
+    "branch": "у дома",
+    "brand": "Озерки",
+    "brand:wikidata": "Q109712399",
+    "healthcare": "pharmacy",
+    "name": "Озерки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10726534626,
+   "lat": 56.2776197,
+   "lon": 43.921314,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "52 плюс"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10726534634,
+   "lat": 56.2722887,
+   "lon": 43.9172375,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10726534639,
+   "lat": 56.2716528,
+   "lon": 43.9168535,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптечество"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10729469739,
+   "lat": 56.2499288,
+   "lon": 43.8519718,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "check_date": "2023-03-12",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "52 плюс",
+    "opening_hours": "08:00-20:00",
+    "website": "https://aptekiplus.ru",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10729853144,
+   "lat": 56.2478479,
+   "lon": 43.8500279,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "brand:wikidata": "Q114060847",
+    "check_date": "2023-03-12",
+    "healthcare": "pharmacy",
+    "name": "Апрель"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10957593979,
+   "lat": 56.2795752,
+   "lon": 43.9393795,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Аптечество",
+    "contact:email": "reception@aptechestvo.ru",
+    "contact:ok": "https://ok.ru/group/57486617870381",
+    "contact:phone": "+7 800 3506034",
+    "contact:vk": "https://vk.com/apteka_aptechestvo",
+    "contact:website": "https://aptechestvo.ru/",
+    "name": "Аптечество",
+    "name:ru": "Аптечество",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10957765829,
+   "lat": 56.3008218,
+   "lon": 43.9511376,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "check_date": "2026-07-04",
+    "level": "0",
+    "name": "Максавит",
+    "name:ru": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10963322239,
+   "lat": 56.3645851,
+   "lon": 43.8063278,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Аптечество",
+    "contact:email": "reception@aptechestvo.ru",
+    "contact:ok": "https://ok.ru/apteka.aptechestvo",
+    "contact:phone": "+7 800 3506034",
+    "contact:vk": "https://vk.com/apteka_aptechestvo",
+    "contact:website": "https://aptechestvo.ru/",
+    "healthcare": "pharmacy",
+    "name": "Аптечество",
+    "name:ru": "Аптечество",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10965124379,
+   "lat": 56.3404924,
+   "lon": 43.8384399,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "contact:phone": "+7 930 8010821",
+    "contact:website": "https://maksavit.ru/",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "name:ru": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10973810765,
+   "lat": 56.0394058,
+   "lon": 44.6117472,
+   "tags": {
+    "addr:housenumber": "7В",
+    "addr:street": "Садовая",
+    "amenity": "pharmacy",
+    "name": "Вита",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10977153542,
+   "lat": 56.2721421,
+   "lon": 44.0456157,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "contact:phone": "+7 930 8010821",
+    "contact:website": "https://maksavit.ru/",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "name:ru": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10977153543,
+   "lat": 56.2722601,
+   "lon": 44.0460978,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Клеверфарм",
+    "contact:phone": "+7 495 7890277",
+    "contact:website": "http://kleverfarm.ru/",
+    "healthcare": "pharmacy",
+    "name": "Клеверфарм",
+    "name:ru": "Клеверфарм"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10992168252,
+   "lat": 56.2811124,
+   "lon": 44.051583,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "2",
+    "addr:postcode": "603136",
+    "addr:street": "улица Маршала Малиновского",
+    "amenity": "pharmacy",
+    "brand": "Прайд",
+    "description": "Прайд Аптека — это 20 000 товаров для здоровья, красоты и широкий выбор редких лекарственных препаратов.",
+    "dispensing": "yes",
+    "email": "info@prideapteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Прайд",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "operator": "ООО «Прайд»",
+    "phone": "+78312340485",
+    "wikidata": "Q121090210"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10992192187,
+   "lat": 56.2753206,
+   "lon": 43.9853079,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "6А",
+    "addr:postcode": "603081",
+    "addr:street": "улица Терешковой",
+    "amenity": "pharmacy",
+    "brand": "Прайд",
+    "brand:wikidata": "Q121090210",
+    "description": "Прайд Аптека — это 20 000 товаров для здоровья, красоты и широкий выбор редких лекарственных препаратов.",
+    "dispensing": "yes",
+    "email": "info@prideapteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Прайд",
+    "opening_hours": "Mo-Su 09:00-20:00",
+    "operator": "ООО «Прайд»",
+    "phone": "+78312155140",
+    "website": "https://prideapteka.ru",
+    "wikidata": "Q121090210"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10992203974,
+   "lat": 56.3145363,
+   "lon": 43.8836385,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "179",
+    "addr:postcode": "603079",
+    "addr:street": "Московское шоссе",
+    "amenity": "pharmacy",
+    "brand": "Прайд",
+    "brand:wikidata": "Q121090210",
+    "description": "Прайд Аптека — это 20 000 товаров для здоровья, красоты и широкий выбор редких лекарственных препаратов.",
+    "dispensing": "yes",
+    "email": "info@prideapteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Прайд",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "operator": "ООО «Прайд»",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:unionpay": "yes",
+    "payment:visa": "yes",
+    "phone": "+78312155141",
+    "website": "https://prideapteka.ru",
+    "wikidata": "Q121090210"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10992211130,
+   "lat": 56.2523933,
+   "lon": 43.8642405,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "2",
+    "addr:postcode": "603043",
+    "addr:street": "Комсомольская улица",
+    "amenity": "pharmacy",
+    "brand": "Прайд",
+    "brand:wikidata": "Q121090210",
+    "description": "Прайд Аптека — это 20 000 товаров для здоровья, красоты и широкий выбор редких лекарственных препаратов.",
+    "dispensing": "yes",
+    "email": "info@prideapteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Прайд",
+    "opening_hours": "Mo-Fr 08:00-21:00 Sa-Su 08:00-20:00",
+    "operator": "ООО «Прайд»",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:unionpay": "yes",
+    "payment:visa": "yes",
+    "phone": "+78312155128",
+    "website": "https://prideapteka.ru",
+    "wikidata": "Q121090210"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11083613186,
+   "lat": 56.363424,
+   "lon": 43.816026,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 965 5896109",
+    "contact:website": "https://melzdrav.ru",
+    "healthcare": "pharmacy",
+    "name": "Эконом",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11250906773,
+   "lat": 56.2838755,
+   "lon": 44.0388285,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "19",
+    "addr:street": "улица Маршала Рокоссовского",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11250906782,
+   "lat": 56.2839462,
+   "lon": 44.0409874,
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "17",
+    "addr:street": "улица Маршала Рокоссовского",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "магнит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11255090658,
+   "lat": 56.3142347,
+   "lon": 43.9374644,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo,We-Su 08:00-21:00; Tu 09:00-18:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11255090672,
+   "lat": 56.3490978,
+   "lon": 43.8543352,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11255090711,
+   "lat": 56.3631229,
+   "lon": 43.815463,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11255091337,
+   "lat": 56.2331697,
+   "lon": 43.8387145,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "level": "1",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11298582388,
+   "lat": 56.3199548,
+   "lon": 43.9477707,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "check_date": "2023-10-29",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Аптека №313",
+    "opening_hours": "09:00-21:00",
+    "operator": "ООО \"Ригла\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 11304340062,
+   "lat": 56.2916867,
+   "lon": 44.0020557,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11304340063,
+   "lat": 56.3369926,
+   "lon": 43.8815392,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11332834533,
+   "lat": 56.2334349,
+   "lon": 43.9488745,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Центральная",
+    "brand:wikidata": "Q109810737",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Центральная",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11414404983,
+   "lat": 56.350528,
+   "lon": 43.868233,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 10:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11414404996,
+   "lat": 56.3304485,
+   "lon": 43.8443209,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11519389906,
+   "lat": 56.2821094,
+   "lon": 44.0846121,
+   "tags": {
+    "addr:city": "Афонино",
+    "addr:housenumber": "5",
+    "addr:street": "Академическая улица",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Здравсити",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "phone": "+7 (910) 879-02-53"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11531389809,
+   "lat": 56.3533513,
+   "lon": 43.8662738,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "brand:wikidata": "Q114060847",
+    "healthcare": "pharmacy",
+    "name": "Апрель"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11594308737,
+   "lat": 56.3603846,
+   "lon": 43.8230853,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11594308743,
+   "lat": 56.3215855,
+   "lon": 44.0195882,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:website": "https://vitaexpress.ru/",
+    "brand:wikidata": "Q109810737",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11594308757,
+   "lat": 56.3057571,
+   "lon": 43.9366645,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Fr 12:00-21:00; Mo-Th 08:00-21:00; Sa 08:00-20:00; Su 08:00-19:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11622426286,
+   "lat": 56.263183,
+   "lon": 43.8955259,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11622426289,
+   "lat": 56.3428078,
+   "lon": 43.9297342,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11662549191,
+   "lat": 56.3200098,
+   "lon": 44.0510922,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Здравсити",
+    "opening_hours": "Mo-Su,PH 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11663017288,
+   "lat": 56.3087329,
+   "lon": 44.0261705,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптечество",
+    "opening_hours": "PH,Mo-Su 00:00-24:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11681958250,
+   "lat": 56.3203801,
+   "lon": 43.9983634,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11694152219,
+   "lat": 56.3194492,
+   "lon": 44.0548799,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Apteka.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11711164969,
+   "lat": 56.2727804,
+   "lon": 44.0528777,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "максавит",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11727781279,
+   "lat": 56.3265153,
+   "lon": 44.0140543,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Солнечное здоровье"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11727803176,
+   "lat": 56.3255814,
+   "lon": 44.0130209,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "41",
+    "addr:street": "улица Пискунова",
+    "amenity": "pharmacy",
+    "check_date": "2024-06-08",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Farmani",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11748515536,
+   "lat": 56.2772478,
+   "lon": 43.9346404,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Солнечное здоровье"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11775271869,
+   "lat": 56.3110253,
+   "lon": 43.9974814,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Солнечное здоровье"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11775273519,
+   "lat": 56.3149115,
+   "lon": 44.0130403,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11782521427,
+   "lat": 56.2646614,
+   "lon": 43.8935325,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Вита Экспресс",
+    "brand:wikidata": "Q109810737",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru/",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "name:en": "Vita Express",
+    "name:ru": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11782521444,
+   "lat": 56.3133235,
+   "lon": 43.892098,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11923066279,
+   "lat": 56.3116719,
+   "lon": 44.0241868,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Tu,Su 09:00-20:00; We-Sa 10:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11925884430,
+   "lat": 56.3382395,
+   "lon": 43.9284344,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11975265596,
+   "lat": 56.1464528,
+   "lon": 44.1795841,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11975265598,
+   "lat": 56.281533,
+   "lon": 43.9242555,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11978532303,
+   "lat": 56.3284438,
+   "lon": 44.0133126,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Госаптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12009729370,
+   "lat": 56.3158323,
+   "lon": 44.0512556,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12009735467,
+   "lat": 56.3188339,
+   "lon": 44.054875,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12011891651,
+   "lat": 56.2946285,
+   "lon": 44.026901,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12023073720,
+   "lat": 56.3152559,
+   "lon": 43.9996462,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12029574972,
+   "lat": 56.2576247,
+   "lon": 43.8573041,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "check_date": "2024-07-02",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12029574974,
+   "lat": 56.2576652,
+   "lon": 43.8571445,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "check_date": "2024-07-02",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "farmani",
+    "opening_hours": "24/7",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12029579076,
+   "lat": 56.2583752,
+   "lon": 43.8569412,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "brand:wikidata": "Q114060847",
+    "check_date": "2024-07-02",
+    "healthcare": "pharmacy",
+    "name": "Апрель",
+    "opening_hours": "08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12032934711,
+   "lat": 56.1480882,
+   "lon": 44.1991557,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12059192901,
+   "lat": 56.2277288,
+   "lon": 43.8615654,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Sa 09:00-18:00; Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096707498,
+   "lat": 56.2900293,
+   "lon": 43.9483842,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12187026597,
+   "lat": 56.2461607,
+   "lon": 44.0419458,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Farmani",
+    "name": "Farmani",
+    "opening_hours": "10:00-22:00",
+    "operator": "ООО \"Аптека 24\"",
+    "operator:ref:inn": "5249123031",
+    "ref": "876"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12215957481,
+   "lat": 56.3483917,
+   "lon": 43.8670479,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12215957483,
+   "lat": 56.2840432,
+   "lon": 43.9293754,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12215957485,
+   "lat": 56.1409662,
+   "lon": 44.1884043,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12215957488,
+   "lat": 56.3589771,
+   "lon": 43.8581139,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12229432117,
+   "lat": 56.3251481,
+   "lon": 44.0059325,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Мелодия здоровья",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12238410162,
+   "lat": 56.3051953,
+   "lon": 43.9936973,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12238410172,
+   "lat": 56.2874277,
+   "lon": 43.9864393,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12238410175,
+   "lat": 56.2556833,
+   "lon": 43.8592399,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12374316343,
+   "lat": 56.2664521,
+   "lon": 43.9112562,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12374316344,
+   "lat": 56.2656741,
+   "lon": 43.9117799,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12395371072,
+   "lat": 56.2669538,
+   "lon": 43.9765077,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12395371077,
+   "lat": 56.2957805,
+   "lon": 44.0777133,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12411852883,
+   "lat": 56.3069289,
+   "lon": 43.9992539,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12411852888,
+   "lat": 56.3666728,
+   "lon": 43.7951764,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12411852896,
+   "lat": 56.2918468,
+   "lon": 44.0030996,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 7550003",
+    "contact:website": "https://vitaexpress.ru",
+    "healthcare": "pharmacy",
+    "name": "Вита Экспресс",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12473780519,
+   "lat": 56.2838869,
+   "lon": 43.9405015,
+   "tags": {
+    "amenity": "pharmacy",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Здравсити",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "8-800-500-92-62",
+    "website": "https://zdravcity.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12497910198,
+   "lat": 56.3061705,
+   "lon": 43.9355761,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12497910200,
+   "lat": 56.3165789,
+   "lon": 43.9410644,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12504087149,
+   "lat": 56.2356016,
+   "lon": 43.8343103,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand:wikidata": "Q126737043",
+    "name": "Максавит",
+    "opening_hours": "08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12868268287,
+   "lat": 56.3323043,
+   "lon": 43.9444147,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmani"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13003837482,
+   "lat": 56.2942286,
+   "lon": 43.935273,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13003837497,
+   "lat": 56.1454554,
+   "lon": 44.2052132,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13003841918,
+   "lat": 56.3651892,
+   "lon": 43.8221132,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "office@neo-pharm.ru",
+    "contact:phone": "+7 831 2613939",
+    "contact:website": "https://stolichki.ru",
+    "healthcare": "pharmacy",
+    "name": "Столички",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13016797901,
+   "lat": 56.2964506,
+   "lon": 44.0434738,
+   "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Советская площадь",
+    "amenity": "pharmacy",
+    "name": "Ригла"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13052742736,
+   "lat": 56.2595292,
+   "lon": 44.0116085,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "check_date": "2025-08-06",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13119412730,
+   "lat": 56.3070306,
+   "lon": 43.9977824,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "check_date": "2025-09-04",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Максавит",
+    "opening_hours": "08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13122833267,
+   "lat": 56.2627108,
+   "lon": 44.0156038,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2025-09-06",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13131370781,
+   "lat": 56.3020445,
+   "lon": 43.9761428,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "brand:wikidata": "Q126737043",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13197185814,
+   "lat": 56.2096195,
+   "lon": 44.0263892,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13658451737,
+   "lat": 56.3036017,
+   "lon": 43.8457105,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13658451738,
+   "lat": 56.3051403,
+   "lon": 43.8445482,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптечество"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13885164201,
+   "lat": 56.3188624,
+   "lon": 44.0269175,
+   "tags": {
+    "addr:housenumber": "93А",
+    "addr:street": "улица Белинского",
+    "amenity": "pharmacy",
+    "check_date": "2026-05-26",
+    "check_date:opening_hours": "2026-05-26",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14138080201,
+   "lat": 56.310574,
+   "lon": 43.9246884,
+   "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Костромской переулок",
+    "amenity": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14159614503,
+   "lat": 56.3020877,
+   "lon": 43.9239838,
+   "tags": {
+    "addr:housenumber": "9",
+    "addr:street": "Комсомольское шоссе",
+    "amenity": "pharmacy",
+    "name": "Здрав сити"
+   }
+  },
+  {
+   "type": "way",
+   "id": 107143199,
+   "center": {
+    "lat": 56.2334196,
+    "lon": 43.9475334
+   },
+   "tags": {
+    "amenity": "pharmacy",
+    "building": "yes",
+    "building:colour": "gray",
+    "building:levels": "1",
+    "healthcare": "pharmacy",
+    "roof:colour": "black"
+   }
+  },
+  {
+   "type": "way",
+   "id": 124196272,
+   "center": {
+    "lat": 56.2903401,
+    "lon": 43.9153257
+   },
+   "tags": {
+    "addr:housenumber": "8А",
+    "addr:postcode": "603034",
+    "addr:street": "Кировская улица",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "building:levels": "2",
+    "healthcare": "pharmacy",
+    "operator": "Farmani"
+   }
+  },
+  {
+   "type": "way",
+   "id": 171747187,
+   "center": {
+    "lat": 56.2620266,
+    "lon": 43.8820819
+   },
+   "tags": {
+    "amenity": "pharmacy",
+    "building": "yes",
+    "building:levels": "1",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "way",
+   "id": 190606231,
+   "center": {
+    "lat": 56.2892637,
+    "lon": 43.9402068
+   },
+   "tags": {
+    "addr:city": "Нижний Новгород",
+    "addr:housenumber": "2Б",
+    "addr:postcode": "603132",
+    "addr:street": "улица Академика Баха",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "building:levels": "1",
+    "healthcare": "pharmacy",
+    "name": "Farmani",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 237474677,
+   "center": {
+    "lat": 56.2377945,
+    "lon": 43.9631431
+   },
+   "tags": {
+    "addr:housenumber": "1А",
+    "addr:street": "площадь Маршала Жукова",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "Ладушка"
+   }
+  },
+  {
+   "type": "way",
+   "id": 372312722,
+   "center": {
+    "lat": 56.1885672,
+    "lon": 43.9426884
+   },
+   "tags": {
+    "addr:housenumber": "76",
+    "addr:street": "Больничная улица",
+    "amenity": "pharmacy",
+    "building": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 486403489,
+   "center": {
+    "lat": 56.3391231,
+    "lon": 44.1217719
+   },
+   "tags": {
+    "addr:city": "Бор",
+    "addr:housenumber": "101",
+    "addr:street": "улица Тургенева",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "name": "Аптека"
+   }
+  },
+  {
+   "type": "relation",
+   "id": 2283465,
+   "center": {
+    "lat": 56.2425167,
+    "lon": 43.8568133
+   },
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "brand:wikidata": "Q126737043",
+    "building:levels": "1",
+    "building:part": "yes",
+    "check_date": "2026-07-05",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "08:00-21:00",
+    "operator": "ООО \"Витамакс НН\"",
+    "type": "multipolygon",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "relation",
+   "id": 2843583,
+   "center": {
+    "lat": 56.321677,
+    "lon": 43.9477474
+   },
+   "tags": {
+    "amenity": "pharmacy",
+    "building:levels": "5",
+    "building:part": "yes",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "type": "multipolygon"
+   }
+  },
+  {
+   "type": "relation",
+   "id": 13017255,
+   "center": {
+    "lat": 56.2592326,
+    "lon": 43.856813
+   },
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Ригла",
+    "brand:wikidata": "Q4394431",
+    "brand:wikipedia": "ru:Ригла",
+    "check_date": "2022-07-19",
+    "contact:email": "info@rigla.ru",
+    "contact:facebook": "https://www.facebook.com/rigla.ru",
+    "contact:instagram": "https://www.instagram.com/rigla.ru",
+    "contact:ok": "https://ok.ru/rigla.ru",
+    "contact:vk": "https://vk.com/rigla_ru",
+    "contact:website": "https://www.rigla.ru",
+    "contact:youtube": "https://www.youtube.com/user/RiglaVideo",
+    "healthcare": "pharmacy",
+    "indoor": "room",
+    "level": "0",
+    "name": "Ригла",
+    "name:ru": "Ригла",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "type": "multipolygon"
+   }
+  }
+ ]
+}

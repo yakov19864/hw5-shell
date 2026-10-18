@@ -1,0 +1,8210 @@
+{
+ "version": 0.6,
+ "generator": "Geofabrik extract russia/ural-fed-district, отобрано по запросу из поля query",
+ "osm3s": {
+  "timestamp_osm_base": "2026-10-02T20:21:34Z",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+ },
+ "query": "[out:json][timeout:90];\nnwr[\"amenity\"=\"kindergarten\"](56.59,60.00,56.99,60.95);\nout center tags;",
+ "elements": [
+  {
+   "type": "node",
+   "id": 696310086,
+   "lat": 56.8168637,
+   "lon": 60.6106286,
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1201718714,
+   "lat": 56.8423488,
+   "lon": 60.647409,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад № 201 «Согласие»",
+    "ref": "201"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1382943345,
+   "lat": 56.8510668,
+   "lon": 60.5966726,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Ясли"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1487547100,
+   "lat": 56.7942477,
+   "lon": 60.6101334,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "ОЦ Вавилон"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2317863049,
+   "lat": 56.7922203,
+   "lon": 60.5141244,
+   "tags": {
+    "amenity": "kindergarten",
+    "kindergarten": "mini",
+    "name": "Джунгли"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2338820495,
+   "lat": 56.7879075,
+   "lon": 60.530034,
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:phone": "+73433280098",
+    "name": "Карамель"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2425314921,
+   "lat": 56.7804882,
+   "lon": 60.8764217,
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2429117809,
+   "lat": 56.7840263,
+   "lon": 60.5443459,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Разноцветные ладошки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2429117817,
+   "lat": 56.7832625,
+   "lon": 60.5457636,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Антошка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2443989571,
+   "lat": 56.8670248,
+   "lon": 60.5840851,
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2467369697,
+   "lat": 56.8643671,
+   "lon": 60.6353569,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Мурзилка",
+    "phone": "+73432118080"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2467372995,
+   "lat": 56.8634762,
+   "lon": 60.6238729,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Клубника",
+    "phone": "+79043890822",
+    "website": "http://www.clubnika-deti.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2636790117,
+   "lat": 56.86488,
+   "lon": 60.6341895,
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:website": "http://www.ekb2.deti-talento.ru/",
+    "name": "Talento"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2854342102,
+   "lat": 56.8642375,
+   "lon": 60.6363997,
+   "tags": {
+    "amenity": "kindergarten",
+    "fixme": "это детская школа развития",
+    "name": "Сёма"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3223927864,
+   "lat": 56.8823849,
+   "lon": 60.6944448,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад № 108 \"Рябинка\"",
+    "ref": "108",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "https://108.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3337664797,
+   "lat": 56.8224741,
+   "lon": 60.5436649,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Маленький вундеркинд",
+    "phone": "+79028773581"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3403762489,
+   "lat": 56.7944398,
+   "lon": 60.5184813,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Rio"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3414793023,
+   "lat": 56.855156,
+   "lon": 60.6572882,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Растём вместе",
+    "website": "https://minisad.narod.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3467060832,
+   "lat": 56.7938881,
+   "lon": 60.5076828,
+   "tags": {
+    "addr2:housenumber": "31",
+    "addr2:street": "улица Рябинина",
+    "addr:city": "Екатеринбург",
+    "addr:country": "RU",
+    "addr:housenumber": "60",
+    "addr:postcode": "620149",
+    "addr:street": "улица Павла Шаманова",
+    "amenity": "kindergarten",
+    "name": "Жемчужинка",
+    "opening_hours": "Mo-Th 07:30-19:00, Sa-Su 10:00-19:00",
+    "phone": "+7 (953) 600-44-24"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3487086417,
+   "lat": 56.8593452,
+   "lon": 60.6394881,
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:email": "lisicaorange@mail.ru",
+    "name": "ясли Лисинята"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3487112158,
+   "lat": 56.8930835,
+   "lon": 60.5959395,
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:email": "lisicaorange@mail.ru",
+    "name": "ясли Лисинята"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3775272936,
+   "lat": 56.853376,
+   "lon": 60.5806285,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад №126"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3947179502,
+   "lat": 56.8914073,
+   "lon": 60.6070059,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Карапуз"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3947179503,
+   "lat": 56.8915515,
+   "lon": 60.6065692,
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4037634868,
+   "lat": 56.8914764,
+   "lon": 60.6067966,
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4217320819,
+   "lat": 56.695419,
+   "lon": 60.7940291,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Семицветик"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4373451909,
+   "lat": 56.7691236,
+   "lon": 60.5999325,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад № 566"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4490202155,
+   "lat": 56.8274177,
+   "lon": 60.5512874,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Вавилон"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4683162109,
+   "lat": 56.7948782,
+   "lon": 60.5173951,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Академика"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4833918561,
+   "lat": 56.7945042,
+   "lon": 60.5165597,
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:email": "koelga@sky.ru",
+    "contact:phone": "+79122311215",
+    "contact:website": "http://koelga.wixsite.com/sadikmid",
+    "name": "Мальчишки и девчонки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4941044089,
+   "lat": 56.8252984,
+   "lon": 60.6227806,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад № 239 «Золотое Яблоко»",
+    "ref": "239"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4986187726,
+   "lat": 56.86549,
+   "lon": 60.6396332,
+   "tags": {
+    "addr:housenumber": "6А",
+    "addr:street": "улица Вилонова",
+    "amenity": "kindergarten",
+    "fixme": "не детский сад а секции спортивные и для маленьких детей кружки и занятия",
+    "name": "Академия талантов",
+    "name:en": "Talent Academy",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-18:00",
+    "phone": "+73433790720",
+    "website": "https://atalents.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4986187729,
+   "lat": 56.8658764,
+   "lon": 60.640524,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Маленькая страна"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5028878929,
+   "lat": 56.870069,
+   "lon": 60.0300775,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Начальная школа-детский сад №14",
+    "name:en": "Начальная школа-детский сад №14",
+    "name:ru": "Начальная школа-детский сад №14"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5115667982,
+   "lat": 56.8007928,
+   "lon": 60.5966421,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Десятое королевство"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5115667983,
+   "lat": 56.7965823,
+   "lon": 60.588124,
+   "tags": {
+    "amenity": "kindergarten",
+    "noname": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5241200480,
+   "lat": 56.7815018,
+   "lon": 60.6721902,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Капризульки. Мини-садик"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5569772213,
+   "lat": 56.849027,
+   "lon": 60.6472102,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Сад чудес"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6486066386,
+   "lat": 56.6199573,
+   "lon": 60.892517,
+   "tags": {
+    "addr:city": "Шайдурово",
+    "addr:housenumber": "12",
+    "addr:postcode": "624005",
+    "addr:street": "улица Строителей",
+    "amenity": "kindergarten",
+    "name": "Колосок, детский сад №13",
+    "opening_hours": "Mo-Fr 07:00-17:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6503511475,
+   "lat": 56.8097933,
+   "lon": 60.51425,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Чудо-Центр",
+    "phone": "+73432195979"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6593167239,
+   "lat": 56.8013688,
+   "lon": 60.4949579,
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6797892185,
+   "lat": 56.8594392,
+   "lon": 60.6386756,
+   "tags": {
+    "addr:postcode": "620137",
+    "amenity": "kindergarten",
+    "name": "Академия талантов",
+    "name:en": "Talent academy",
+    "opening_hours": "Mo-Fr 08:30-20:00; Sa-Su 10:00-18:00",
+    "phone": "+7 343 379-07-20",
+    "website": "https://atalents.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6897407109,
+   "lat": 56.850315,
+   "lon": 60.1315108,
+   "tags": {
+    "addr:city": "Новоалексеевское",
+    "addr:housenumber": "1А",
+    "addr:street": "Школьная улица",
+    "amenity": "kindergarten",
+    "email": "detsad84p@yandex.ru",
+    "name": "Филиал МАДОУ \"Детский сад № 37\" - \"Детский сад № 84\"",
+    "phone": "+7 (3439) 29-97-88",
+    "website": "http://37mdou.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6918355085,
+   "lat": 56.7816133,
+   "lon": 60.653278,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Тёма",
+    "name:ru": "Детсад частный \"Тёма\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 7744329344,
+   "lat": 56.7686703,
+   "lon": 60.5994272,
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:email": "sadplaneta@mail.ru",
+    "contact:instagram": "https://instagram.com/sadplanetaekb",
+    "contact:ok": "https://ok.ru/group51573520007307",
+    "contact:phone": "+7 343 2020191;+7 900 1994030;+7 982 6268988",
+    "contact:vk": "https://vk.com/planetasha",
+    "contact:website": "https://detsadplaneta.ru/",
+    "name": "Планета счастья",
+    "office": "company",
+    "opening_hours": "Mo-Fr 08:00-19:00",
+    "operator": "Планета счастья",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7760308570,
+   "lat": 56.888069,
+   "lon": 60.604767,
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:email": "nataly_borkova@mail.ru",
+    "contact:phone": "+7 908 6398899",
+    "contact:vk": "https://vk.com/chastie2018",
+    "contact:website": "https://sadikhappy.2gis.biz/",
+    "name": "Садик счастья",
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "operator": "Садик счастья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7761558524,
+   "lat": 56.9759099,
+   "lon": 60.5699595,
+   "tags": {
+    "amenity": "kindergarten",
+    "email": "alenushka.detsad.34@mail.ru",
+    "name": "Алёнушка",
+    "number": "34",
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "phone": "+73436877473",
+    "website": "https://vpds34.ucoz.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7821051703,
+   "lat": 56.8288421,
+   "lon": 60.5300225,
+   "tags": {
+    "amenity": "kindergarten",
+    "check_date": "2026-01-24",
+    "name": "Чудо-Центр"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7908070990,
+   "lat": 56.8002362,
+   "lon": 60.5872916,
+   "tags": {
+    "amenity": "kindergarten",
+    "description": "Домашний мини детский сад",
+    "name": "Акварелька",
+    "opening_hours": "Mo-Fr 07:45-19:00",
+    "phone": "+79068040320"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8521166031,
+   "lat": 56.8278065,
+   "lon": 60.5939233,
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:email": "kapelka_slog@mail.ru",
+    "contact:phone": "+7 904 9830526",
+    "contact:website": "https://www.kapelka-sad.ru/",
+    "name": "АРТ-Капелька",
+    "opening_hours": "Mo-Fr 08:00-19:00",
+    "operator": "Кузнецова Н.В."
+   }
+  },
+  {
+   "type": "node",
+   "id": 8521166072,
+   "lat": 56.7844788,
+   "lon": 60.543133,
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:instagram": "https://instagram.com/kids96.ru",
+    "contact:phone": "+7 912 2726742",
+    "contact:vk": "https://vk.com/kids96",
+    "contact:website": "https://kids-96.ru/",
+    "name": "KIDS96",
+    "opening_hours": "Mo-Fr 07:30-19:00",
+    "operator": "KIDS96"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8521166083,
+   "lat": 56.787403,
+   "lon": 60.533182,
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:email": "ego-summ-lex@yandex.ru",
+    "contact:instagram": "https://instagram.com/akademromashka",
+    "contact:phone": "+7 906 8014890",
+    "contact:website": "https://romashka-sad.gorpom.ru/",
+    "name": "Ромашка",
+    "opening_hours": "Mo-Fr 07:30-19:30",
+    "operator": "Ромашка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9214401522,
+   "lat": 56.7909454,
+   "lon": 60.5028252,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Веселая радуга"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9702278653,
+   "lat": 56.9799156,
+   "lon": 60.5480429,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Интеллект"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9702279146,
+   "lat": 56.988385,
+   "lon": 60.5480993,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Семь Восемь"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9702279152,
+   "lat": 56.989561,
+   "lon": 60.5478551,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Алешка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9702279153,
+   "lat": 56.9762804,
+   "lon": 60.5723663,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Галчонок"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9702279156,
+   "lat": 56.9840903,
+   "lon": 60.5666735,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "МАО ДО ДЮЦ \"Алые паруса\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 9702279157,
+   "lat": 56.9861824,
+   "lon": 60.5561196,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Услуги репетиторов, курсы иностранных языков"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9702279176,
+   "lat": 56.9724647,
+   "lon": 60.5789829,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Капитошка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9872248219,
+   "lat": 56.8943118,
+   "lon": 60.6132753,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Две ладошки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10242081070,
+   "lat": 56.83489,
+   "lon": 60.5664314,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Дом радости"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10242081071,
+   "lat": 56.8349398,
+   "lon": 60.5647711,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Дом радости"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11123964405,
+   "lat": 56.8934836,
+   "lon": 60.63053,
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11279467234,
+   "lat": 56.8162716,
+   "lon": 60.6350298,
+   "tags": {
+    "amenity": "kindergarten",
+    "education": "kindergarten",
+    "education_level:preschool": "yes",
+    "education_profile:general": "yes",
+    "education_system:ru_standard": "yes",
+    "entrance": "yes",
+    "name": "Многоточие",
+    "official_name": "Многоточие"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11799235284,
+   "lat": 56.8265066,
+   "lon": 60.412551,
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12500045955,
+   "lat": 56.7631916,
+   "lon": 60.6111053,
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Совята",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 35401144,
+   "center": {
+    "lat": 56.7920222,
+    "lon": 60.579336
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 26 «Лесовичок»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 35401145,
+   "center": {
+    "lat": 56.7934096,
+    "lon": 60.5811253
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №46"
+   }
+  },
+  {
+   "type": "way",
+   "id": 35678230,
+   "center": {
+    "lat": 56.8062557,
+    "lon": 60.545333
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 553 «Журавушка»",
+    "ref": "553"
+   }
+  },
+  {
+   "type": "way",
+   "id": 39832750,
+   "center": {
+    "lat": 56.8402284,
+    "lon": 60.641125
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №99",
+    "ref": "99",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "https://99.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 39856931,
+   "center": {
+    "lat": 56.8411386,
+    "lon": 60.643101
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №276",
+    "ref": "276",
+    "source": "https://carousel.dropbox.com/photos/cc/UCcVi3N1BC4JdVI",
+    "website": "http://dou276.caduk.ru"
+   }
+  },
+  {
+   "type": "way",
+   "id": 40498774,
+   "center": {
+    "lat": 56.9713782,
+    "lon": 60.5688228
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 28"
+   }
+  },
+  {
+   "type": "way",
+   "id": 41122380,
+   "center": {
+    "lat": 56.8082998,
+    "lon": 60.5474473
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 160"
+   }
+  },
+  {
+   "type": "way",
+   "id": 41814949,
+   "center": {
+    "lat": 56.805297,
+    "lon": 60.5557336
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 496",
+    "ref": "496"
+   }
+  },
+  {
+   "type": "way",
+   "id": 42453530,
+   "center": {
+    "lat": 56.7996896,
+    "lon": 60.5572001
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №195"
+   }
+  },
+  {
+   "type": "way",
+   "id": 48760363,
+   "center": {
+    "lat": 56.8296106,
+    "lon": 60.5378998
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 13"
+   }
+  },
+  {
+   "type": "way",
+   "id": 48760817,
+   "center": {
+    "lat": 56.8292929,
+    "lon": 60.5408031
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "capacity": "330",
+    "landuse": "education",
+    "max_age": "7",
+    "min_age": "1.5",
+    "name": "Детский сад №24",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "phone": "+7 343 231-52-52",
+    "preschool": "yes",
+    "website": "detsadik24.ru"
+   }
+  },
+  {
+   "type": "way",
+   "id": 49049485,
+   "center": {
+    "lat": 56.7580067,
+    "lon": 60.8128379
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад № 60"
+   }
+  },
+  {
+   "type": "way",
+   "id": 49242497,
+   "center": {
+    "lat": 56.7997683,
+    "lon": 60.6283184
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 49358094,
+   "center": {
+    "lat": 56.8501282,
+    "lon": 60.6312489
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 520",
+    "ref": "520"
+   }
+  },
+  {
+   "type": "way",
+   "id": 50073482,
+   "center": {
+    "lat": 56.8391188,
+    "lon": 60.6312626
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:phone": "+73433506262",
+    "contact:website": "www.dou441.ru",
+    "landuse": "education",
+    "name": "Детский сад № 441",
+    "ref": "441"
+   }
+  },
+  {
+   "type": "way",
+   "id": 50449492,
+   "center": {
+    "lat": 56.8530495,
+    "lon": 60.6530862
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 51543297,
+   "center": {
+    "lat": 56.8235059,
+    "lon": 60.6226916
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "education": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 585 \"Швабе-Эврика\"",
+    "opening_hours": "Mo-Fr 07:30-19:30",
+    "operator": "Уральский оптико-механический завод им. Э.С. Яламова",
+    "operator:type": "corporation",
+    "phone": "+7 343 251-39-65",
+    "website": "https://585schev.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 53059441,
+   "center": {
+    "lat": 56.9771895,
+    "lon": 60.5549907
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 3"
+   }
+  },
+  {
+   "type": "way",
+   "id": 53277513,
+   "center": {
+    "lat": 56.8318585,
+    "lon": 60.6310998
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 166 «Гнёздышко»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 53278222,
+   "center": {
+    "lat": 56.8347354,
+    "lon": 60.630539
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 363",
+    "ref": "363"
+   }
+  },
+  {
+   "type": "way",
+   "id": 53796845,
+   "center": {
+    "lat": 56.8996321,
+    "lon": 60.6023296
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №406"
+   }
+  },
+  {
+   "type": "way",
+   "id": 53796846,
+   "center": {
+    "lat": 56.8983418,
+    "lon": 60.6060521
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №411"
+   }
+  },
+  {
+   "type": "way",
+   "id": 55226788,
+   "center": {
+    "lat": 56.9051655,
+    "lon": 60.5935993
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "check_date": "2023-05-21",
+    "landuse": "education",
+    "name": "Детский сад №10"
+   }
+  },
+  {
+   "type": "way",
+   "id": 55228327,
+   "center": {
+    "lat": 56.9019502,
+    "lon": 60.6004021
+   },
+   "tags": {
+    "addr:postcode": "620042",
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "email": "mdou165@eduekb.ru",
+    "landuse": "education",
+    "name": "Детский сад №165",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "phone": "+7 343 3253308",
+    "website": "https://165.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 55881243,
+   "center": {
+    "lat": 56.8127737,
+    "lon": 60.6100404
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 55"
+   }
+  },
+  {
+   "type": "way",
+   "id": 60363998,
+   "center": {
+    "lat": 56.811871,
+    "lon": 60.6260956
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 49"
+   }
+  },
+  {
+   "type": "way",
+   "id": 60451950,
+   "center": {
+    "lat": 56.8629614,
+    "lon": 60.6259729
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "description": "Детский сад №106 (от Школы №145)",
+    "landuse": "education",
+    "name": "Детский сад №106",
+    "phone": "+73433415862",
+    "ref": "106",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "http://detsad106.ru/glav.html"
+   }
+  },
+  {
+   "type": "way",
+   "id": 60726704,
+   "center": {
+    "lat": 56.8253225,
+    "lon": 60.6769182
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "check_date": "2023-08-10",
+    "fence_type": "chain_link",
+    "height": "1.5",
+    "landuse": "education",
+    "name": "Детский сад № 308 Жемчужинка"
+   }
+  },
+  {
+   "type": "way",
+   "id": 60726705,
+   "center": {
+    "lat": 56.8261457,
+    "lon": 60.6767659
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "check_date": "2023-08-10",
+    "fence_type": "chain_link",
+    "height": "1.5",
+    "landuse": "education",
+    "name": "Детский сад № 62"
+   }
+  },
+  {
+   "type": "way",
+   "id": 60863701,
+   "center": {
+    "lat": 56.8103251,
+    "lon": 60.5990051
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 43"
+   }
+  },
+  {
+   "type": "way",
+   "id": 60863703,
+   "center": {
+    "lat": 56.8097205,
+    "lon": 60.6023476
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 451"
+   }
+  },
+  {
+   "type": "way",
+   "id": 60863704,
+   "center": {
+    "lat": 56.8097042,
+    "lon": 60.6034401
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 366, центр развития ребёнка"
+   }
+  },
+  {
+   "type": "way",
+   "id": 60911893,
+   "center": {
+    "lat": 56.8365082,
+    "lon": 60.6722532
+   },
+   "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "7А",
+    "addr:postcode": "620072",
+    "addr:street": "улица Новгородцевой",
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №535",
+    "preschool": "no"
+   }
+  },
+  {
+   "type": "way",
+   "id": 60911894,
+   "center": {
+    "lat": 56.8363612,
+    "lon": 60.6773336
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "description": "детский сад комбинированного вида",
+    "landuse": "education",
+    "name": "Детский сад № 102",
+    "preschool": "yes",
+    "ref": "102",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "https://102.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 60975228,
+   "center": {
+    "lat": 56.8418862,
+    "lon": 60.61569
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 61026059,
+   "center": {
+    "lat": 56.8391285,
+    "lon": 60.6720823
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 103 Родники",
+    "ref": "103",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "https://103.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 61026066,
+   "center": {
+    "lat": 56.8402282,
+    "lon": 60.6736614
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 361",
+    "ref": "361",
+    "website": "http://ds361.caduk.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 61026097,
+   "center": {
+    "lat": 56.8279345,
+    "lon": 60.6862553
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "description": "детский сад комбинированного вида",
+    "landuse": "education",
+    "name": "Детский сад № 144",
+    "ref": "144",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "https://144.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 61026103,
+   "center": {
+    "lat": 56.83319,
+    "lon": 60.6783211
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "check_date": "2023-05-25",
+    "landuse": "education",
+    "name": "Детский сад № 41"
+   }
+  },
+  {
+   "type": "way",
+   "id": 61046279,
+   "center": {
+    "lat": 56.8394996,
+    "lon": 60.6759816
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 389",
+    "ref": "389",
+    "website": "https://389.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 61160968,
+   "center": {
+    "lat": 56.7907558,
+    "lon": 60.6324136
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 586 \"Остров детства\"",
+    "phone": "+7 343 218-11-33",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 61160974,
+   "center": {
+    "lat": 56.7917166,
+    "lon": 60.6332719
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 587",
+    "phone": "+7 343 218-02-74",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 63063196,
+   "center": {
+    "lat": 56.8461243,
+    "lon": 60.6167738
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 345",
+    "ref": "345",
+    "website": "https://345.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 63673596,
+   "center": {
+    "lat": 56.8327182,
+    "lon": 60.6912952
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 453 «Радуга детства»",
+    "ref": "453",
+    "website": "https://453.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 63690106,
+   "center": {
+    "lat": 56.9856501,
+    "lon": 60.4701934
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад \"Незабудка\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 63708943,
+   "center": {
+    "lat": 56.9895035,
+    "lon": 60.4764732
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад № 18"
+   }
+  },
+  {
+   "type": "way",
+   "id": 63719064,
+   "center": {
+    "lat": 56.9882751,
+    "lon": 60.4654535
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №3"
+   }
+  },
+  {
+   "type": "way",
+   "id": 63719069,
+   "center": {
+    "lat": 56.9878511,
+    "lon": 60.4665466
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №3 (Колокольчик)"
+   }
+  },
+  {
+   "type": "way",
+   "id": 63793796,
+   "center": {
+    "lat": 56.9805886,
+    "lon": 60.4736955
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад \"Золотой петушок\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 63794313,
+   "center": {
+    "lat": 56.9827107,
+    "lon": 60.4740248
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад \"Теремок\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 64648274,
+   "center": {
+    "lat": 56.9880218,
+    "lon": 60.4644338
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №3"
+   }
+  },
+  {
+   "type": "way",
+   "id": 65479106,
+   "center": {
+    "lat": 56.8186567,
+    "lon": 60.5899227
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 66667613,
+   "center": {
+    "lat": 56.9781696,
+    "lon": 60.5606479
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад \"Чебурашка\"",
+    "name:etymology:wikidata": "Q161731",
+    "name:ru": "Детский сад \"Чебурашка\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 67325316,
+   "center": {
+    "lat": 56.90839,
+    "lon": 60.5981405
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детские сады №492, 495"
+   }
+  },
+  {
+   "type": "way",
+   "id": 67325340,
+   "center": {
+    "lat": 56.904978,
+    "lon": 60.6032838
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №22"
+   }
+  },
+  {
+   "type": "way",
+   "id": 67325343,
+   "center": {
+    "lat": 56.9054855,
+    "lon": 60.6019086
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №319"
+   }
+  },
+  {
+   "type": "way",
+   "id": 67325354,
+   "center": {
+    "lat": 56.9103629,
+    "lon": 60.5969402
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №2"
+   }
+  },
+  {
+   "type": "way",
+   "id": 67325356,
+   "center": {
+    "lat": 56.9105594,
+    "lon": 60.6018308
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №569"
+   }
+  },
+  {
+   "type": "way",
+   "id": 67344782,
+   "center": {
+    "lat": 56.8320807,
+    "lon": 60.6873255
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "description": "это садик компенсирующего вида для детей с нарушением зрения",
+    "landuse": "education",
+    "name": "Детский сад № 101",
+    "ref": "101",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "http://dou101.caduk.ru"
+   }
+  },
+  {
+   "type": "way",
+   "id": 67485669,
+   "center": {
+    "lat": 56.910312,
+    "lon": 60.609623
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №339"
+   }
+  },
+  {
+   "type": "way",
+   "id": 67516793,
+   "center": {
+    "lat": 56.8367906,
+    "lon": 60.6832668
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 583",
+    "ref": "583",
+    "website": "https://583.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 68519579,
+   "center": {
+    "lat": 56.8409144,
+    "lon": 60.6877818
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 266",
+    "ref": "266",
+    "source": "https://carousel.dropbox.com/photos/cc/sCGazBBWIr0Ryx5",
+    "website": "https://266.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 68519583,
+   "center": {
+    "lat": 56.8408107,
+    "lon": 60.6856779
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Гимназия «Ор-Авнер»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 68520088,
+   "center": {
+    "lat": 56.8387345,
+    "lon": 60.6823708
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 145",
+    "ref": "145",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "https://145.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 69215996,
+   "center": {
+    "lat": 56.8400386,
+    "lon": 60.6815758
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 416",
+    "ref": "416",
+    "website": "https://416.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 69258039,
+   "center": {
+    "lat": 56.8452091,
+    "lon": 60.6256377
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 376",
+    "ref": "376",
+    "website": "https://376.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 69258043,
+   "center": {
+    "lat": 56.8452013,
+    "lon": 60.622039
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "fence_type": "wire",
+    "landuse": "education",
+    "name": "Детский сад № 113",
+    "ref": "113",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "https://113.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 69906410,
+   "center": {
+    "lat": 56.8647283,
+    "lon": 60.6375975
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №180",
+    "phone": "+73433602383",
+    "ref": "180",
+    "source": "https://www.dropbox.com/s/rryfbast5jnwel3/2015-02-12%2012.33.58.jpg?dl=0",
+    "website": "https://180.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 70368521,
+   "center": {
+    "lat": 56.8193668,
+    "lon": 60.5615308
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 541"
+   }
+  },
+  {
+   "type": "way",
+   "id": 71075910,
+   "center": {
+    "lat": 56.8207582,
+    "lon": 60.5891098
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 71132864,
+   "center": {
+    "lat": 56.816744,
+    "lon": 60.5592349
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 534 «НПО Автоматики»",
+    "ref": "534"
+   }
+  },
+  {
+   "type": "way",
+   "id": 71157483,
+   "center": {
+    "lat": 56.8201885,
+    "lon": 60.5641765
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад, ясли"
+   }
+  },
+  {
+   "type": "way",
+   "id": 71506937,
+   "center": {
+    "lat": 56.7988602,
+    "lon": 60.624127
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 584"
+   }
+  },
+  {
+   "type": "way",
+   "id": 71737800,
+   "center": {
+    "lat": 56.7991257,
+    "lon": 60.6266823
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 48"
+   }
+  },
+  {
+   "type": "way",
+   "id": 71783812,
+   "center": {
+    "lat": 56.7992826,
+    "lon": 60.6337162
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад"
+   }
+  },
+  {
+   "type": "way",
+   "id": 71918428,
+   "center": {
+    "lat": 56.8131256,
+    "lon": 60.564618
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "material": "metal"
+   }
+  },
+  {
+   "type": "way",
+   "id": 75502328,
+   "center": {
+    "lat": 56.8489874,
+    "lon": 60.6031185
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 121"
+   }
+  },
+  {
+   "type": "way",
+   "id": 76370660,
+   "center": {
+    "lat": 56.8563146,
+    "lon": 60.5689712
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №152 «Аистенок»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 76518212,
+   "center": {
+    "lat": 56.8551576,
+    "lon": 60.566838
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 248"
+   }
+  },
+  {
+   "type": "way",
+   "id": 76564153,
+   "center": {
+    "lat": 56.9791243,
+    "lon": 60.5485594
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 77032336,
+   "center": {
+    "lat": 56.8183645,
+    "lon": 60.5701153
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 559",
+    "ref": "559"
+   }
+  },
+  {
+   "type": "way",
+   "id": 77148668,
+   "center": {
+    "lat": 56.6360181,
+    "lon": 60.5806419
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 77384225,
+   "center": {
+    "lat": 56.9050295,
+    "lon": 60.6198694
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №499"
+   }
+  },
+  {
+   "type": "way",
+   "id": 77466909,
+   "center": {
+    "lat": 56.7029879,
+    "lon": 60.8458703
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №3"
+   }
+  },
+  {
+   "type": "way",
+   "id": 77764246,
+   "center": {
+    "lat": 56.806214,
+    "lon": 60.6224556
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 77791765,
+   "center": {
+    "lat": 56.9097745,
+    "lon": 60.6097855
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №387"
+   }
+  },
+  {
+   "type": "way",
+   "id": 77937183,
+   "center": {
+    "lat": 56.9831353,
+    "lon": 60.5620496
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад № 42 \"Дюймовочка\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 79377504,
+   "center": {
+    "lat": 56.8590839,
+    "lon": 60.6369567
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 517",
+    "website": "http://detstvo-budet.ru"
+   }
+  },
+  {
+   "type": "way",
+   "id": 79378917,
+   "center": {
+    "lat": 56.8587591,
+    "lon": 60.6390873
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 124"
+   }
+  },
+  {
+   "type": "way",
+   "id": 79490042,
+   "center": {
+    "lat": 56.8213392,
+    "lon": 60.6302746
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Центр развития ребёнка «Дошколёнок»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 80118861,
+   "center": {
+    "lat": 56.8280401,
+    "lon": 60.640523
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 75"
+   }
+  },
+  {
+   "type": "way",
+   "id": 80516058,
+   "center": {
+    "lat": 56.8403367,
+    "lon": 60.5917007
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 582"
+   }
+  },
+  {
+   "type": "way",
+   "id": 80616395,
+   "center": {
+    "lat": 56.8311247,
+    "lon": 60.691698
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 469",
+    "ref": "469",
+    "website": "https://469.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 80618381,
+   "center": {
+    "lat": 56.8362525,
+    "lon": 60.6869951
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 208",
+    "preschool": "yes",
+    "ref": "208",
+    "website": "https://208.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 80940916,
+   "center": {
+    "lat": 56.8323494,
+    "lon": 60.5581953
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 143"
+   }
+  },
+  {
+   "type": "way",
+   "id": 80962203,
+   "center": {
+    "lat": 56.8533204,
+    "lon": 60.6114743
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №146"
+   }
+  },
+  {
+   "type": "way",
+   "id": 85248476,
+   "center": {
+    "lat": 56.7436639,
+    "lon": 60.6141946
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 275"
+   }
+  },
+  {
+   "type": "way",
+   "id": 85645570,
+   "center": {
+    "lat": 56.9052721,
+    "lon": 60.6102644
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №420"
+   }
+  },
+  {
+   "type": "way",
+   "id": 85816660,
+   "center": {
+    "lat": 56.8194393,
+    "lon": 60.6304418
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 564 «Филипок»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 85958692,
+   "center": {
+    "lat": 56.8261179,
+    "lon": 60.6501126
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 63"
+   }
+  },
+  {
+   "type": "way",
+   "id": 86058369,
+   "center": {
+    "lat": 56.909143,
+    "lon": 60.6098415
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №377"
+   }
+  },
+  {
+   "type": "way",
+   "id": 86096255,
+   "center": {
+    "lat": 56.9103592,
+    "lon": 60.6173156
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №317"
+   }
+  },
+  {
+   "type": "way",
+   "id": 86216214,
+   "center": {
+    "lat": 56.906093,
+    "lon": 60.6194787
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №140"
+   }
+  },
+  {
+   "type": "way",
+   "id": 86411656,
+   "center": {
+    "lat": 56.9036098,
+    "lon": 60.6160149
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №475"
+   }
+  },
+  {
+   "type": "way",
+   "id": 86411669,
+   "center": {
+    "lat": 56.9029882,
+    "lon": 60.6156236
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 461"
+   }
+  },
+  {
+   "type": "way",
+   "id": 86995875,
+   "center": {
+    "lat": 56.9750576,
+    "lon": 60.5748035
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "check_date": "2026-07-02",
+    "name": "Детский сад № 22 «Радуга»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 87021553,
+   "center": {
+    "lat": 56.8631856,
+    "lon": 60.6365144
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 322",
+    "ref": "322",
+    "source": "https://carousel.dropbox.com/photos/cc/L1mG2ce2YNTUZ3k",
+    "website": "https://322.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 88292052,
+   "center": {
+    "lat": 56.891245,
+    "lon": 60.6172742
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №86"
+   }
+  },
+  {
+   "type": "way",
+   "id": 88798867,
+   "center": {
+    "lat": 56.870719,
+    "lon": 60.542687
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 89014188,
+   "center": {
+    "lat": 56.8190215,
+    "lon": 60.5747815
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 462"
+   }
+  },
+  {
+   "type": "way",
+   "id": 89014190,
+   "center": {
+    "lat": 56.817903,
+    "lon": 60.5692633
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 485",
+    "ref": "485"
+   }
+  },
+  {
+   "type": "way",
+   "id": 89014193,
+   "center": {
+    "lat": 56.8191553,
+    "lon": 60.5734436
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 302"
+   }
+  },
+  {
+   "type": "way",
+   "id": 91381799,
+   "center": {
+    "lat": 56.7934015,
+    "lon": 60.6132894
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №223"
+   }
+  },
+  {
+   "type": "way",
+   "id": 91662722,
+   "center": {
+    "lat": 56.9748369,
+    "lon": 60.5629908
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №28 «Серебряное копытце»",
+    "ref": "28"
+   }
+  },
+  {
+   "type": "way",
+   "id": 91900623,
+   "center": {
+    "lat": 56.8033791,
+    "lon": 60.573414
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 561"
+   }
+  },
+  {
+   "type": "way",
+   "id": 93202532,
+   "center": {
+    "lat": 56.912953,
+    "lon": 60.8290215
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence"
+   }
+  },
+  {
+   "type": "way",
+   "id": 94335034,
+   "center": {
+    "lat": 56.9090401,
+    "lon": 60.8047234
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад № 41 \"Семицветик\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 94697671,
+   "center": {
+    "lat": 56.7905432,
+    "lon": 60.5207823
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 38",
+    "ref": "38"
+   }
+  },
+  {
+   "type": "way",
+   "id": 94997263,
+   "center": {
+    "lat": 56.982678,
+    "lon": 60.550271
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад №29"
+   }
+  },
+  {
+   "type": "way",
+   "id": 95069447,
+   "center": {
+    "lat": 56.7741214,
+    "lon": 60.5954609
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 546"
+   }
+  },
+  {
+   "type": "way",
+   "id": 95190998,
+   "center": {
+    "lat": 56.8218759,
+    "lon": 60.6342042
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №558"
+   }
+  },
+  {
+   "type": "way",
+   "id": 97870418,
+   "center": {
+    "lat": 56.8926206,
+    "lon": 60.5859157
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 371"
+   }
+  },
+  {
+   "type": "way",
+   "id": 98229220,
+   "center": {
+    "lat": 56.8904438,
+    "lon": 60.5847218
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 399"
+   }
+  },
+  {
+   "type": "way",
+   "id": 98229236,
+   "center": {
+    "lat": 56.8931577,
+    "lon": 60.58344
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 318"
+   }
+  },
+  {
+   "type": "way",
+   "id": 100002277,
+   "center": {
+    "lat": 56.7136679,
+    "lon": 60.915053
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence"
+   }
+  },
+  {
+   "type": "way",
+   "id": 100838134,
+   "center": {
+    "lat": 56.904955,
+    "lon": 60.8159419
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №12"
+   }
+  },
+  {
+   "type": "way",
+   "id": 100992952,
+   "center": {
+    "lat": 56.9026796,
+    "lon": 60.8211316
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №9"
+   }
+  },
+  {
+   "type": "way",
+   "id": 100992954,
+   "center": {
+    "lat": 56.9085275,
+    "lon": 60.8173258
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 100992958,
+   "center": {
+    "lat": 56.9114254,
+    "lon": 60.8217536
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №35"
+   }
+  },
+  {
+   "type": "way",
+   "id": 101069645,
+   "center": {
+    "lat": 56.8897009,
+    "lon": 60.5865051
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 432",
+    "ref": "432"
+   }
+  },
+  {
+   "type": "way",
+   "id": 101211432,
+   "center": {
+    "lat": 56.8876561,
+    "lon": 60.617277
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №120"
+   }
+  },
+  {
+   "type": "way",
+   "id": 101370871,
+   "center": {
+    "lat": 56.9086346,
+    "lon": 60.8216441
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №22"
+   }
+  },
+  {
+   "type": "way",
+   "id": 101371285,
+   "center": {
+    "lat": 56.9103567,
+    "lon": 60.8282263
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №39"
+   }
+  },
+  {
+   "type": "way",
+   "id": 101476385,
+   "center": {
+    "lat": 56.9066256,
+    "lon": 60.6025707
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №244"
+   }
+  },
+  {
+   "type": "way",
+   "id": 102197047,
+   "center": {
+    "lat": 56.8875079,
+    "lon": 60.5823003
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 158"
+   }
+  },
+  {
+   "type": "way",
+   "id": 102197087,
+   "center": {
+    "lat": 56.8886324,
+    "lon": 60.5814077
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 516"
+   }
+  },
+  {
+   "type": "way",
+   "id": 102521232,
+   "center": {
+    "lat": 56.8495305,
+    "lon": 60.6305282
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №550 Академия успеха",
+    "ref": "550",
+    "website": "http://sad550.ru"
+   }
+  },
+  {
+   "type": "way",
+   "id": 102589593,
+   "center": {
+    "lat": 56.8900596,
+    "lon": 60.5952628
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 215"
+   }
+  },
+  {
+   "type": "way",
+   "id": 102944088,
+   "center": {
+    "lat": 56.8317051,
+    "lon": 60.5494415
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 249",
+    "ref": "249"
+   }
+  },
+  {
+   "type": "way",
+   "id": 103233124,
+   "center": {
+    "lat": 56.8594851,
+    "lon": 60.632849
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "wall",
+    "landuse": "education",
+    "material": "metal",
+    "name": "Детский сад Акадеша",
+    "phone": "+73432900770",
+    "website": "http://акадеша.рф"
+   }
+  },
+  {
+   "type": "way",
+   "id": 107274918,
+   "center": {
+    "lat": 56.8952788,
+    "lon": 60.6359434
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №446"
+   }
+  },
+  {
+   "type": "way",
+   "id": 107274922,
+   "center": {
+    "lat": 56.8993928,
+    "lon": 60.6480171
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №164"
+   }
+  },
+  {
+   "type": "way",
+   "id": 107274923,
+   "center": {
+    "lat": 56.8998206,
+    "lon": 60.6488088
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №76"
+   }
+  },
+  {
+   "type": "way",
+   "id": 107274924,
+   "center": {
+    "lat": 56.8983801,
+    "lon": 60.646083
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №554"
+   }
+  },
+  {
+   "type": "way",
+   "id": 107279750,
+   "center": {
+    "lat": 56.8977919,
+    "lon": 60.637792
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №151"
+   }
+  },
+  {
+   "type": "way",
+   "id": 107337820,
+   "center": {
+    "lat": 56.9007139,
+    "lon": 60.6305266
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "fence_type": "metal",
+    "landuse": "education",
+    "name": "Детский сад №576"
+   }
+  },
+  {
+   "type": "way",
+   "id": 108907051,
+   "center": {
+    "lat": 56.8038824,
+    "lon": 60.5721453
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 29"
+   }
+  },
+  {
+   "type": "way",
+   "id": 111510643,
+   "center": {
+    "lat": 56.8632666,
+    "lon": 60.6407733
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 536 «Сказка»",
+    "ref": "536",
+    "website": "https://536.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 111571546,
+   "center": {
+    "lat": 56.8535759,
+    "lon": 60.5857608
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 125"
+   }
+  },
+  {
+   "type": "way",
+   "id": 111664137,
+   "center": {
+    "lat": 56.7802016,
+    "lon": 60.6409162
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "education": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №47"
+   }
+  },
+  {
+   "type": "way",
+   "id": 112307188,
+   "center": {
+    "lat": 56.8629854,
+    "lon": 60.6464946
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 588",
+    "ref": "588",
+    "website": "https://588.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 112601272,
+   "center": {
+    "lat": 56.8090755,
+    "lon": 60.5971407
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 222"
+   }
+  },
+  {
+   "type": "way",
+   "id": 113220525,
+   "center": {
+    "lat": 56.808062,
+    "lon": 60.7133216
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 113796510,
+   "center": {
+    "lat": 56.8760229,
+    "lon": 60.7345319
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад № 219",
+    "ref": "219",
+    "source": "https://www.dropbox.com/s/rryfbast5jnwel3/2015-02-12%2012.33.58.jpg?dl=0",
+    "website": "https://219.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 114252604,
+   "center": {
+    "lat": 56.9008247,
+    "lon": 60.6462932
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №310"
+   }
+  },
+  {
+   "type": "way",
+   "id": 114507958,
+   "center": {
+    "lat": 56.752122,
+    "lon": 60.7026714
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 201 «Светлячок»",
+    "phone": "+7 343 258-27-30",
+    "preschool": "yes",
+    "ref": "201"
+   }
+  },
+  {
+   "type": "way",
+   "id": 114649176,
+   "center": {
+    "lat": 56.8120879,
+    "lon": 60.6048979
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 73"
+   }
+  },
+  {
+   "type": "way",
+   "id": 115602162,
+   "center": {
+    "lat": 56.8118863,
+    "lon": 60.564644
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 115",
+    "ref": "115"
+   }
+  },
+  {
+   "type": "way",
+   "id": 116003980,
+   "center": {
+    "lat": 56.6871069,
+    "lon": 60.5205835
+   },
+   "tags": {
+    "addr:city": "Горный щит",
+    "addr:country": "RU",
+    "addr:district": "городской округ Екатеринбург",
+    "addr:housenumber": "51",
+    "addr:postcode": "620902",
+    "addr:street": "улица Титова",
+    "amenity": "kindergarten",
+    "building": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 116508362,
+   "center": {
+    "lat": 56.7988953,
+    "lon": 60.4841081
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад-ясли № 8"
+   }
+  },
+  {
+   "type": "way",
+   "id": 116683837,
+   "center": {
+    "lat": 56.8280273,
+    "lon": 60.6444412
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 479"
+   }
+  },
+  {
+   "type": "way",
+   "id": 116803483,
+   "center": {
+    "lat": 56.8400525,
+    "lon": 60.5865292
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 9"
+   }
+  },
+  {
+   "type": "way",
+   "id": 117025133,
+   "center": {
+    "lat": 56.8660282,
+    "lon": 60.5365624
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 245"
+   }
+  },
+  {
+   "type": "way",
+   "id": 117025137,
+   "center": {
+    "lat": 56.8709899,
+    "lon": 60.5339025
+   },
+   "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "3",
+    "addr:postcode": "620050",
+    "addr:street": "Таватуйская улица",
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 131 АО \"РЖД\"",
+    "operator": "АО \"РЖД\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 117099088,
+   "center": {
+    "lat": 56.8875036,
+    "lon": 60.5094775
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 46"
+   }
+  },
+  {
+   "type": "way",
+   "id": 117099107,
+   "center": {
+    "lat": 56.8838508,
+    "lon": 60.5195843
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 132"
+   }
+  },
+  {
+   "type": "way",
+   "id": 117602445,
+   "center": {
+    "lat": 56.7814556,
+    "lon": 60.6772083
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 250"
+   }
+  },
+  {
+   "type": "way",
+   "id": 118908058,
+   "center": {
+    "lat": 56.8191649,
+    "lon": 60.5448465
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №348"
+   }
+  },
+  {
+   "type": "way",
+   "id": 118908076,
+   "center": {
+    "lat": 56.819037,
+    "lon": 60.5416594
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 580"
+   }
+  },
+  {
+   "type": "way",
+   "id": 119745125,
+   "center": {
+    "lat": 56.8637162,
+    "lon": 60.5438497
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 179"
+   }
+  },
+  {
+   "type": "way",
+   "id": 119956913,
+   "center": {
+    "lat": 56.898314,
+    "lon": 60.6192827
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №274"
+   }
+  },
+  {
+   "type": "way",
+   "id": 119956946,
+   "center": {
+    "lat": 56.8989944,
+    "lon": 60.618493
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 551"
+   }
+  },
+  {
+   "type": "way",
+   "id": 120267350,
+   "center": {
+    "lat": 56.7896743,
+    "lon": 60.6194704
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 326"
+   }
+  },
+  {
+   "type": "way",
+   "id": 120325263,
+   "center": {
+    "lat": 56.8313003,
+    "lon": 60.6870413
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 313"
+   }
+  },
+  {
+   "type": "way",
+   "id": 121549796,
+   "center": {
+    "lat": 56.8291077,
+    "lon": 60.6124833
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 42"
+   }
+  },
+  {
+   "type": "way",
+   "id": 121552701,
+   "center": {
+    "lat": 56.9023852,
+    "lon": 60.8168625
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №4"
+   }
+  },
+  {
+   "type": "way",
+   "id": 121552713,
+   "center": {
+    "lat": 56.9042132,
+    "lon": 60.7205661
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 122214275,
+   "center": {
+    "lat": 56.815795,
+    "lon": 60.5974554
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 386 «Знайка»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 123910640,
+   "center": {
+    "lat": 56.9675885,
+    "lon": 60.6077179
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад № 17"
+   }
+  },
+  {
+   "type": "way",
+   "id": 123910642,
+   "center": {
+    "lat": 56.9643148,
+    "lon": 60.6088597
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "check_date": "2026-07-02",
+    "name": "Детский сад № 26"
+   }
+  },
+  {
+   "type": "way",
+   "id": 123910644,
+   "center": {
+    "lat": 56.966956,
+    "lon": 60.6083838
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "check_date": "2026-07-02",
+    "name": "Детский сад № 40"
+   }
+  },
+  {
+   "type": "way",
+   "id": 124698722,
+   "center": {
+    "lat": 56.8939717,
+    "lon": 60.6292597
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №436"
+   }
+  },
+  {
+   "type": "way",
+   "id": 124701810,
+   "center": {
+    "lat": 56.9035378,
+    "lon": 60.6311376
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 252"
+   }
+  },
+  {
+   "type": "way",
+   "id": 124701811,
+   "center": {
+    "lat": 56.9011842,
+    "lon": 60.6319477
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №168"
+   }
+  },
+  {
+   "type": "way",
+   "id": 124701812,
+   "center": {
+    "lat": 56.8987741,
+    "lon": 60.6349786
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №440"
+   }
+  },
+  {
+   "type": "way",
+   "id": 124701813,
+   "center": {
+    "lat": 56.8981428,
+    "lon": 60.6260011
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №477"
+   }
+  },
+  {
+   "type": "way",
+   "id": 124701817,
+   "center": {
+    "lat": 56.8980623,
+    "lon": 60.6363815
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №500"
+   }
+  },
+  {
+   "type": "way",
+   "id": 124796276,
+   "center": {
+    "lat": 56.8561879,
+    "lon": 60.6575121
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 352",
+    "ref": "352",
+    "website": "https://352.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 126748851,
+   "center": {
+    "lat": 56.8455395,
+    "lon": 60.575869
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 272"
+   }
+  },
+  {
+   "type": "way",
+   "id": 127409761,
+   "center": {
+    "lat": 56.8380322,
+    "lon": 60.5704444
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 562",
+    "ref": "562"
+   }
+  },
+  {
+   "type": "way",
+   "id": 127712552,
+   "center": {
+    "lat": 56.8370238,
+    "lon": 60.5690286
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 368"
+   }
+  },
+  {
+   "type": "way",
+   "id": 128524339,
+   "center": {
+    "lat": 56.8614745,
+    "lon": 60.6577387
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 468",
+    "ref": "468",
+    "website": "http://sad468.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 129081056,
+   "center": {
+    "lat": 56.8543832,
+    "lon": 60.6308092
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 501",
+    "ref": "501",
+    "website": "https://501.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 129081057,
+   "center": {
+    "lat": 56.8539141,
+    "lon": 60.6262923
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 450",
+    "ref": "450",
+    "website": "https://450.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 130178674,
+   "center": {
+    "lat": 56.8616668,
+    "lon": 60.6277749
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №104 \"Звезда\"",
+    "ref": "104",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "https://104.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 131469242,
+   "center": {
+    "lat": 56.8848112,
+    "lon": 60.6162152
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №396"
+   }
+  },
+  {
+   "type": "way",
+   "id": 131469249,
+   "center": {
+    "lat": 56.8848933,
+    "lon": 60.6180133
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №523"
+   }
+  },
+  {
+   "type": "way",
+   "id": 131649714,
+   "center": {
+    "lat": 56.8323575,
+    "lon": 60.5366111
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "check_date": "2026-09-28",
+    "landuse": "education",
+    "name": "Детский сад №532"
+   }
+  },
+  {
+   "type": "way",
+   "id": 131652356,
+   "center": {
+    "lat": 56.8006002,
+    "lon": 60.6348125
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №544"
+   }
+  },
+  {
+   "type": "way",
+   "id": 132196457,
+   "center": {
+    "lat": 56.77463,
+    "lon": 60.6029149
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 132196458,
+   "center": {
+    "lat": 56.7760598,
+    "lon": 60.6011978
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №464"
+   }
+  },
+  {
+   "type": "way",
+   "id": 132867123,
+   "center": {
+    "lat": 56.8500652,
+    "lon": 60.5611281
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 18"
+   }
+  },
+  {
+   "type": "way",
+   "id": 132867124,
+   "center": {
+    "lat": 56.8485101,
+    "lon": 60.5615941
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 123"
+   }
+  },
+  {
+   "type": "way",
+   "id": 134111513,
+   "center": {
+    "lat": 56.8463262,
+    "lon": 60.5804791
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 199 Созидание"
+   }
+  },
+  {
+   "type": "way",
+   "id": 134626871,
+   "center": {
+    "lat": 56.8045259,
+    "lon": 60.5116883
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 134860907,
+   "center": {
+    "lat": 56.8290432,
+    "lon": 60.5565624
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 511",
+    "ref": "511"
+   }
+  },
+  {
+   "type": "way",
+   "id": 134994003,
+   "center": {
+    "lat": 56.8431089,
+    "lon": 60.6611597
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 109",
+    "ref": "109",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "https://109.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 135718344,
+   "center": {
+    "lat": 56.8200438,
+    "lon": 60.5844676
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 444"
+   }
+  },
+  {
+   "type": "way",
+   "id": 136065463,
+   "center": {
+    "lat": 56.7179074,
+    "lon": 60.7945003
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №58 \"Петушок\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 136192537,
+   "center": {
+    "lat": 56.8746007,
+    "lon": 60.5107185
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 131"
+   }
+  },
+  {
+   "type": "way",
+   "id": 136978693,
+   "center": {
+    "lat": 56.8957135,
+    "lon": 60.6349444
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 137068924,
+   "center": {
+    "lat": 56.8991118,
+    "lon": 60.6316183
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 137288855,
+   "center": {
+    "lat": 56.9045955,
+    "lon": 60.6391258
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский дом № 3"
+   }
+  },
+  {
+   "type": "way",
+   "id": 137368986,
+   "center": {
+    "lat": 56.8559994,
+    "lon": 60.6361885
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 137369002,
+   "center": {
+    "lat": 56.8579029,
+    "lon": 60.6332649
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад 563",
+    "website": "https://563.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 137369039,
+   "center": {
+    "lat": 56.8596567,
+    "lon": 60.6250573
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 100",
+    "ref": "100",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "https://100.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 137369092,
+   "center": {
+    "lat": 56.8556855,
+    "lon": 60.6259398
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 230",
+    "ref": "230",
+    "source": "https://www.dropbox.com/s/rryfbast5jnwel3/2015-02-12%2012.33.58.jpg?dl=0",
+    "website": "https://230.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 139433159,
+   "center": {
+    "lat": 56.9077208,
+    "lon": 60.5938142
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №538"
+   }
+  },
+  {
+   "type": "way",
+   "id": 145171956,
+   "center": {
+    "lat": 56.7222131,
+    "lon": 60.7787178
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 37 \"Чебурашка\"",
+    "name:etymology:wikidata": "Q161731"
+   }
+  },
+  {
+   "type": "way",
+   "id": 145171957,
+   "center": {
+    "lat": 56.7306056,
+    "lon": 60.7310276
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 8 \"Колосок\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 146638974,
+   "center": {
+    "lat": 56.9045179,
+    "lon": 60.5927676
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "check_date": "2023-05-21",
+    "landuse": "education",
+    "name": "Детский сад №134"
+   }
+  },
+  {
+   "type": "way",
+   "id": 146955751,
+   "center": {
+    "lat": 56.890036,
+    "lon": 60.585568
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад"
+   }
+  },
+  {
+   "type": "way",
+   "id": 148024592,
+   "center": {
+    "lat": 56.8972646,
+    "lon": 60.745045
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 36",
+    "ref": "36"
+   }
+  },
+  {
+   "type": "way",
+   "id": 148074285,
+   "center": {
+    "lat": 56.7139351,
+    "lon": 60.7722121
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад № 39\"Малышок\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 148534129,
+   "center": {
+    "lat": 56.7613042,
+    "lon": 60.5622073
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Согласие"
+   }
+  },
+  {
+   "type": "way",
+   "id": 148918277,
+   "center": {
+    "lat": 56.7710548,
+    "lon": 60.3797381
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 149702538,
+   "center": {
+    "lat": 56.7663477,
+    "lon": 60.5467278
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 568"
+   }
+  },
+  {
+   "type": "way",
+   "id": 149704348,
+   "center": {
+    "lat": 56.7597742,
+    "lon": 60.6032956
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 463"
+   }
+  },
+  {
+   "type": "way",
+   "id": 149704349,
+   "center": {
+    "lat": 56.7574141,
+    "lon": 60.6084115
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 528"
+   }
+  },
+  {
+   "type": "way",
+   "id": 149704361,
+   "center": {
+    "lat": 56.7615447,
+    "lon": 60.6102047
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 131"
+   }
+  },
+  {
+   "type": "way",
+   "id": 149705775,
+   "center": {
+    "lat": 56.7785003,
+    "lon": 60.6007834
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 121"
+   }
+  },
+  {
+   "type": "way",
+   "id": 149719418,
+   "center": {
+    "lat": 56.7896491,
+    "lon": 60.5228001
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 23 «Маленькая страна»",
+    "ref": "23"
+   }
+  },
+  {
+   "type": "way",
+   "id": 150915605,
+   "center": {
+    "lat": 56.8509897,
+    "lon": 60.565686
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 25"
+   }
+  },
+  {
+   "type": "way",
+   "id": 150915609,
+   "center": {
+    "lat": 56.8553218,
+    "lon": 60.5630902
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 286"
+   }
+  },
+  {
+   "type": "way",
+   "id": 150915611,
+   "center": {
+    "lat": 56.8530971,
+    "lon": 60.5662081
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 283"
+   }
+  },
+  {
+   "type": "way",
+   "id": 151208755,
+   "center": {
+    "lat": 56.8585507,
+    "lon": 60.6419584
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 533",
+    "ref": "533",
+    "website": "https://533.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 152191342,
+   "center": {
+    "lat": 56.696434,
+    "lon": 60.0842449
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад № 16"
+   }
+  },
+  {
+   "type": "way",
+   "id": 152194622,
+   "center": {
+    "lat": 56.6907451,
+    "lon": 60.0885683
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад № 11"
+   }
+  },
+  {
+   "type": "way",
+   "id": 152194623,
+   "center": {
+    "lat": 56.700959,
+    "lon": 60.0857587
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад № 20"
+   }
+  },
+  {
+   "type": "way",
+   "id": 152194624,
+   "center": {
+    "lat": 56.6987238,
+    "lon": 60.1107375
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад № 24"
+   }
+  },
+  {
+   "type": "way",
+   "id": 152194625,
+   "center": {
+    "lat": 56.7039677,
+    "lon": 60.0837282
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад № 38"
+   }
+  },
+  {
+   "type": "way",
+   "id": 152194626,
+   "center": {
+    "lat": 56.6931012,
+    "lon": 60.0851805
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "check_date": "2023-07-02",
+    "landuse": "grass",
+    "name": "Детский сад № 49"
+   }
+  },
+  {
+   "type": "way",
+   "id": 152243189,
+   "center": {
+    "lat": 56.9086837,
+    "lon": 60.5899835
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №232"
+   }
+  },
+  {
+   "type": "way",
+   "id": 152243990,
+   "center": {
+    "lat": 56.9105385,
+    "lon": 60.5853403
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 153658965,
+   "center": {
+    "lat": 56.9040201,
+    "lon": 60.5904412
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 154298235,
+   "center": {
+    "lat": 56.7718237,
+    "lon": 60.5838527
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "wall",
+    "landuse": "education",
+    "name": "Детский сад №329"
+   }
+  },
+  {
+   "type": "way",
+   "id": 157103573,
+   "center": {
+    "lat": 56.8076494,
+    "lon": 60.7147739
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 158179063,
+   "center": {
+    "lat": 56.8908165,
+    "lon": 60.6095298
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 428",
+    "ref": "428"
+   }
+  },
+  {
+   "type": "way",
+   "id": 158179066,
+   "center": {
+    "lat": 56.8896013,
+    "lon": 60.6049235
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "check_date": "2023-05-11",
+    "landuse": "education",
+    "name": "Детский сад № 478",
+    "ref": "478"
+   }
+  },
+  {
+   "type": "way",
+   "id": 158179086,
+   "center": {
+    "lat": 56.8891952,
+    "lon": 60.6104745
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "fence_type": "grate",
+    "height": "2",
+    "landuse": "education",
+    "name": "Детский сад"
+   }
+  },
+  {
+   "type": "way",
+   "id": 158440251,
+   "center": {
+    "lat": 56.8171871,
+    "lon": 60.5796714
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 518"
+   }
+  },
+  {
+   "type": "way",
+   "id": 159138276,
+   "center": {
+    "lat": 56.7814456,
+    "lon": 60.7382366
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №177 \"Улыбка\"",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 159148481,
+   "center": {
+    "lat": 56.7697055,
+    "lon": 60.8186713
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад №193 \"Радуга\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 159295065,
+   "center": {
+    "lat": 56.8653391,
+    "lon": 60.6551822
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 459",
+    "ref": "459",
+    "website": "https://459.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 160324802,
+   "center": {
+    "lat": 56.8344445,
+    "lon": 60.5494513
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 5",
+    "ref": "5"
+   }
+  },
+  {
+   "type": "way",
+   "id": 160495525,
+   "center": {
+    "lat": 56.8856631,
+    "lon": 60.5033914
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 312"
+   }
+  },
+  {
+   "type": "way",
+   "id": 160495530,
+   "center": {
+    "lat": 56.8830399,
+    "lon": 60.5029081
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 51"
+   }
+  },
+  {
+   "type": "way",
+   "id": 161011856,
+   "center": {
+    "lat": 56.7965705,
+    "lon": 60.59291
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №342"
+   }
+  },
+  {
+   "type": "way",
+   "id": 161011857,
+   "center": {
+    "lat": 56.7995107,
+    "lon": 60.5875125
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 54"
+   }
+  },
+  {
+   "type": "way",
+   "id": 161011858,
+   "center": {
+    "lat": 56.7975883,
+    "lon": 60.5885947
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №71"
+   }
+  },
+  {
+   "type": "way",
+   "id": 161033714,
+   "center": {
+    "lat": 56.8553857,
+    "lon": 60.6445146
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 68"
+   }
+  },
+  {
+   "type": "way",
+   "id": 162180614,
+   "center": {
+    "lat": 56.9846641,
+    "lon": 60.5526587
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Дет­ский сад №11, Пе­ту­шок"
+   }
+  },
+  {
+   "type": "way",
+   "id": 162180735,
+   "center": {
+    "lat": 56.9869159,
+    "lon": 60.5551095
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 163042198,
+   "center": {
+    "lat": 56.7733507,
+    "lon": 60.6032388
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 247"
+   }
+  },
+  {
+   "type": "way",
+   "id": 163420648,
+   "center": {
+    "lat": 56.8532131,
+    "lon": 60.5584168
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 163918776,
+   "center": {
+    "lat": 56.8725948,
+    "lon": 60.5562976
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 85"
+   }
+  },
+  {
+   "type": "way",
+   "id": 163918914,
+   "center": {
+    "lat": 56.8654159,
+    "lon": 60.5577101
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 196"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164040003,
+   "center": {
+    "lat": 56.8204699,
+    "lon": 60.5806355
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 413"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164370972,
+   "center": {
+    "lat": 56.8706726,
+    "lon": 60.5594147
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 116"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164370973,
+   "center": {
+    "lat": 56.869048,
+    "lon": 60.5617286
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 117"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164370974,
+   "center": {
+    "lat": 56.8713561,
+    "lon": 60.552533
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 80"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164370975,
+   "center": {
+    "lat": 56.8675923,
+    "lon": 60.5616938
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 94"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164573295,
+   "center": {
+    "lat": 56.7996154,
+    "lon": 60.5692971
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164573296,
+   "center": {
+    "lat": 56.7979863,
+    "lon": 60.5656111
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164573297,
+   "center": {
+    "lat": 56.795924,
+    "lon": 60.5766088
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №209",
+    "phone": "+7 343 2675255"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164573299,
+   "center": {
+    "lat": 56.7964812,
+    "lon": 60.5756225
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №31",
+    "phone": "+7 343 2401740"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164573300,
+   "center": {
+    "lat": 56.7986953,
+    "lon": 60.5676963
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164667902,
+   "center": {
+    "lat": 56.6049271,
+    "lon": 60.9484549
+   },
+   "tags": {
+    "addr:housenumber": "2А",
+    "addr:street": "Нагорная улица",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Начальная школа - детский сад №1"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164677118,
+   "center": {
+    "lat": 56.8126479,
+    "lon": 60.6057805
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 233"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164677119,
+   "center": {
+    "lat": 56.8096024,
+    "lon": 60.6076725
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 50"
+   }
+  },
+  {
+   "type": "way",
+   "id": 164677120,
+   "center": {
+    "lat": 56.8099768,
+    "lon": 60.6060308
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 79"
+   }
+  },
+  {
+   "type": "way",
+   "id": 165288057,
+   "center": {
+    "lat": 56.8383598,
+    "lon": 60.6503785
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад УрФУ"
+   }
+  },
+  {
+   "type": "way",
+   "id": 165571784,
+   "center": {
+    "lat": 56.818779,
+    "lon": 60.5533256
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 510"
+   }
+  },
+  {
+   "type": "way",
+   "id": 165739232,
+   "center": {
+    "lat": 56.8153731,
+    "lon": 60.5935944
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 449"
+   }
+  },
+  {
+   "type": "way",
+   "id": 166135428,
+   "center": {
+    "lat": 56.8336635,
+    "lon": 60.5349377
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №189"
+   }
+  },
+  {
+   "type": "way",
+   "id": 166370292,
+   "center": {
+    "lat": 56.8981504,
+    "lon": 60.5818645
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №431"
+   }
+  },
+  {
+   "type": "way",
+   "id": 166685388,
+   "center": {
+    "lat": 56.8375695,
+    "lon": 60.541779
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "ДЦ Радуга"
+   }
+  },
+  {
+   "type": "way",
+   "id": 166896285,
+   "center": {
+    "lat": 56.8671108,
+    "lon": 60.5526536
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 175"
+   }
+  },
+  {
+   "type": "way",
+   "id": 166896286,
+   "center": {
+    "lat": 56.8616136,
+    "lon": 60.5574857
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 186"
+   }
+  },
+  {
+   "type": "way",
+   "id": 166896287,
+   "center": {
+    "lat": 56.8625992,
+    "lon": 60.5569644
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 254"
+   }
+  },
+  {
+   "type": "way",
+   "id": 166896288,
+   "center": {
+    "lat": 56.866228,
+    "lon": 60.5575801
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 556"
+   }
+  },
+  {
+   "type": "way",
+   "id": 166896289,
+   "center": {
+    "lat": 56.864362,
+    "lon": 60.5528864
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 197"
+   }
+  },
+  {
+   "type": "way",
+   "id": 168055069,
+   "center": {
+    "lat": 56.8976287,
+    "lon": 60.6105088
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №460"
+   }
+  },
+  {
+   "type": "way",
+   "id": 168055071,
+   "center": {
+    "lat": 56.8972778,
+    "lon": 60.6112869
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 168112008,
+   "center": {
+    "lat": 56.8805097,
+    "lon": 60.508987
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 133"
+   }
+  },
+  {
+   "type": "way",
+   "id": 169087738,
+   "center": {
+    "lat": 56.8138965,
+    "lon": 60.6193146
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 365"
+   }
+  },
+  {
+   "type": "way",
+   "id": 169087739,
+   "center": {
+    "lat": 56.8151021,
+    "lon": 60.6192461
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 40"
+   }
+  },
+  {
+   "type": "way",
+   "id": 169087740,
+   "center": {
+    "lat": 56.8161473,
+    "lon": 60.6183409
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "check_date": "2026-08-23",
+    "landuse": "education",
+    "name": "Детский сад № 419"
+   }
+  },
+  {
+   "type": "way",
+   "id": 169087741,
+   "center": {
+    "lat": 56.8145423,
+    "lon": 60.6130308
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 77"
+   }
+  },
+  {
+   "type": "way",
+   "id": 170119366,
+   "center": {
+    "lat": 56.8248652,
+    "lon": 60.587237
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 301"
+   }
+  },
+  {
+   "type": "way",
+   "id": 172834690,
+   "center": {
+    "lat": 56.899173,
+    "lon": 60.6087574
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №382"
+   }
+  },
+  {
+   "type": "way",
+   "id": 172834694,
+   "center": {
+    "lat": 56.9011193,
+    "lon": 60.5983319
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №203"
+   }
+  },
+  {
+   "type": "way",
+   "id": 172834695,
+   "center": {
+    "lat": 56.9011644,
+    "lon": 60.6036206
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №536 \"Малышок\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 175175450,
+   "center": {
+    "lat": 56.7949974,
+    "lon": 60.7658734
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №567"
+   }
+  },
+  {
+   "type": "way",
+   "id": 176818980,
+   "center": {
+    "lat": 56.6121976,
+    "lon": 60.808573
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 177083094,
+   "center": {
+    "lat": 56.8476024,
+    "lon": 60.6159239
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 372",
+    "ref": "372",
+    "website": "https://372.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 178621245,
+   "center": {
+    "lat": 56.7036492,
+    "lon": 60.8391487
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 180378826,
+   "center": {
+    "lat": 56.9569936,
+    "lon": 60.6833475
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад № 518"
+   }
+  },
+  {
+   "type": "way",
+   "id": 180652414,
+   "center": {
+    "lat": 56.8886208,
+    "lon": 60.6293017
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 170"
+   }
+  },
+  {
+   "type": "way",
+   "id": 180653752,
+   "center": {
+    "lat": 56.8939798,
+    "lon": 60.6242369
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №176"
+   }
+  },
+  {
+   "type": "way",
+   "id": 181422263,
+   "center": {
+    "lat": 56.896692,
+    "lon": 60.6387208
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №403"
+   }
+  },
+  {
+   "type": "way",
+   "id": 185029833,
+   "center": {
+    "lat": 56.9809616,
+    "lon": 60.5706799
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence"
+   }
+  },
+  {
+   "type": "way",
+   "id": 186487015,
+   "center": {
+    "lat": 56.8293708,
+    "lon": 60.6129971
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 12"
+   }
+  },
+  {
+   "type": "way",
+   "id": 188300906,
+   "center": {
+    "lat": 56.8381665,
+    "lon": 60.6288815
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 330 «Антошка»",
+    "ref": "330"
+   }
+  },
+  {
+   "type": "way",
+   "id": 188436873,
+   "center": {
+    "lat": 56.8167368,
+    "lon": 60.6091933
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "check_date": "2023-01-06",
+    "landuse": "education",
+    "name": "Детский сад № 455"
+   }
+  },
+  {
+   "type": "way",
+   "id": 202826063,
+   "center": {
+    "lat": 56.6861508,
+    "lon": 60.8402763
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад № 1"
+   }
+  },
+  {
+   "type": "way",
+   "id": 204270542,
+   "center": {
+    "lat": 56.8567848,
+    "lon": 60.6257108
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 230 \"Солнышко\"",
+    "ref": "230",
+    "source": "https://www.dropbox.com/s/rryfbast5jnwel3/2015-02-12%2012.33.58.jpg?dl=0",
+    "website": "http://solnishko230.caduk.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 205442622,
+   "center": {
+    "lat": 56.7578117,
+    "lon": 60.7039958
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 456",
+    "ref": "456"
+   }
+  },
+  {
+   "type": "way",
+   "id": 205442623,
+   "center": {
+    "lat": 56.7574459,
+    "lon": 60.7029802
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 512 «Солнышко»",
+    "ref": "512"
+   }
+  },
+  {
+   "type": "way",
+   "id": 206632142,
+   "center": {
+    "lat": 56.8123735,
+    "lon": 60.5612296
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №486"
+   }
+  },
+  {
+   "type": "way",
+   "id": 208184636,
+   "center": {
+    "lat": 56.8550078,
+    "lon": 60.630487
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 262",
+    "ref": "262",
+    "source": "https://carousel.dropbox.com/photos/cc/3NqNu9Kld34gFBq",
+    "website": "https://262.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 209182787,
+   "center": {
+    "lat": 56.8066305,
+    "lon": 60.605008
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 11"
+   }
+  },
+  {
+   "type": "way",
+   "id": 215382054,
+   "center": {
+    "lat": 56.7918194,
+    "lon": 60.5155419
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 43"
+   }
+  },
+  {
+   "type": "way",
+   "id": 215382538,
+   "center": {
+    "lat": 56.794572,
+    "lon": 60.5140107
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 52",
+    "ref": "52"
+   }
+  },
+  {
+   "type": "way",
+   "id": 217655885,
+   "center": {
+    "lat": 56.8035595,
+    "lon": 60.5598811
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 37 «Ромашка»",
+    "ref": "37"
+   }
+  },
+  {
+   "type": "way",
+   "id": 217655911,
+   "center": {
+    "lat": 56.8010126,
+    "lon": 60.580521
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №14"
+   }
+  },
+  {
+   "type": "way",
+   "id": 218204418,
+   "center": {
+    "lat": 56.8162395,
+    "lon": 60.5479952
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 93"
+   }
+  },
+  {
+   "type": "way",
+   "id": 219111262,
+   "center": {
+    "lat": 56.7938331,
+    "lon": 60.515276
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 44",
+    "ref": "44"
+   }
+  },
+  {
+   "type": "way",
+   "id": 221298681,
+   "center": {
+    "lat": 56.8499949,
+    "lon": 60.6012779
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 393"
+   }
+  },
+  {
+   "type": "way",
+   "id": 221298699,
+   "center": {
+    "lat": 56.8498701,
+    "lon": 60.5999988
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 174"
+   }
+  },
+  {
+   "type": "way",
+   "id": 221298925,
+   "center": {
+    "lat": 56.8489044,
+    "lon": 60.6016063
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 309"
+   }
+  },
+  {
+   "type": "way",
+   "id": 222427267,
+   "center": {
+    "lat": 56.7936802,
+    "lon": 60.5723497
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 88"
+   }
+  },
+  {
+   "type": "way",
+   "id": 222718698,
+   "center": {
+    "lat": 56.8940292,
+    "lon": 60.6385957
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 222840709,
+   "center": {
+    "lat": 56.7812676,
+    "lon": 60.5323122
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:email": "a_planet@mail.ru",
+    "contact:phone": "+73432007711",
+    "contact:website": "http://dcplanet.ru/",
+    "landuse": "education",
+    "name": "Планета-А"
+   }
+  },
+  {
+   "type": "way",
+   "id": 222840710,
+   "center": {
+    "lat": 56.7847377,
+    "lon": 60.5277962
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:email": "a_planet@mail.ru",
+    "contact:phone": "+73432007711",
+    "contact:website": "http://dcplanet.ru/",
+    "landuse": "education",
+    "name": "Планета-Б"
+   }
+  },
+  {
+   "type": "way",
+   "id": 224057661,
+   "center": {
+    "lat": 56.7869855,
+    "lon": 60.5243222
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 82 «Одиссея успеха»",
+    "ref": "82"
+   }
+  },
+  {
+   "type": "way",
+   "id": 224057672,
+   "center": {
+    "lat": 56.7889562,
+    "lon": 60.5240522
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 35",
+    "ref": "35"
+   }
+  },
+  {
+   "type": "way",
+   "id": 224341273,
+   "center": {
+    "lat": 56.8567614,
+    "lon": 60.6381012
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 547 \"Детский сад будущего\"",
+    "ref": "547",
+    "website": "http://kindgarden.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 227816791,
+   "center": {
+    "lat": 56.8465449,
+    "lon": 60.6607584
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 255",
+    "ref": "255",
+    "source": "https://carousel.dropbox.com/photos/cc/PZp3wczos4a5PTI",
+    "website": "http://www.ds255.ru"
+   }
+  },
+  {
+   "type": "way",
+   "id": 228472799,
+   "center": {
+    "lat": 56.8427366,
+    "lon": 60.5744962
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 414 «Солнышко»",
+    "ref": "414"
+   }
+  },
+  {
+   "type": "way",
+   "id": 233208907,
+   "center": {
+    "lat": 56.7947102,
+    "lon": 60.5103718
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 43 «Академия детства»",
+    "ref": "43"
+   }
+  },
+  {
+   "type": "way",
+   "id": 243898599,
+   "center": {
+    "lat": 56.8307518,
+    "lon": 60.56844
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 28 «Теремок»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 257415814,
+   "center": {
+    "lat": 56.8526364,
+    "lon": 60.5612788
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 258407657,
+   "center": {
+    "lat": 56.8942974,
+    "lon": 60.6007355
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "fence:material": "steel",
+    "fence_type": "grate",
+    "height": "1.5",
+    "landuse": "education",
+    "name": "Детский сад №514 \"Детство\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 273449331,
+   "center": {
+    "lat": 56.8009161,
+    "lon": 60.6217154
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 283404383,
+   "center": {
+    "lat": 56.8497969,
+    "lon": 60.6456881
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 423",
+    "ref": "423",
+    "website": "https://416.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 289833868,
+   "center": {
+    "lat": 56.828014,
+    "lon": 60.548574
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №36"
+   }
+  },
+  {
+   "type": "way",
+   "id": 289833869,
+   "center": {
+    "lat": 56.8289288,
+    "lon": 60.5463168
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №570"
+   }
+  },
+  {
+   "type": "way",
+   "id": 292873269,
+   "center": {
+    "lat": 56.9072421,
+    "lon": 60.6243293
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №107"
+   }
+  },
+  {
+   "type": "way",
+   "id": 293190534,
+   "center": {
+    "lat": 56.905243,
+    "lon": 60.6244514
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №521"
+   }
+  },
+  {
+   "type": "way",
+   "id": 295765057,
+   "center": {
+    "lat": 56.9076341,
+    "lon": 60.8141447
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence"
+   }
+  },
+  {
+   "type": "way",
+   "id": 296134465,
+   "center": {
+    "lat": 56.8937091,
+    "lon": 60.6197901
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 299524729,
+   "center": {
+    "lat": 56.8102177,
+    "lon": 60.5117676
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 299667230,
+   "center": {
+    "lat": 56.9127554,
+    "lon": 60.8029935
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 300592615,
+   "center": {
+    "lat": 56.9008532,
+    "lon": 60.6238417
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №545"
+   }
+  },
+  {
+   "type": "way",
+   "id": 300592622,
+   "center": {
+    "lat": 56.9001327,
+    "lon": 60.6245852
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 15"
+   }
+  },
+  {
+   "type": "way",
+   "id": 304756583,
+   "center": {
+    "lat": 56.8033806,
+    "lon": 60.6044114
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 147"
+   }
+  },
+  {
+   "type": "way",
+   "id": 305015416,
+   "center": {
+    "lat": 56.9155667,
+    "lon": 60.8210519
+   },
+   "tags": {
+    "addr:city": "Берёзовский",
+    "addr:housenumber": "23",
+    "addr:street": "улица Гагарина",
+    "amenity": "kindergarten",
+    "building:levels": "3",
+    "name": "Детский садик №1"
+   }
+  },
+  {
+   "type": "way",
+   "id": 309861976,
+   "center": {
+    "lat": 56.8011396,
+    "lon": 60.6243203
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Солнечный"
+   }
+  },
+  {
+   "type": "way",
+   "id": 312045491,
+   "center": {
+    "lat": 56.789645,
+    "lon": 60.5357284
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 39",
+    "ref": "39"
+   }
+  },
+  {
+   "type": "way",
+   "id": 314402018,
+   "center": {
+    "lat": 56.8637772,
+    "lon": 60.65576
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 236",
+    "ref": "236",
+    "website": "https://236.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 315474641,
+   "center": {
+    "lat": 56.8897623,
+    "lon": 60.5749044
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 355",
+    "ref": "355"
+   }
+  },
+  {
+   "type": "way",
+   "id": 317765063,
+   "center": {
+    "lat": 56.7825764,
+    "lon": 60.5514515
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 32 «Алые паруса»",
+    "ref": "32"
+   }
+  },
+  {
+   "type": "way",
+   "id": 319857422,
+   "center": {
+    "lat": 56.8947839,
+    "lon": 60.5960535
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад Арт-Этюд"
+   }
+  },
+  {
+   "type": "way",
+   "id": 319857423,
+   "center": {
+    "lat": 56.8954808,
+    "lon": 60.5968231
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №40/228 Капитошка",
+    "ref": "228"
+   }
+  },
+  {
+   "type": "way",
+   "id": 319857424,
+   "center": {
+    "lat": 56.8970097,
+    "lon": 60.599204
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №422",
+    "ref": "422"
+   }
+  },
+  {
+   "type": "way",
+   "id": 323174547,
+   "center": {
+    "lat": 56.6833939,
+    "lon": 60.8441554
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад №4 «Солнышко»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 324441593,
+   "center": {
+    "lat": 56.8577403,
+    "lon": 60.6088979
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 324562313,
+   "center": {
+    "lat": 56.8636061,
+    "lon": 60.6248803
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №91",
+    "phone": "+73433415862",
+    "ref": "91",
+    "source": "https://carousel.dropbox.com/photos/cc/8deeO58JirZP4Wh",
+    "website": "https://91.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 325941640,
+   "center": {
+    "lat": 56.8046239,
+    "lon": 60.5463655
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 53 «Планета детства»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 327952903,
+   "center": {
+    "lat": 56.8532308,
+    "lon": 60.6139728
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №369"
+   }
+  },
+  {
+   "type": "way",
+   "id": 329587898,
+   "center": {
+    "lat": 56.823899,
+    "lon": 60.5787718
+   },
+   "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "19Б",
+    "addr:street": "Гурзуфская улица",
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "contact:website": "http://373.tvoysadik.ru/",
+    "landuse": "education",
+    "name": "Детский сад №373"
+   }
+  },
+  {
+   "type": "way",
+   "id": 337580992,
+   "center": {
+    "lat": 56.8463828,
+    "lon": 60.6593682
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 407 «Жаворонок»",
+    "ref": "407",
+    "website": "https://407.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 337588836,
+   "center": {
+    "lat": 56.8513783,
+    "lon": 60.6328586
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "check_date": "2023-05-31",
+    "landuse": "education",
+    "name": "Детский сад № 505",
+    "ref": "505",
+    "website": "https://505.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 351659863,
+   "center": {
+    "lat": 56.7928062,
+    "lon": 60.6139709
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 324"
+   }
+  },
+  {
+   "type": "way",
+   "id": 354274906,
+   "center": {
+    "lat": 56.8342893,
+    "lon": 60.5578073
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 539",
+    "phone": "+7 343 2424358",
+    "ref": "539",
+    "website": "http://детсад539.рф/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 354274907,
+   "center": {
+    "lat": 56.8344043,
+    "lon": 60.5549091
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "contact:email": "mdou466@mail.ru",
+    "landuse": "education",
+    "name": "Детский сад компенсирующего вида № 466",
+    "ref": "466",
+    "website": "https://mbdou466.ucoz.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 354274908,
+   "center": {
+    "lat": 56.8348312,
+    "lon": 60.5549551
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "contact:email": "doy205@ya.ru",
+    "landuse": "education",
+    "name": "Детский сад компенсирующего вида №205",
+    "phone": "+7 343 2463568",
+    "ref": "205",
+    "website": "https://doy205.ucoz.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 361931822,
+   "center": {
+    "lat": 56.9791593,
+    "lon": 60.5457046
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence"
+   }
+  },
+  {
+   "type": "way",
+   "id": 362010318,
+   "center": {
+    "lat": 56.7877299,
+    "lon": 60.5150192
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 119",
+    "website": "https://dou119-ekb.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 363780382,
+   "center": {
+    "lat": 56.7854129,
+    "lon": 60.5465785
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 126 «Сказочная страна»",
+    "ref": "126"
+   }
+  },
+  {
+   "type": "way",
+   "id": 366531814,
+   "center": {
+    "lat": 56.9823261,
+    "lon": 60.568123
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "МАДОУ《Детский сад 23"
+   }
+  },
+  {
+   "type": "way",
+   "id": 367607447,
+   "center": {
+    "lat": 56.8322955,
+    "lon": 60.6371177
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 123 ОАО «РЖД»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 372607275,
+   "center": {
+    "lat": 56.8831103,
+    "lon": 60.001879
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад №16"
+   }
+  },
+  {
+   "type": "way",
+   "id": 375168334,
+   "center": {
+    "lat": 56.8241089,
+    "lon": 60.6369062
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 386992103,
+   "center": {
+    "lat": 56.6885972,
+    "lon": 60.7961343
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence"
+   }
+  },
+  {
+   "type": "way",
+   "id": 386992138,
+   "center": {
+    "lat": 56.6885989,
+    "lon": 60.7962325
+   },
+   "tags": {
+    "addr:housenumber": "102",
+    "addr:street": "Советская улица",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "name": "Детский сад №20 «Аленушка»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 390607908,
+   "center": {
+    "lat": 56.7489511,
+    "lon": 60.5622
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 437 «Солнечный лучик»",
+    "ref": "437"
+   }
+  },
+  {
+   "type": "way",
+   "id": 394547017,
+   "center": {
+    "lat": 56.906888,
+    "lon": 60.5951987
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №153"
+   }
+  },
+  {
+   "type": "way",
+   "id": 394668473,
+   "center": {
+    "lat": 56.9004788,
+    "lon": 60.5690071
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 265"
+   }
+  },
+  {
+   "type": "way",
+   "id": 400634797,
+   "center": {
+    "lat": 56.7813837,
+    "lon": 60.6673282
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №16",
+    "phone": "+7 343 289-25-20"
+   }
+  },
+  {
+   "type": "way",
+   "id": 402111618,
+   "center": {
+    "lat": 56.7493573,
+    "lon": 60.6059476
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №503",
+    "official_name": "МБДОУ №503"
+   }
+  },
+  {
+   "type": "way",
+   "id": 402575736,
+   "center": {
+    "lat": 56.8979341,
+    "lon": 60.7388952
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 40",
+    "ref": "40"
+   }
+  },
+  {
+   "type": "way",
+   "id": 405968221,
+   "center": {
+    "lat": 56.7942197,
+    "lon": 60.6501898
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 409910482,
+   "center": {
+    "lat": 56.7727958,
+    "lon": 60.5906738
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 148"
+   }
+  },
+  {
+   "type": "way",
+   "id": 409910900,
+   "center": {
+    "lat": 56.7752642,
+    "lon": 60.5954329
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 341"
+   }
+  },
+  {
+   "type": "way",
+   "id": 409910910,
+   "center": {
+    "lat": 56.7731968,
+    "lon": 60.5937722
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 508"
+   }
+  },
+  {
+   "type": "way",
+   "id": 420642645,
+   "center": {
+    "lat": 56.9723156,
+    "lon": 60.3540028
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад № 69"
+   }
+  },
+  {
+   "type": "way",
+   "id": 432309184,
+   "center": {
+    "lat": 56.915757,
+    "lon": 60.8206156
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 433779323,
+   "center": {
+    "lat": 56.9681023,
+    "lon": 60.607162
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад №41"
+   }
+  },
+  {
+   "type": "way",
+   "id": 434802847,
+   "center": {
+    "lat": 56.7994144,
+    "lon": 60.6192052
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 33"
+   }
+  },
+  {
+   "type": "way",
+   "id": 435752049,
+   "center": {
+    "lat": 56.789361,
+    "lon": 60.7688136
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №473 \"Василек\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 435752050,
+   "center": {
+    "lat": 56.789321,
+    "lon": 60.7704794
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №524"
+   }
+  },
+  {
+   "type": "way",
+   "id": 436427002,
+   "center": {
+    "lat": 56.9124149,
+    "lon": 60.8606689
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №27"
+   }
+  },
+  {
+   "type": "way",
+   "id": 437528600,
+   "center": {
+    "lat": 56.8375891,
+    "lon": 60.6917883
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 81"
+   }
+  },
+  {
+   "type": "way",
+   "id": 438467877,
+   "center": {
+    "lat": 56.8032263,
+    "lon": 60.5777183
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "fence_type": "wire",
+    "height": "2",
+    "landuse": "education",
+    "name": "Рябинка, детский сад № 156",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "phone": "+7-343-240-16-18",
+    "website": "http://156.detsadural.ru"
+   }
+  },
+  {
+   "type": "way",
+   "id": 438467878,
+   "center": {
+    "lat": 56.8022762,
+    "lon": 60.5802745
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "fence_type": "metal",
+    "height": "2",
+    "landuse": "education",
+    "name": "Детский сад № 45",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "phone": "+7-3434-240-14-55"
+   }
+  },
+  {
+   "type": "way",
+   "id": 443028259,
+   "center": {
+    "lat": 56.8347691,
+    "lon": 60.6586862
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №34"
+   }
+  },
+  {
+   "type": "way",
+   "id": 454199954,
+   "center": {
+    "lat": 56.7670953,
+    "lon": 60.6097503
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 300"
+   }
+  },
+  {
+   "type": "way",
+   "id": 454199955,
+   "center": {
+    "lat": 56.7674709,
+    "lon": 60.6117372
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 405"
+   }
+  },
+  {
+   "type": "way",
+   "id": 464570237,
+   "center": {
+    "lat": 56.8649856,
+    "lon": 60.5672132
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 466069645,
+   "center": {
+    "lat": 56.8450616,
+    "lon": 60.6604866
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 109"
+   }
+  },
+  {
+   "type": "way",
+   "id": 488381875,
+   "center": {
+    "lat": 56.8526853,
+    "lon": 60.6192556
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №288"
+   }
+  },
+  {
+   "type": "way",
+   "id": 488385652,
+   "center": {
+    "lat": 56.7547731,
+    "lon": 60.6965215
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 98"
+   }
+  },
+  {
+   "type": "way",
+   "id": 488700550,
+   "center": {
+    "lat": 56.8232886,
+    "lon": 60.578855
+   },
+   "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "18А",
+    "addr:street": "улица Пальмиро Тольятти",
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 338 «Колокольчик»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 488700551,
+   "center": {
+    "lat": 56.8234047,
+    "lon": 60.5802298
+   },
+   "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "14А",
+    "addr:postcode": "620102",
+    "addr:street": "улица Пальмиро Тольятти",
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №356 компенсирующего вида"
+   }
+  },
+  {
+   "type": "way",
+   "id": 492480479,
+   "center": {
+    "lat": 56.8560141,
+    "lon": 60.5716893
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 495687882,
+   "center": {
+    "lat": 56.9022019,
+    "lon": 60.7485315
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 495687890,
+   "center": {
+    "lat": 56.9014635,
+    "lon": 60.7491596
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 496184310,
+   "center": {
+    "lat": 56.8969358,
+    "lon": 60.75176
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 500083277,
+   "center": {
+    "lat": 56.9016912,
+    "lon": 60.7617783
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 504769446,
+   "center": {
+    "lat": 56.7812117,
+    "lon": 60.5217145
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 119",
+    "website": "https://dou119-ekb.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 505515917,
+   "center": {
+    "lat": 56.7728702,
+    "lon": 60.5341086
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 45"
+   }
+  },
+  {
+   "type": "way",
+   "id": 520953238,
+   "center": {
+    "lat": 56.8048797,
+    "lon": 60.609077
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №11"
+   }
+  },
+  {
+   "type": "way",
+   "id": 523145476,
+   "center": {
+    "lat": 56.8790827,
+    "lon": 60.5027014
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "education": "kindergarten",
+    "education_level:preschool": "yes",
+    "education_profile:general": "yes",
+    "education_system:ru_standard": "yes",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 547094699,
+   "center": {
+    "lat": 56.7952406,
+    "lon": 60.7718029
+   },
+   "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "23",
+    "addr:street": "Белоярская улица",
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 506"
+   }
+  },
+  {
+   "type": "way",
+   "id": 548633207,
+   "center": {
+    "lat": 56.7584095,
+    "lon": 60.8153222
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №527 \"Светлячок\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 548633510,
+   "center": {
+    "lat": 56.7578408,
+    "lon": 60.8143817
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №409 \"Берёзка\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 548633511,
+   "center": {
+    "lat": 56.757716,
+    "lon": 60.8153128
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №307"
+   }
+  },
+  {
+   "type": "way",
+   "id": 548653414,
+   "center": {
+    "lat": 56.6943085,
+    "lon": 60.796923
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 548954061,
+   "center": {
+    "lat": 56.8164839,
+    "lon": 60.6222338
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №465"
+   }
+  },
+  {
+   "type": "way",
+   "id": 556244662,
+   "center": {
+    "lat": 56.987515,
+    "lon": 60.5512937
+   },
+   "tags": {
+    "addr:city": "Верхняя Пышма",
+    "addr:housenumber": "8",
+    "addr:street": "улица Машиностроителей",
+    "amenity": "kindergarten",
+    "name": "Детский сад №9"
+   }
+  },
+  {
+   "type": "way",
+   "id": 556482824,
+   "center": {
+    "lat": 56.8311084,
+    "lon": 60.6566571
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 299"
+   }
+  },
+  {
+   "type": "way",
+   "id": 564111119,
+   "center": {
+    "lat": 56.9310725,
+    "lon": 60.9014626
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Дошкольное отделение школы № 29"
+   }
+  },
+  {
+   "type": "way",
+   "id": 575521553,
+   "center": {
+    "lat": 56.8700556,
+    "lon": 60.5579921
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский дом № 4"
+   }
+  },
+  {
+   "type": "way",
+   "id": 575543056,
+   "center": {
+    "lat": 56.7850041,
+    "lon": 60.5393193
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 576178152,
+   "center": {
+    "lat": 56.9733525,
+    "lon": 60.5732776
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детсад \"Алёнушка\"",
+    "name:ru": "Детсад \"Алёнушка\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 580321155,
+   "center": {
+    "lat": 56.7738565,
+    "lon": 60.6031474
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 360"
+   }
+  },
+  {
+   "type": "way",
+   "id": 583483887,
+   "center": {
+    "lat": 56.8317989,
+    "lon": 60.6498652
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 299",
+    "ref": "299",
+    "source": "https://carousel.dropbox.com/photos/cc/L1mG2ce2YNTUZ3k",
+    "website": "https://299.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 588382885,
+   "center": {
+    "lat": 56.8436379,
+    "lon": 60.5802558
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 590254878,
+   "center": {
+    "lat": 56.7907888,
+    "lon": 60.7743272
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 590403138,
+   "center": {
+    "lat": 56.7831006,
+    "lon": 60.7364963
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 610385064,
+   "center": {
+    "lat": 56.7804931,
+    "lon": 60.52903
+   },
+   "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:postcode": "620016",
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Премьер",
+    "opening_hours": "Mo-Fr 07:30-22:00",
+    "phone": "+73432718077"
+   }
+  },
+  {
+   "type": "way",
+   "id": 627406024,
+   "center": {
+    "lat": 56.7479862,
+    "lon": 60.6049138
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №410"
+   }
+  },
+  {
+   "type": "way",
+   "id": 668426905,
+   "center": {
+    "lat": 56.7884181,
+    "lon": 60.5025374
+   },
+   "tags": {
+    "addr:housenumber": "42",
+    "addr:street": "улица Академика Парина",
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "check_date": "2023-10-01",
+    "landuse": "education",
+    "name": "Детский сад № 43",
+    "ref": "43"
+   }
+  },
+  {
+   "type": "way",
+   "id": 668426906,
+   "center": {
+    "lat": 56.7879704,
+    "lon": 60.5014998
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 43",
+    "ref": "43"
+   }
+  },
+  {
+   "type": "way",
+   "id": 678724214,
+   "center": {
+    "lat": 56.7638589,
+    "lon": 60.5946811
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №482"
+   }
+  },
+  {
+   "type": "way",
+   "id": 681563258,
+   "center": {
+    "lat": 56.9201832,
+    "lon": 60.476983
+   },
+   "tags": {
+    "addr:city": "Шувакиш",
+    "addr:housenumber": "11",
+    "addr:postcode": "620908",
+    "addr:street": "улица Свободы",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "name": "Детский сад № 187",
+    "website": "https://187.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 706363552,
+   "center": {
+    "lat": 56.7559256,
+    "lon": 60.6951995
+   },
+   "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "14А",
+    "addr:street": "Исетская улица",
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Кораблик Детский сад №137"
+   }
+  },
+  {
+   "type": "way",
+   "id": 706365627,
+   "center": {
+    "lat": 56.7542716,
+    "lon": 60.6970379
+   },
+   "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "2А",
+    "addr:street": "Угловой переулок",
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №391"
+   }
+  },
+  {
+   "type": "way",
+   "id": 706365633,
+   "center": {
+    "lat": 56.7587307,
+    "lon": 60.702906
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №548"
+   }
+  },
+  {
+   "type": "way",
+   "id": 718464542,
+   "center": {
+    "lat": 56.8937108,
+    "lon": 60.5941678
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 129 «Колокольчик»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 749339770,
+   "center": {
+    "lat": 56.7849383,
+    "lon": 60.5016727
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 150"
+   }
+  },
+  {
+   "type": "way",
+   "id": 749339772,
+   "center": {
+    "lat": 56.7872775,
+    "lon": 60.497507
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 150"
+   }
+  },
+  {
+   "type": "way",
+   "id": 815631766,
+   "center": {
+    "lat": 56.7999604,
+    "lon": 60.5030244
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "capacity": "300",
+    "description": "https://151.tvoysadik.ru/",
+    "landuse": "education",
+    "name": "МАДОУ - детский сад № 151",
+    "ref": "151"
+   }
+  },
+  {
+   "type": "way",
+   "id": 819330114,
+   "center": {
+    "lat": 56.9779939,
+    "lon": 60.571964
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 824657713,
+   "center": {
+    "lat": 56.6774842,
+    "lon": 60.8084135
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 828432754,
+   "center": {
+    "lat": 56.9693908,
+    "lon": 60.5514556
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад №13",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 843980489,
+   "center": {
+    "lat": 56.6401262,
+    "lon": 60.8233788
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 848963223,
+   "center": {
+    "lat": 56.6398193,
+    "lon": 60.639995
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 856685329,
+   "center": {
+    "lat": 56.9803736,
+    "lon": 60.4850324
+   },
+   "tags": {
+    "addr:city": "Среднеуральск",
+    "addr:housenumber": "8",
+    "addr:street": "Лесная улица",
+    "amenity": "kindergarten",
+    "name": "​МАДОУ Детский сад №9 Лесная сказка"
+   }
+  },
+  {
+   "type": "way",
+   "id": 888678996,
+   "center": {
+    "lat": 56.895803,
+    "lon": 60.843079
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №23"
+   }
+  },
+  {
+   "type": "way",
+   "id": 917458984,
+   "center": {
+    "lat": 56.8229879,
+    "lon": 60.536708
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 67",
+    "website": "https://madou67.my1.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 923244996,
+   "center": {
+    "lat": 56.7443839,
+    "lon": 60.5623583
+   },
+   "tags": {
+    "addr:housenumber": "9",
+    "addr:street": "Золотистый бульвар",
+    "amenity": "kindergarten",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "детский сад №437",
+    "website": "https://437.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 930558486,
+   "center": {
+    "lat": 56.8374254,
+    "lon": 60.5505443
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 968400438,
+   "center": {
+    "lat": 56.7517221,
+    "lon": 60.6196527
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 968683435,
+   "center": {
+    "lat": 56.7547049,
+    "lon": 60.6223929
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №66"
+   }
+  },
+  {
+   "type": "way",
+   "id": 968759027,
+   "center": {
+    "lat": 56.7627476,
+    "lon": 60.5994056
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №385 \"Сказка\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 973210478,
+   "center": {
+    "lat": 56.7078516,
+    "lon": 60.0787809
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence"
+   }
+  },
+  {
+   "type": "way",
+   "id": 978039355,
+   "center": {
+    "lat": 56.7443785,
+    "lon": 60.5625138
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "area": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 991991193,
+   "center": {
+    "lat": 56.872372,
+    "lon": 60.2935588
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 993370508,
+   "center": {
+    "lat": 56.7595739,
+    "lon": 60.701774
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 572 (Теремок)"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1007651971,
+   "center": {
+    "lat": 56.7807114,
+    "lon": 60.611823
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №121",
+    "phone": "+7 343 2972014"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1032890190,
+   "center": {
+    "lat": 56.9056643,
+    "lon": 60.6389657
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1040240304,
+   "center": {
+    "lat": 56.8830642,
+    "lon": 60.5671088
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 370"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1040240305,
+   "center": {
+    "lat": 56.8839196,
+    "lon": 60.5739813
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад №306"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1040240306,
+   "center": {
+    "lat": 56.8846391,
+    "lon": 60.5648445
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 202"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1061987146,
+   "center": {
+    "lat": 56.7506295,
+    "lon": 60.5597918
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "детский сад №515"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1072005683,
+   "center": {
+    "lat": 56.9755909,
+    "lon": 60.5816684
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1082986911,
+   "center": {
+    "lat": 56.9803809,
+    "lon": 60.4846743
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1096253431,
+   "center": {
+    "lat": 56.9776193,
+    "lon": 60.563263
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1097806444,
+   "center": {
+    "lat": 56.8064535,
+    "lon": 60.6341364
+   },
+   "tags": {
+    "addr:housenumber": "33А",
+    "addr:street": "Машинная улица",
+    "amenity": "kindergarten",
+    "check_date": "2024-06-18",
+    "landuse": "education",
+    "name": "Детский сад № 555",
+    "opening_hours": "Mo-Fr 07:30-18:00"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1109680477,
+   "center": {
+    "lat": 56.9875476,
+    "lon": 60.5458904
+   },
+   "tags": {
+    "addr:city": "Верхняя Пышма",
+    "addr:housenumber": "4",
+    "addr:street": "улица Мальцева",
+    "amenity": "kindergarten",
+    "check_date": "2026-06-30",
+    "name": "Детский сад №2"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1110343318,
+   "center": {
+    "lat": 56.7114902,
+    "lon": 60.7666978
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1152671009,
+   "center": {
+    "lat": 56.8889096,
+    "lon": 60.5706096
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1155944294,
+   "center": {
+    "lat": 56.8755087,
+    "lon": 60.5220757
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Детский сад № 357"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1160181479,
+   "center": {
+    "lat": 56.8646478,
+    "lon": 60.5300393
+   },
+   "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "32",
+    "addr:postcode": "620050",
+    "addr:street": "улица Миномётчиков",
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад комбинированного вида № 55",
+    "operator": "Управление образования г.Екатеринбурга",
+    "operator:type": "government",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1160181485,
+   "center": {
+    "lat": 56.865098,
+    "lon": 60.5306833
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №130 АО РЖД",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1178277435,
+   "center": {
+    "lat": 56.8858422,
+    "lon": 60.0023923
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад №36"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1199963104,
+   "center": {
+    "lat": 56.7912986,
+    "lon": 60.4800147
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "check_date": "2024-12-19",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1216279319,
+   "center": {
+    "lat": 56.9677516,
+    "lon": 60.5972648
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1248985055,
+   "center": {
+    "lat": 56.9110752,
+    "lon": 60.7879438
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "БМАДОУ \"Детский сад № 50 \"Золотые Россыпи\"",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "operator": "Управление образования Березовского городского округа",
+    "operator:type": "public",
+    "phone": "+73436949800",
+    "preschool": "yes",
+    "website": "https://bgodou50.ru/"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1257171355,
+   "center": {
+    "lat": 56.6873095,
+    "lon": 60.5098665
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:website": "https://316.tvoysadik.ru/",
+    "name": "Детский сад № 316",
+    "official_name": "МУНИЦИПАЛЬНОЕ БЮДЖЕТНОЕ ДОШКОЛЬНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ДЕТСКИЙ САД № 316",
+    "short_name": "МБДОУ детский сад № 316"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1257171356,
+   "center": {
+    "lat": 56.6874418,
+    "lon": 60.5086659
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "contact:website": "https://489.tvoysadik.ru/",
+    "name": "Детский сад № 489",
+    "official_name": "Муниципальное бюджетное дошкольное образовательное учреждение - детский сад № 489",
+    "short_name": "МБДОУ - детский сад № 489"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1282358182,
+   "center": {
+    "lat": 56.8438285,
+    "lon": 60.6751656
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №8",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1290284566,
+   "center": {
+    "lat": 56.6757262,
+    "lon": 60.8012557
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1290900570,
+   "center": {
+    "lat": 56.7563663,
+    "lon": 60.7053659
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1298056035,
+   "center": {
+    "lat": 56.8864835,
+    "lon": 60.623346
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1301694760,
+   "center": {
+    "lat": 56.8692479,
+    "lon": 60.5313391
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "МБДОУ - детский сад комбинированного вида № 55"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1301694761,
+   "center": {
+    "lat": 56.8688129,
+    "lon": 60.5307665
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education",
+    "name": "Центр раннего развития \"Детство\""
+   }
+  },
+  {
+   "type": "way",
+   "id": 1302447210,
+   "center": {
+    "lat": 56.7747974,
+    "lon": 60.6097072
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1302542458,
+   "center": {
+    "lat": 56.7765035,
+    "lon": 60.6089295
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Солнышко",
+    "official_name": "Детский сад №398"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1302812372,
+   "center": {
+    "lat": 56.8858518,
+    "lon": 60.6239025
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1302812373,
+   "center": {
+    "lat": 56.8848155,
+    "lon": 60.6234395
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1316833098,
+   "center": {
+    "lat": 56.8872146,
+    "lon": 60.6176361
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1316834595,
+   "center": {
+    "lat": 56.8848962,
+    "lon": 60.5685858
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1316834596,
+   "center": {
+    "lat": 56.8469602,
+    "lon": 60.4965069
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1316834597,
+   "center": {
+    "lat": 56.8948486,
+    "lon": 60.591572
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "building": "kindergarten",
+    "name": "Детский сад № 155 «Улыбка»"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1317369202,
+   "center": {
+    "lat": 56.882666,
+    "lon": 60.619818
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1317782915,
+   "center": {
+    "lat": 56.7886161,
+    "lon": 60.6405978
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1327438568,
+   "center": {
+    "lat": 56.889417,
+    "lon": 60.6369267
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1338651498,
+   "center": {
+    "lat": 56.8847995,
+    "lon": 60.0072732
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341929620,
+   "center": {
+    "lat": 56.8007013,
+    "lon": 60.6158726
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад №493",
+    "phone": "+7 343 210-26-89"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341949148,
+   "center": {
+    "lat": 56.7526987,
+    "lon": 60.6982182
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №429",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "phone": "+7 343 258-55-65",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341949149,
+   "center": {
+    "lat": 56.7510636,
+    "lon": 60.6976194
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "name": "Детский сад №426",
+    "phone": "+7 343 258-53-70",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341949150,
+   "center": {
+    "lat": 56.749934,
+    "lon": 60.6964866
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад №424",
+    "phone": "+7 343 258-62-43",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341949151,
+   "center": {
+    "lat": 56.7504094,
+    "lon": 60.6969123
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "name": "Детский сад №427",
+    "phone": "+7 343 258-61-63",
+    "preschool": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1346128597,
+   "center": {
+    "lat": 56.8962411,
+    "lon": 60.586136
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "barrier": "fence",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1352278326,
+   "center": {
+    "lat": 56.7525681,
+    "lon": 60.692139
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1359749085,
+   "center": {
+    "lat": 56.6887511,
+    "lon": 60.8400817
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1372651785,
+   "center": {
+    "lat": 56.7774747,
+    "lon": 60.6388178
+   },
+   "tags": {
+    "addr:city": "Екатеринбург",
+    "addr:housenumber": "54А",
+    "addr:street": "Походная улица",
+    "amenity": "kindergarten",
+    "education": "kindergarten",
+    "name": "Детский сад № 454",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "phone": "+7 (343) 263-01-33",
+    "preschool": "yes",
+    "website": "dou454.caduk.ru"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1446930057,
+   "center": {
+    "lat": 56.9868406,
+    "lon": 60.6061864
+   },
+   "tags": {
+    "amenity": "kindergarten"
+   }
+  },
+  {
+   "type": "relation",
+   "id": 1842693,
+   "center": {
+    "lat": 56.7505162,
+    "lon": 60.7019677
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детcкий сад № 277",
+    "phone": "+7 343 258-55-44",
+    "preschool": "yes",
+    "ref": "227",
+    "type": "multipolygon"
+   }
+  },
+  {
+   "type": "relation",
+   "id": 1842694,
+   "center": {
+    "lat": 56.7498346,
+    "lon": 60.704363
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детcкий сад № 526",
+    "phone": "+7 343 258-76-98",
+    "ref": "471",
+    "type": "multipolygon"
+   }
+  },
+  {
+   "type": "relation",
+   "id": 1842707,
+   "center": {
+    "lat": 56.7498777,
+    "lon": 60.7059031
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №415 \"Успешинка\"",
+    "phone": "+7 343 258-74-53",
+    "type": "multipolygon"
+   }
+  },
+  {
+   "type": "relation",
+   "id": 5386358,
+   "center": {
+    "lat": 56.8273782,
+    "lon": 60.5548527
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 7",
+    "phone": "+7 343 2465046",
+    "ref": "7",
+    "type": "multipolygon"
+   }
+  },
+  {
+   "type": "relation",
+   "id": 7971114,
+   "center": {
+    "lat": 56.8535739,
+    "lon": 60.6178257
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 184",
+    "name:en": "Kindergarten # 184",
+    "name:ru": "Детский сад № 184",
+    "phone": "+73433543204",
+    "type": "multipolygon"
+   }
+  },
+  {
+   "type": "relation",
+   "id": 9681524,
+   "center": {
+    "lat": 56.8285259,
+    "lon": 60.6328266
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад №445",
+    "type": "multipolygon",
+    "website": "https://445.tvoysadik.ru/"
+   }
+  },
+  {
+   "type": "relation",
+   "id": 15341309,
+   "center": {
+    "lat": 56.7780138,
+    "lon": 60.7023485
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад № 133",
+    "type": "multipolygon"
+   }
+  },
+  {
+   "type": "relation",
+   "id": 19859380,
+   "center": {
+    "lat": 56.8933342,
+    "lon": 60.6249518
+   },
+   "tags": {
+    "amenity": "kindergarten",
+    "landuse": "education",
+    "name": "Детский сад Гелиос",
+    "type": "multipolygon"
+   }
+  }
+ ]
+}

@@ -1,0 +1,3447 @@
+{
+ "version": 0.6,
+ "generator": "Geofabrik extract russia/volga-fed-district, отобрано по запросу из поля query",
+ "osm3s": {
+  "timestamp_osm_base": "2026-10-02T20:21:34Z",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+ },
+ "query": "[out:json][timeout:90];\nnwr[\"amenity\"=\"pharmacy\"](56.71,53.00,57.01,53.40);\nout center tags;",
+ "elements": [
+  {
+   "type": "node",
+   "id": 345813075,
+   "lat": 56.8433163,
+   "lon": 53.2097972,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 499967473,
+   "lat": 56.8488967,
+   "lon": 53.2838041,
+   "tags": {
+    "addr:city": "Ижевск",
+    "addr:housenumber": "52",
+    "addr:street": "улица 40 лет Победы",
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "operator": "Стандарт-М"
+   }
+  },
+  {
+   "type": "node",
+   "id": 499967474,
+   "lat": 56.8529685,
+   "lon": 53.2827904,
+   "tags": {
+    "addr:city": "Ижевск",
+    "addr:housenumber": "76",
+    "addr:street": "улица 40 лет Победы",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Госаптека",
+    "operator": "Госаптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 587629467,
+   "lat": 56.8529612,
+   "lon": 53.2908792,
+   "tags": {
+    "addr:city": "Ижевск",
+    "addr:housenumber": "31",
+    "addr:street": "Молодёжная улица",
+    "amenity": "pharmacy",
+    "name": "24 часа",
+    "opening_hours": "24/7",
+    "operator": "Рокада"
+   }
+  },
+  {
+   "type": "node",
+   "id": 634038758,
+   "lat": 56.8460694,
+   "lon": 53.2811314,
+   "tags": {
+    "addr:city": "Ижевск",
+    "addr:housenumber": "110",
+    "addr:street": "улица 40 лет Победы",
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:30"
+   }
+  },
+  {
+   "type": "node",
+   "id": 688508489,
+   "lat": 56.8774469,
+   "lon": 53.2677216,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Бережная аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 688508518,
+   "lat": 56.8726158,
+   "lon": 53.2893295,
+   "tags": {
+    "addr:city": "Ижевск",
+    "addr:housenumber": "9",
+    "addr:street": "улица Петрова",
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 688508534,
+   "lat": 56.8740289,
+   "lon": 53.285789,
+   "tags": {
+    "addr:city": "Ижевск",
+    "addr:housenumber": "1",
+    "addr:street": "улица Петрова",
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 688508546,
+   "lat": 56.8722913,
+   "lon": 53.280766,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 688508563,
+   "lat": 56.8770164,
+   "lon": 53.2699945,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 861122364,
+   "lat": 56.8294499,
+   "lon": 53.1399408,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 862982874,
+   "lat": 56.82956,
+   "lon": 53.1418715,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптечный пункт 03",
+    "operator": "Аспек"
+   }
+  },
+  {
+   "type": "node",
+   "id": 944543005,
+   "lat": 56.8767695,
+   "lon": 53.191591,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 981367327,
+   "lat": 56.8759634,
+   "lon": 53.1807159,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 989976804,
+   "lat": 56.8433636,
+   "lon": 53.2063556,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2026-05-24",
+    "name": "Плюс",
+    "opening_hours": "08:00-21:00",
+    "operator": "ООО \"Кипарис\"",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 992571972,
+   "lat": 56.8177451,
+   "lon": 53.1786789,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 995777794,
+   "lat": 56.8725118,
+   "lon": 53.2260239,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека Оптовых цен"
+   }
+  },
+  {
+   "type": "node",
+   "id": 996161642,
+   "lat": 56.8470297,
+   "lon": 53.2961561,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1023043076,
+   "lat": 56.8799516,
+   "lon": 53.2377281,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1023046303,
+   "lat": 56.8766124,
+   "lon": 53.247734,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1052591163,
+   "lat": 56.8735454,
+   "lon": 53.2233737,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1149773235,
+   "lat": 56.8765927,
+   "lon": 53.1831815,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Стандарт-М"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1160675835,
+   "lat": 56.862553,
+   "lon": 53.2802419,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Апрель"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1160682265,
+   "lat": 56.8616306,
+   "lon": 53.2902061,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Саулык"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1166190931,
+   "lat": 56.8729618,
+   "lon": 53.2085992,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa,Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1177284766,
+   "lat": 56.841368,
+   "lon": 53.2836025,
+   "tags": {
+    "addr:housenumber": "14",
+    "addr:street": "улица Героя России Ильфата Закирова",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1201339253,
+   "lat": 56.8757901,
+   "lon": 53.1840877,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1201351172,
+   "lat": 56.845491,
+   "lon": 53.2304331,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-06-14",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 07:30-22:00; Sa-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1201352156,
+   "lat": 56.8441084,
+   "lon": 53.2308352,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Госаптека",
+    "opening_hours:signed": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1202098673,
+   "lat": 56.8207367,
+   "lon": 53.2133925,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 08:00-20:30; Sa-Su 09:00-20:00",
+    "ref": "36"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1202098717,
+   "lat": 56.8200469,
+   "lon": 53.208864,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:30-20:00",
+    "operator": "Бережная аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1259881735,
+   "lat": 56.8719705,
+   "lon": 53.2926051,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1259945033,
+   "lat": 56.8434056,
+   "lon": 53.2017862,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1259945036,
+   "lat": 56.843318,
+   "lon": 53.200655,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "ФармМаркет"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1276785743,
+   "lat": 56.8420066,
+   "lon": 53.2106016,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1315955777,
+   "lat": 56.8345973,
+   "lon": 53.2084861,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1318496366,
+   "lat": 56.8672398,
+   "lon": 53.1811243,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1319039298,
+   "lat": 56.8607385,
+   "lon": 53.1847176,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Фармакон"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1322005262,
+   "lat": 56.8548031,
+   "lon": 53.2114289,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-03-15",
+    "name": "Госаптека №100",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 09:00-18:00",
+    "operator": "ГУП УР \"Аптеки Удмуртии\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1322019111,
+   "lat": 56.8613743,
+   "lon": 53.2287198,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1322064937,
+   "lat": 56.8600112,
+   "lon": 53.2010174,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Фармакон"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1324159680,
+   "lat": 56.8354487,
+   "lon": 53.2179215,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1325783443,
+   "lat": 56.7949444,
+   "lon": 53.1823935,
+   "tags": {
+    "addr:housenumber": "43",
+    "addr:street": "улица Гагарина",
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2025-10-11",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1328782903,
+   "lat": 56.8704557,
+   "lon": 53.1810511,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "operator": "Мегапресс"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1333734146,
+   "lat": 56.8705548,
+   "lon": 53.1912224,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "operator": "Фармакон"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1361227892,
+   "lat": 56.848929,
+   "lon": 53.212433,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека №1",
+    "opening_hours": "Mo-Fr 07:30-20:30"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1397317760,
+   "lat": 56.850145,
+   "lon": 53.201553,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1397317815,
+   "lat": 56.8566033,
+   "lon": 53.2048005,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 08:00-21:30; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1397544237,
+   "lat": 56.8760913,
+   "lon": 53.1838291,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00",
+    "operator": "ООО «Детство»"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1417713284,
+   "lat": 56.8063449,
+   "lon": 53.1879369,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1436225317,
+   "lat": 56.8318758,
+   "lon": 53.1358294,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1436225320,
+   "lat": 56.8305041,
+   "lon": 53.1418692,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптечный пункт 03",
+    "operator": "Аспек"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1482460598,
+   "lat": 56.8759755,
+   "lon": 53.2143702,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Опека",
+    "operator": "Планета здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1548370943,
+   "lat": 56.8377303,
+   "lon": 53.2221324,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 07:30-22:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1553849387,
+   "lat": 56.86972,
+   "lon": 53.2174488,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Аптека",
+    "operator": "Фармакон"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1553849797,
+   "lat": 56.8697421,
+   "lon": 53.2181773,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Оптика",
+    "operator": "Фармакон"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1582585363,
+   "lat": 56.841261,
+   "lon": 53.2161007,
+   "tags": {
+    "amenity": "pharmacy",
+    "operator": "НикаФарм"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1643235791,
+   "lat": 56.8458366,
+   "lon": 53.2000219,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "Бережная аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1861286799,
+   "lat": 56.8604173,
+   "lon": 53.2082398,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 09:00-19:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2023080321,
+   "lat": 56.8621552,
+   "lon": 53.2811146,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Планета здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2023088702,
+   "lat": 56.8622186,
+   "lon": 53.2818137,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2023088708,
+   "lat": 56.8622958,
+   "lon": 53.2854397,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Айболит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2126821523,
+   "lat": 56.8676788,
+   "lon": 53.2351913,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2406728902,
+   "lat": 56.8370958,
+   "lon": 53.2064623,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2480037546,
+   "lat": 56.8613694,
+   "lon": 53.2902744,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2480037567,
+   "lat": 56.8514554,
+   "lon": 53.2910127,
+   "tags": {
+    "addr:city": "Ижевск",
+    "addr:housenumber": "38",
+    "addr:street": "Молодёжная улица",
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "Фармакон"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2480198472,
+   "lat": 56.8480287,
+   "lon": 53.2888553,
+   "tags": {
+    "addr:city": "Ижевск",
+    "addr:housenumber": "10",
+    "addr:street": "Молодёжная улица",
+    "amenity": "pharmacy",
+    "contact:phone": "+7 341 2312222",
+    "contact:website": "https://planetazdorovo.ru/",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Планета здоровья",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2483321084,
+   "lat": 56.8478934,
+   "lon": 53.2900559,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2567524459,
+   "lat": 56.8782074,
+   "lon": 53.221038,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 08:30-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2897566663,
+   "lat": 56.8771761,
+   "lon": 53.2685492,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "КЛЮКВА № 9"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2958305345,
+   "lat": 56.8425322,
+   "lon": 53.2836247,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3730731938,
+   "lat": 56.8407019,
+   "lon": 53.3223595,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3833236459,
+   "lat": 56.8801039,
+   "lon": 53.2140931,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4084625905,
+   "lat": 56.8374461,
+   "lon": 53.2822036,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека",
+    "opening_hours": "9:00-21:00",
+    "operator": "Аспэк Парма"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4087704743,
+   "lat": 56.8606338,
+   "lon": 53.1826394,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "operator": "ООО \"Стандарт-М\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 4104268968,
+   "lat": 56.875979,
+   "lon": 53.2148291,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Su 00:00-00:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4104268969,
+   "lat": 56.8759825,
+   "lon": 53.2149764,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Клюква"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4104268970,
+   "lat": 56.875482,
+   "lon": 53.217588,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Планета здоровья",
+    "brand:wikidata": "Q109732844",
+    "healthcare": "pharmacy",
+    "name": "Опека",
+    "operator": "Планета здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4192149655,
+   "lat": 56.8384625,
+   "lon": 53.1374941,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека №186",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 09:00-18:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4243303563,
+   "lat": 56.8454252,
+   "lon": 53.2091725,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Фармакон"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4243315087,
+   "lat": 56.8454906,
+   "lon": 53.213386,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека 03"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4281611189,
+   "lat": 56.8437823,
+   "lon": 53.204134,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 341 2312222",
+    "contact:website": "https://planetazdorovo.ru/",
+    "healthcare": "pharmacy",
+    "name": "Планета здоровья",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4301558913,
+   "lat": 56.8442838,
+   "lon": 53.2182389,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека опека",
+    "opening_hours": "Mo-Su 00:00-23:59"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4301599516,
+   "lat": 56.8427498,
+   "lon": 53.2006603,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптечный пункт"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4303704805,
+   "lat": 56.8677291,
+   "lon": 53.2089898,
+   "tags": {
+    "amenity": "pharmacy",
+    "shop": "convenience"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4316664380,
+   "lat": 56.7892826,
+   "lon": 53.3769814,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 08:00-18:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4317506647,
+   "lat": 56.7859914,
+   "lon": 53.3802637,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4317506650,
+   "lat": 56.7902093,
+   "lon": 53.3787588,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Госаптека",
+    "operator": "ГУП «Аптеки Удмуртии»"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4317506666,
+   "lat": 56.7857128,
+   "lon": 53.3795199,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Тазалык"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4462440189,
+   "lat": 56.8350797,
+   "lon": 53.2400995,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека",
+    "name:ru": "Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4471075190,
+   "lat": 56.872297,
+   "lon": 53.210893,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "name:en": "Pharmacon"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4534691589,
+   "lat": 56.8414066,
+   "lon": 53.2323914,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "name:ru": "Фармакон"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4546151591,
+   "lat": 56.8522526,
+   "lon": 53.2928027,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:30-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4584952153,
+   "lat": 56.7987255,
+   "lon": 53.1601821,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4584952502,
+   "lat": 56.7990095,
+   "lon": 53.1604602,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4827479021,
+   "lat": 56.8016775,
+   "lon": 53.1864663,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5109159348,
+   "lat": 56.8319164,
+   "lon": 53.1286003,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Государственная аптека №51",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 09:00-16:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5357585573,
+   "lat": 56.8025983,
+   "lon": 53.1867759,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2025-10-16",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5361721738,
+   "lat": 56.8620639,
+   "lon": 53.2798641,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:30-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7678006185,
+   "lat": 56.8437029,
+   "lon": 53.2972728,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7679039185,
+   "lat": 56.8447783,
+   "lon": 53.2979933,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:30-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7679100885,
+   "lat": 56.8461118,
+   "lon": 53.2312326,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Фармленд",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 260-03-93;+7 800 550-03-93",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7774957886,
+   "lat": 56.8730432,
+   "lon": 53.1888644,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7774958093,
+   "lat": 56.8729252,
+   "lon": 53.1853734,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Планета здоровья",
+    "brand:wikidata": "Q109732844",
+    "check_date:opening_hours": "2024-09-25",
+    "healthcare": "pharmacy",
+    "name": "Планета здоровья",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7846186186,
+   "lat": 56.8679292,
+   "lon": 53.3038434,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 10:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7846199985,
+   "lat": 56.8736194,
+   "lon": 53.3027078,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7846200085,
+   "lat": 56.8727654,
+   "lon": 53.297561,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7846407285,
+   "lat": 56.8761079,
+   "lon": 53.2715463,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Планета здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7846459285,
+   "lat": 56.8644884,
+   "lon": 53.2894639,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Планета здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7887572925,
+   "lat": 56.8727669,
+   "lon": 53.2868636,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Планета здоровья",
+    "brand:wikidata": "Q109732844",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Планета Здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8004128186,
+   "lat": 56.8538545,
+   "lon": 53.3068373,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8173276419,
+   "lat": 56.8415643,
+   "lon": 53.3234922,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Планета здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8571034309,
+   "lat": 56.8382538,
+   "lon": 53.1428698,
+   "tags": {
+    "addr:city": "Ижевск",
+    "addr:housenumber": "33",
+    "addr:street": "Заречное шоссе",
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9235399859,
+   "lat": 56.838261,
+   "lon": 53.1400837,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9447145833,
+   "lat": 56.865924,
+   "lon": 53.224183,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@eapteka.ru",
+    "contact:phone": "+7 800 7007711",
+    "contact:website": "https://www.eapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Еаптека",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9645304662,
+   "lat": 56.8688574,
+   "lon": 53.2224083,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 5500033",
+    "contact:website": "https://apteka-ot-sklada.ru/",
+    "healthcare": "pharmacy",
+    "name": "Аптека от склада",
+    "name:ru": "Аптека от склада",
+    "opening_hours": "Mo-Fr 09:00-19:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9815242770,
+   "lat": 56.8845542,
+   "lon": 53.2576385,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-06-13",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9815356720,
+   "lat": 56.8440457,
+   "lon": 53.2154553,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Планета здоровья",
+    "brand:wikidata": "Q109732844",
+    "check_date": "2022-06-13",
+    "healthcare": "pharmacy",
+    "name": "Планета здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9944263597,
+   "lat": 56.838193,
+   "lon": 53.311291,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 341 2327604-5602",
+    "contact:website": "https://aloeapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10209842218,
+   "lat": 56.8624857,
+   "lon": 53.286438,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 341 2327604-5748",
+    "contact:website": "https://aloeapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10244920156,
+   "lat": 56.8476606,
+   "lon": 53.2351594,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Госаптека",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa, Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10264907645,
+   "lat": 56.8450356,
+   "lon": 53.2201293,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10586441306,
+   "lat": 56.9187824,
+   "lon": 53.2638053,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Госаптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697172998,
+   "lat": 56.8722188,
+   "lon": 53.2144529,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697172999,
+   "lat": 56.8532781,
+   "lon": 53.2908261,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697173000,
+   "lat": 56.8364438,
+   "lon": 53.2175615,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 09:30-21:00; Sa-Su 10:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697173001,
+   "lat": 56.8701768,
+   "lon": 53.2181543,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697173002,
+   "lat": 56.869343,
+   "lon": 53.219549,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697234905,
+   "lat": 56.7878756,
+   "lon": 53.1616562,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 08:00-21:30; Sa-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697234910,
+   "lat": 56.8695303,
+   "lon": 53.185721,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697234911,
+   "lat": 56.92044,
+   "lon": 53.230616,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697234912,
+   "lat": 56.8686537,
+   "lon": 53.2073021,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 08:30-21:00; Sa-Su 09:30-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697234913,
+   "lat": 56.8859718,
+   "lon": 53.2340062,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697234914,
+   "lat": 56.866745,
+   "lon": 53.242851,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 08:00-21:30; Sa-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697234915,
+   "lat": 56.8577436,
+   "lon": 53.2169795,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697234916,
+   "lat": 56.8123555,
+   "lon": 53.2040513,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697234917,
+   "lat": 56.8531608,
+   "lon": 53.1100827,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697234918,
+   "lat": 56.8175775,
+   "lon": 53.1773659,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa 08:00-21:00; Su 08:30-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235216,
+   "lat": 56.8402672,
+   "lon": 53.3267248,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235219,
+   "lat": 56.8302749,
+   "lon": 53.1371623,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 08:00-21:30; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235220,
+   "lat": 56.8357923,
+   "lon": 53.247605,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235221,
+   "lat": 56.8348444,
+   "lon": 53.2069266,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235222,
+   "lat": 56.8382161,
+   "lon": 53.1363469,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235223,
+   "lat": 56.8651703,
+   "lon": 53.1807214,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235225,
+   "lat": 56.8795883,
+   "lon": 53.2572233,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235226,
+   "lat": 56.8321826,
+   "lon": 53.1114774,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235227,
+   "lat": 56.828099,
+   "lon": 53.133229,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235228,
+   "lat": 56.8615048,
+   "lon": 53.2012778,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7009543",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 08:30-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235229,
+   "lat": 56.8666393,
+   "lon": 53.1812257,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235230,
+   "lat": 56.8097714,
+   "lon": 53.1890953,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697235231,
+   "lat": 56.8314606,
+   "lon": 53.135494,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Su 08:00-23:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697357099,
+   "lat": 56.8830742,
+   "lon": 53.2504956,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-03-15",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697357100,
+   "lat": 56.848941,
+   "lon": 53.283948,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697357101,
+   "lat": 56.8366154,
+   "lon": 53.248415,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697357102,
+   "lat": 56.8306389,
+   "lon": 53.1371999,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697357103,
+   "lat": 56.8884993,
+   "lon": 53.2418624,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697357104,
+   "lat": 56.8406394,
+   "lon": 53.2151489,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697387905,
+   "lat": 56.8520755,
+   "lon": 53.2135114,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 08:30-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722892671,
+   "lat": 56.8725486,
+   "lon": 53.2252273,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722892672,
+   "lat": 56.861962,
+   "lon": 53.231201,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722892693,
+   "lat": 56.868379,
+   "lon": 53.31061,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722892698,
+   "lat": 56.8416213,
+   "lon": 53.2847455,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722892699,
+   "lat": 56.853724,
+   "lon": 53.2230198,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009543",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722892700,
+   "lat": 56.877514,
+   "lon": 53.196434,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:30-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722892701,
+   "lat": 56.858612,
+   "lon": 53.196821,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722892702,
+   "lat": 56.848382,
+   "lon": 53.266198,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722892703,
+   "lat": 56.862687,
+   "lon": 53.201128,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722892704,
+   "lat": 56.876953,
+   "lon": 53.289078,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 09:00-19:30"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722918905,
+   "lat": 56.866572,
+   "lon": 53.242742,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 08:30-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722918906,
+   "lat": 56.837751,
+   "lon": 53.2311523,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722918907,
+   "lat": 56.8864685,
+   "lon": 53.236675,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722918908,
+   "lat": 56.873323,
+   "lon": 53.297657,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:30-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722918909,
+   "lat": 56.8431133,
+   "lon": 53.237265,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:30-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722918910,
+   "lat": 56.877158,
+   "lon": 53.301952,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722918911,
+   "lat": 56.8322655,
+   "lon": 53.233707,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722918912,
+   "lat": 56.865203,
+   "lon": 53.180754,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7009543",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:30-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722918913,
+   "lat": 56.8600693,
+   "lon": 53.2013476,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 07:30-23:30; Sa-Su 08:00-23:30"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722918914,
+   "lat": 56.865328,
+   "lon": 53.288826,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:30-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722918915,
+   "lat": 56.8390388,
+   "lon": 53.2333034,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su 08:30-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10737261200,
+   "lat": 56.8569042,
+   "lon": 53.1971599,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Фармленд",
+    "check_date": "2023-03-15",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11067234675,
+   "lat": 56.8477401,
+   "lon": 53.2899517,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009119",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармаимпекс",
+    "opening_hours": "Mo-Su 07:00-23:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11067234676,
+   "lat": 56.87715,
+   "lon": 53.268687,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009119",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармаимпекс",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11067234677,
+   "lat": 56.8371599,
+   "lon": 53.2066259,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009119",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармаимпекс",
+    "opening_hours": "Mo-Su 07:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11156005720,
+   "lat": 56.8760063,
+   "lon": 53.1840205,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11156005721,
+   "lat": 56.8312464,
+   "lon": 53.1354618,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "opening_hours": "Mo-Su 08:00-23:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11156005722,
+   "lat": 56.8670762,
+   "lon": 53.1811344,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11156005723,
+   "lat": 56.8520579,
+   "lon": 53.2124547,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa-Su 09:00-23:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11156005724,
+   "lat": 56.8581997,
+   "lon": 53.3008897,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11156005725,
+   "lat": 56.8696622,
+   "lon": 53.2897638,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11156005727,
+   "lat": 56.8730865,
+   "lon": 53.2659834,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925929,
+   "lat": 56.8305901,
+   "lon": 53.1432053,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925930,
+   "lat": 56.8363525,
+   "lon": 53.2162178,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925931,
+   "lat": 56.8732967,
+   "lon": 53.2085456,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925932,
+   "lat": 56.8718401,
+   "lon": 53.3032903,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925933,
+   "lat": 56.8355031,
+   "lon": 53.1410719,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925934,
+   "lat": 56.8696277,
+   "lon": 53.2098835,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925935,
+   "lat": 56.870126,
+   "lon": 53.2884293,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925936,
+   "lat": 56.8771919,
+   "lon": 53.1965647,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:30"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925937,
+   "lat": 56.8418282,
+   "lon": 53.1178467,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925938,
+   "lat": 56.8787766,
+   "lon": 53.2223096,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925939,
+   "lat": 56.8650941,
+   "lon": 53.2378766,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 09:00-20:50"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925940,
+   "lat": 56.8735919,
+   "lon": 53.3035145,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925941,
+   "lat": 56.8481506,
+   "lon": 53.2903363,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925944,
+   "lat": 56.8660881,
+   "lon": 53.2008111,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925945,
+   "lat": 56.8494067,
+   "lon": 53.2173271,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925946,
+   "lat": 56.876798,
+   "lon": 53.1867859,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925947,
+   "lat": 56.8438626,
+   "lon": 53.2061273,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925948,
+   "lat": 56.8462825,
+   "lon": 53.2928372,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925949,
+   "lat": 56.8100145,
+   "lon": 53.2058263,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12298925950,
+   "lat": 56.8436247,
+   "lon": 53.2206262,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12583477101,
+   "lat": 56.841698,
+   "lon": 53.282594,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Планета здоровья",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "website": "https://planetazdorovo.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12600775995,
+   "lat": 56.8607103,
+   "lon": 53.1834097,
+   "tags": {
+    "addr:city": "Ижевск",
+    "addr:housenumber": "7А",
+    "addr:street": "улица Кирова",
+    "amenity": "pharmacy",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Фармакон",
+    "opening_hours": "24/7",
+    "operator": "ООО «Детство»",
+    "phone": "+7 3412 737022",
+    "ref": "70",
+    "website": "https://www.efarma.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12715887347,
+   "lat": 56.8610027,
+   "lon": 53.2216742,
+   "tags": {
+    "addr:housenumber": "304Н",
+    "addr:street": "Удмуртская улица",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12863947784,
+   "lat": 56.9130003,
+   "lon": 53.3174882,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "ГосАптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12871584135,
+   "lat": 56.7949135,
+   "lon": 53.2439658,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека.ру"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12951251287,
+   "lat": 56.8736494,
+   "lon": 53.1966832,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12951251288,
+   "lat": 56.840923,
+   "lon": 53.2092574,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@farmlend.ru",
+    "contact:phone": "+7 347 2600393;+7 800 5500393",
+    "contact:website": "https://farmlend.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13047577608,
+   "lat": 56.7579208,
+   "lon": 53.0994872,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13047577609,
+   "lat": 56.7579085,
+   "lon": 53.099475,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Фармацея"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13110043242,
+   "lat": 56.8507415,
+   "lon": 53.2327146,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Фармленд",
+    "healthcare": "pharmacy",
+    "name": "Фармленд",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13110043245,
+   "lat": 56.850709,
+   "lon": 53.2329198,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa, Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13199977402,
+   "lat": 56.8518718,
+   "lon": 53.2289063,
+   "tags": {
+    "addr:housenumber": "72",
+    "addr:street": "улица Лихвинцева",
+    "amenity": "pharmacy",
+    "brand": "Госаптека",
+    "healthcare": "pharmacy",
+    "name": "Госаптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13238849983,
+   "lat": 56.7948988,
+   "lon": 53.1764518,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "brand:wikidata": "Q114060847",
+    "healthcare": "pharmacy",
+    "name": "Апрель",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13298851121,
+   "lat": 56.879612,
+   "lon": 53.2100874,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Магнит Аптека",
+    "brand:wikidata": "Q120262563",
+    "healthcare": "pharmacy",
+    "name": "Магнит Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13301627803,
+   "lat": 56.7312162,
+   "lon": 53.2904146,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Фармленд"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13301627807,
+   "lat": 56.7311176,
+   "lon": 53.290767,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Планета здоровья",
+    "brand:wikidata": "Q109732844",
+    "healthcare": "pharmacy",
+    "name": "Планета здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13310961277,
+   "lat": 56.8439559,
+   "lon": 53.2373211,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Планета здоровья",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13316652211,
+   "lat": 56.8422035,
+   "lon": 53.2396465,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "brand:wikidata": "Q114060847",
+    "healthcare": "pharmacy",
+    "name": "Апрель"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13316652214,
+   "lat": 56.8426055,
+   "lon": 53.2380896,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "ГосАптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13316652223,
+   "lat": 56.8410123,
+   "lon": 53.2404564,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "brand:wikidata": "Q114060847",
+    "healthcare": "pharmacy",
+    "name": "Апрель"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13388054464,
+   "lat": 56.857782,
+   "lon": 53.3585037,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13469224839,
+   "lat": 56.8383525,
+   "lon": 53.2158978,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Планета здоровья",
+    "brand:wikidata": "Q109732844",
+    "healthcare": "pharmacy",
+    "name": "Планета здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13514510454,
+   "lat": 56.9188609,
+   "lon": 53.2638019,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "brand:wikidata": "Q114060847",
+    "healthcare": "pharmacy",
+    "name": "Апрель"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13819635026,
+   "lat": 56.8478944,
+   "lon": 53.248962,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "ГосАптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13891994597,
+   "lat": 56.8429336,
+   "lon": 53.2091933,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "brand": "Планета здоровья",
+    "brand:wikidata": "Q109732844",
+    "check_date": "2026-05-24",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Планета здоровья",
+    "opening_hours": "09:00-21:00",
+    "operator": "ООО \"Вербена\"",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13893515439,
+   "lat": 56.8429336,
+   "lon": 53.2091933,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "brand": "Планета здоровья",
+    "brand:wikidata": "Q109732844",
+    "check_date": "2026-05-24",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Планета здоровья",
+    "opening_hours": "09:00-21:00",
+    "operator": "ООО \"Вербена\"",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13924352338,
+   "lat": 56.8557215,
+   "lon": 53.2216242,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13925826293,
+   "lat": 56.843722,
+   "lon": 53.2683674,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Бережная"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13927682848,
+   "lat": 56.8437043,
+   "lon": 53.2709164,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14054958586,
+   "lat": 56.7919042,
+   "lon": 53.3863152,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "brand:wikidata": "Q114060847",
+    "healthcare": "pharmacy",
+    "name": "Апрель"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14132635741,
+   "lat": 56.8612208,
+   "lon": 53.22748,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Апрель"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14143423966,
+   "lat": 56.8490193,
+   "lon": 53.2125083,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Госаптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14143429332,
+   "lat": 56.8487912,
+   "lon": 53.2146161,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Планета Здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14143594821,
+   "lat": 56.858856,
+   "lon": 53.1968403,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Бережная аптека",
+    "brand:wikidata": "Q62664194",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14168466721,
+   "lat": 56.9520363,
+   "lon": 53.3413665,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Планета здоровья",
+    "brand:wikidata": "Q109732844",
+    "healthcare": "pharmacy",
+    "name": "Планета здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14183369838,
+   "lat": 56.8444116,
+   "lon": 53.2193728,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Планета здоровья"
+   }
+  },
+  {
+   "type": "way",
+   "id": 54935460,
+   "center": {
+    "lat": 56.8344138,
+    "lon": 53.2314099
+   },
+   "tags": {
+    "addr:housenumber": "196",
+    "addr:street": "Удмуртская улица",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "ГосАптека",
+    "ref": "147"
+   }
+  },
+  {
+   "type": "way",
+   "id": 118837680,
+   "center": {
+    "lat": 56.877671,
+    "lon": 53.2504929
+   },
+   "tags": {
+    "addr:city": "Ижевск",
+    "addr:housenumber": "197Б",
+    "addr:street": "улица 9 Января",
+    "amenity": "pharmacy",
+    "building": "retail",
+    "building:levels": "1",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Клюква",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "way",
+   "id": 354191560,
+   "center": {
+    "lat": 56.8757143,
+    "lon": 53.2867051
+   },
+   "tags": {
+    "addr:housenumber": "36",
+    "addr:street": "Автозаводская улица",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Фармация"
+   }
+  },
+  {
+   "type": "way",
+   "id": 626971530,
+   "center": {
+    "lat": 56.8643889,
+    "lon": 53.2912374
+   },
+   "tags": {
+    "amenity": "pharmacy",
+    "building": "yes",
+    "dispensing": "yes",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1434869062,
+   "center": {
+    "lat": 56.8442345,
+    "lon": 53.299576
+   },
+   "tags": {
+    "addr:city": "Ижевск",
+    "addr:housenumber": "7A",
+    "addr:postcode": "426075",
+    "addr:street": "Союзная улица",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "Госаптека",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 08:00-16:00"
+   }
+  }
+ ]
+}

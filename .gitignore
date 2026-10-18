@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+.installed.cfg
+
+# Виртуальные окружения
+env/
+venv/
+ENV/
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Временные файлы
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Генерируемые файлы (не коммитить)
+points.txt
+district.txt
+out/
+*.png

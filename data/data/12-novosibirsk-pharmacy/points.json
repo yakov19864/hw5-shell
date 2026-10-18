@@ -1,0 +1,7108 @@
+{
+ "version": 0.6,
+ "generator": "Geofabrik extract russia/siberian-fed-district, отобрано по запросу из поля query",
+ "osm3s": {
+  "timestamp_osm_base": "2026-10-02T20:21:34Z",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+ },
+ "query": "[out:json][timeout:90];\nnwr[\"amenity\"=\"pharmacy\"](54.80,82.75,55.20,83.17);\nout center tags;",
+ "elements": [
+  {
+   "type": "node",
+   "id": 288674874,
+   "lat": 55.0180917,
+   "lon": 82.9241346,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "03"
+   }
+  },
+  {
+   "type": "node",
+   "id": 288674875,
+   "lat": 55.0240956,
+   "lon": 82.9225452,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 383 2239865",
+    "healthcare": "pharmacy",
+    "name": "Аптека №1",
+    "opening_hours": "Mo-Su,PH 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 320752942,
+   "lat": 55.0385329,
+   "lon": 82.9798342,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Муниципальная новосибирская аптечная сеть"
+   }
+  },
+  {
+   "type": "node",
+   "id": 320831065,
+   "lat": 55.0332736,
+   "lon": 82.9729365,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 320831211,
+   "lat": 55.0362144,
+   "lon": 82.9769903,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "03"
+   }
+  },
+  {
+   "type": "node",
+   "id": 327399129,
+   "lat": 55.0273936,
+   "lon": 82.9169093,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 327407986,
+   "lat": 55.0261028,
+   "lon": 82.9170538,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Мелодия здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 332564999,
+   "lat": 54.9636445,
+   "lon": 82.9021561,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Фарм-Лайт",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 332806560,
+   "lat": 54.8639908,
+   "lon": 82.9804,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 370821351,
+   "lat": 55.0564977,
+   "lon": 82.9332283,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-06-03",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 380063032,
+   "lat": 54.9646663,
+   "lon": 82.9563017,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Муниципальная новосибирская аптечная сеть"
+   }
+  },
+  {
+   "type": "node",
+   "id": 386039612,
+   "lat": 54.9827547,
+   "lon": 82.89789,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 386039615,
+   "lat": 54.9852805,
+   "lon": 82.8932983,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Ваше здоровье"
+   }
+  },
+  {
+   "type": "node",
+   "id": 392364316,
+   "lat": 54.9798053,
+   "lon": 82.90309,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Сибирский лекарь"
+   }
+  },
+  {
+   "type": "node",
+   "id": 393928711,
+   "lat": 54.9727494,
+   "lon": 82.9030027,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "118/1",
+    "addr:postcode": "630048",
+    "addr:street": "улица Немировича-Данченко",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "ФармДисконт, аптека",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "+7 800 5507732",
+    "website": "https://apteka22.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 411247790,
+   "lat": 54.9755758,
+   "lon": 82.8967613,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Ноль Боль",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 411247818,
+   "lat": 54.9774664,
+   "lon": 82.8974341,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "opening_hours": "08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 418172993,
+   "lat": 54.9753634,
+   "lon": 82.8899554,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 419054514,
+   "lat": 55.0016844,
+   "lon": 82.9516712,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 427565111,
+   "lat": 54.9849611,
+   "lon": 82.8222408,
+   "tags": {
+    "amenity": "pharmacy",
+    "drive_through": "no",
+    "name": "Аптека №10",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 08:00-20:00",
+    "operator": "Муниципальная новосибирская аптечная сеть",
+    "phone": "+7 383 2301818"
+   }
+  },
+  {
+   "type": "node",
+   "id": 427565117,
+   "lat": 54.9804282,
+   "lon": 82.8341774,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Кардинал-А",
+    "opening_hours": "Mo-Su,PH 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 447655925,
+   "lat": 54.9397524,
+   "lon": 82.8992843,
+   "tags": {
+    "addr:housenumber": "20",
+    "addr:postcode": "630088",
+    "addr:street": "улица Петухова",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "operator": "Муниципальная Новосибирская аптечная сеть"
+   }
+  },
+  {
+   "type": "node",
+   "id": 462192156,
+   "lat": 55.0249807,
+   "lon": 82.9123068,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "18",
+    "addr:postcode": "630099",
+    "addr:street": "улица Чаплыгина",
+    "amenity": "pharmacy",
+    "opening_hours": "9:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 469724535,
+   "lat": 55.0262758,
+   "lon": 82.9210693,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "36,6",
+    "website": "https://366.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 474951415,
+   "lat": 55.003665,
+   "lon": 83.0221828,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 517357175,
+   "lat": 54.9822972,
+   "lon": 82.8827131,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Радуга",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 517357209,
+   "lat": 54.9818233,
+   "lon": 82.8900679,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 566133216,
+   "lat": 54.9823462,
+   "lon": 82.8730204,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ноль Боль"
+   }
+  },
+  {
+   "type": "node",
+   "id": 571733025,
+   "lat": 55.0291925,
+   "lon": 82.9130633,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека №49",
+    "opening_hours": "08:00-22:00",
+    "operator": "Муниципальная новосибирская аптечная сеть"
+   }
+  },
+  {
+   "type": "node",
+   "id": 582920763,
+   "lat": 54.866245,
+   "lon": 83.0816808,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "3",
+    "addr:street": "улица Иванова",
+    "amenity": "pharmacy",
+    "check_date": "2022-04-03",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Да Аптека",
+    "opening_hours": "08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+7 383 332-47-00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 609057406,
+   "lat": 55.137848,
+   "lon": 82.965404,
+   "tags": {
+    "amenity": "pharmacy",
+    "entrance": "yes",
+    "name": "Мила-Фарм"
+   }
+  },
+  {
+   "type": "node",
+   "id": 611611992,
+   "lat": 55.0666622,
+   "lon": 82.9356619,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-02-27",
+    "healthcare": "pharmacy",
+    "name": "аптека 54 плюс",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 611612142,
+   "lat": 55.0761942,
+   "lon": 82.9603908,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 616951616,
+   "lat": 54.8890212,
+   "lon": 83.097016,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Мелодия здоровья",
+    "brand:wikidata": "Q110278680",
+    "healthcare": "pharmacy",
+    "name": "Мелодия здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 617827948,
+   "lat": 54.9873104,
+   "lon": 82.8962767,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ноль Боль",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 617827962,
+   "lat": 54.9907024,
+   "lon": 82.9009738,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Ромашка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 617827963,
+   "lat": 54.990821,
+   "lon": 82.9010751,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека №11"
+   }
+  },
+  {
+   "type": "node",
+   "id": 618790799,
+   "lat": 55.1567133,
+   "lon": 82.9564977,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Фармация",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 09:00-13:00,13:30-20:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 618791111,
+   "lat": 55.1580537,
+   "lon": 82.9628937,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Столичный доктор"
+   }
+  },
+  {
+   "type": "node",
+   "id": 625082936,
+   "lat": 54.9936467,
+   "lon": 82.9005989,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "Mo-Sa 9:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 627558342,
+   "lat": 54.8487659,
+   "lon": 83.0408797,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "5",
+    "addr:street": "Русская улица",
+    "amenity": "pharmacy",
+    "check_date": "2024-06-30",
+    "entrance": "yes",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Моя аптека",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 627558343,
+   "lat": 54.8487913,
+   "lon": 83.0417224,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "3",
+    "addr:street": "Русская улица",
+    "amenity": "pharmacy",
+    "entrance": "main",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Ноль боль",
+    "opening_hours": "08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 633125825,
+   "lat": 54.9632348,
+   "lon": 82.9012254,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 639172838,
+   "lat": 54.8391403,
+   "lon": 83.1117542,
+   "tags": {
+    "addr:floor": "подвал",
+    "addr:housenumber": "36",
+    "addr:street": "улица Терешковой",
+    "amenity": "pharmacy",
+    "check_date": "2022-07-13",
+    "internet_access": "no",
+    "level": "-1",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su 10:00-20:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 648468256,
+   "lat": 54.8048212,
+   "lon": 83.0965636,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Моя аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 652414750,
+   "lat": 54.8640664,
+   "lon": 83.1030196,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "5",
+    "addr:street": "улица Демакова",
+    "amenity": "pharmacy",
+    "check_date": "2022-05-30",
+    "internet_access": "no",
+    "level": "0",
+    "opening_hours": "08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "phone": "+7 383 336-33-66",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 652414769,
+   "lat": 54.8639898,
+   "lon": 83.1090313,
+   "tags": {
+    "addr:floor": "1",
+    "amenity": "pharmacy",
+    "check_date": "2022-05-23",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Ноль Боль",
+    "opening_hours": "08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 652414772,
+   "lat": 54.8634122,
+   "lon": 83.1091665,
+   "tags": {
+    "addr:housenumber": "20",
+    "addr:street": "улица Демакова",
+    "amenity": "pharmacy",
+    "check_date": "2022-03-25",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Муниципальная Новосибирская аптечная сеть",
+    "opening_hours": "08:00-20:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+7 383 2301818",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 657629230,
+   "lat": 55.0246649,
+   "lon": 82.9184161,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ноль Боль"
+   }
+  },
+  {
+   "type": "node",
+   "id": 662865775,
+   "lat": 54.9914249,
+   "lon": 82.9112059,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 662865776,
+   "lat": 54.9921429,
+   "lon": 82.9109452,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека 54",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 663743041,
+   "lat": 54.9708563,
+   "lon": 82.8425015,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ноль Боль"
+   }
+  },
+  {
+   "type": "node",
+   "id": 663950491,
+   "lat": 55.0376387,
+   "lon": 83.0156751,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 383 3120106-5660",
+    "contact:website": "https://aloeapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 08:00-23:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 663953195,
+   "lat": 55.0380262,
+   "lon": 82.9607631,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 664127312,
+   "lat": 54.963276,
+   "lon": 82.8433501,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Радуга"
+   }
+  },
+  {
+   "type": "node",
+   "id": 664454033,
+   "lat": 54.9886297,
+   "lon": 82.9067683,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Домашняя",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 668905972,
+   "lat": 54.9350458,
+   "lon": 82.9077088,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ноль Боль"
+   }
+  },
+  {
+   "type": "node",
+   "id": 668905973,
+   "lat": 54.9373341,
+   "lon": 82.9091062,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Радуга"
+   }
+  },
+  {
+   "type": "node",
+   "id": 672236263,
+   "lat": 55.0623846,
+   "lon": 82.8927126,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-05",
+    "dispensing": "no",
+    "name": "Аптечный дворъ",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 672572930,
+   "lat": 55.0337708,
+   "lon": 82.9704373,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Муниципальная №201"
+   }
+  },
+  {
+   "type": "node",
+   "id": 676480696,
+   "lat": 55.1297286,
+   "lon": 82.8953694,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 678324946,
+   "lat": 55.0143966,
+   "lon": 82.9266522,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 701817813,
+   "lat": 54.9803617,
+   "lon": 82.8999111,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 703037558,
+   "lat": 54.9918626,
+   "lon": 82.8551582,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 708514854,
+   "lat": 55.0341027,
+   "lon": 82.8916245,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 727353534,
+   "lat": 55.0454385,
+   "lon": 82.9140364,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 737743700,
+   "lat": 55.0361333,
+   "lon": 82.9080049,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека №1",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 738301802,
+   "lat": 55.0440244,
+   "lon": 82.9336889,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ромашка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 767856816,
+   "lat": 55.0316251,
+   "lon": 82.8931703,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека №255"
+   }
+  },
+  {
+   "type": "node",
+   "id": 769222346,
+   "lat": 55.0408601,
+   "lon": 82.9212267,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 769222349,
+   "lat": 55.0469334,
+   "lon": 82.9196679,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 775791454,
+   "lat": 55.0420748,
+   "lon": 82.9194097,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 811196395,
+   "lat": 54.9212605,
+   "lon": 82.9948814,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 821035951,
+   "lat": 54.9937278,
+   "lon": 82.8577685,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Белая аптека",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 828574878,
+   "lat": 54.997862,
+   "lon": 82.961675,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 853223887,
+   "lat": 54.8843903,
+   "lon": 82.7778622,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 866379138,
+   "lat": 55.0320282,
+   "lon": 82.9194885,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-23",
+    "name": "Аптека №1"
+   }
+  },
+  {
+   "type": "node",
+   "id": 914686455,
+   "lat": 54.9781588,
+   "lon": 82.8601312,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Фармавита"
+   }
+  },
+  {
+   "type": "node",
+   "id": 914732441,
+   "lat": 55.1099934,
+   "lon": 82.9517967,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 914732445,
+   "lat": 55.1060368,
+   "lon": 82.9553565,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ноль Боль",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 914732448,
+   "lat": 55.1053377,
+   "lon": 82.9558584,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 914732452,
+   "lat": 55.1098993,
+   "lon": 82.9464096,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 914732480,
+   "lat": 55.1072297,
+   "lon": 82.9540244,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 921480153,
+   "lat": 54.8640776,
+   "lon": 83.1009715,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "1",
+    "addr:street": "улица Демакова",
+    "amenity": "pharmacy",
+    "check_date": "2022-05-30",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Моя аптека",
+    "opening_hours": "08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 968818955,
+   "lat": 54.9993,
+   "lon": 83.0095725,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Моя Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1013850410,
+   "lat": 54.8665603,
+   "lon": 83.0809713,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "18/1",
+    "addr:street": "улица Героев Труда",
+    "amenity": "pharmacy",
+    "check_date": "2022-04-03",
+    "level": "0",
+    "name": "Моя аптека",
+    "opening_hours": "08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1035129081,
+   "lat": 54.9964519,
+   "lon": 82.9674591,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1036896708,
+   "lat": 55.0557721,
+   "lon": 82.9756728,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1062467641,
+   "lat": 55.0155398,
+   "lon": 82.9444627,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Моя Аптека",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1068907845,
+   "lat": 54.9898102,
+   "lon": 82.8439484,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ромашка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1078695498,
+   "lat": 54.989346,
+   "lon": 82.905403,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1089186784,
+   "lat": 55.0599334,
+   "lon": 82.8920764,
+   "tags": {
+    "amenity": "pharmacy",
+    "name:signed": "no",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 09:00-20:00",
+    "operator": "Новосибирская аптечная сеть",
+    "phone": "+7 383 2280070",
+    "ref": "135",
+    "website": "https://mpnas.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1104494548,
+   "lat": 54.9921853,
+   "lon": 82.8120767,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1104885225,
+   "lat": 55.0179981,
+   "lon": 82.9426908,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "обком КПСС"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1104890460,
+   "lat": 55.0182839,
+   "lon": 82.9435215,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Сибиряк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1110248997,
+   "lat": 55.0122296,
+   "lon": 82.9415739,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1140481136,
+   "lat": 54.8405157,
+   "lon": 83.109471,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "6",
+    "addr:street": "Морской проспект",
+    "amenity": "pharmacy",
+    "check_date": "2022-06-13",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Apteka.ru",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1151000131,
+   "lat": 55.0380833,
+   "lon": 82.9703197,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1187674073,
+   "lat": 55.0573267,
+   "lon": 82.939292,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1192320623,
+   "lat": 54.9335929,
+   "lon": 82.9243874,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1192320626,
+   "lat": 54.9341118,
+   "lon": 82.925906,
+   "tags": {
+    "addr:housenumber": "145",
+    "addr:street": "улица Зорге",
+    "amenity": "pharmacy",
+    "check_date": "2022-07-01",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "name": "Фармакопейка",
+    "opening_hours": "08:00-21:00",
+    "operator": "ООО \"Фармакопейка-Сибирь\"",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1197088761,
+   "lat": 55.0606746,
+   "lon": 82.907582,
+   "tags": {
+    "amenity": "pharmacy",
+    "operator": "Новосибирская аптечная сеть",
+    "phone": "+7 383 2301818",
+    "website": "https://mpnas.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1204294980,
+   "lat": 54.8681615,
+   "lon": 83.0920238,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "30",
+    "addr:street": "улица Иванова",
+    "amenity": "pharmacy",
+    "check_date": "2022-06-24",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Моя аптека",
+    "opening_hours": "PH,Mo-Su 08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1222768663,
+   "lat": 55.0395563,
+   "lon": 82.9066367,
+   "tags": {
+    "amenity": "pharmacy",
+    "operator": "муниципальная сеть"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1222768665,
+   "lat": 55.0394812,
+   "lon": 82.9064249,
+   "tags": {
+    "amenity": "pharmacy",
+    "operator": "фитоцентр"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1258318007,
+   "lat": 55.0601527,
+   "lon": 82.9158209,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "муниципальная сеть",
+    "opening_hours": "Mo-Su,PH 08:00-22:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1263238572,
+   "lat": 55.0598032,
+   "lon": 82.9100523,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-08-21",
+    "name": "Озерки",
+    "opening_hours": "24/7",
+    "operator": "Радуга",
+    "phone": "+7 383 2257897",
+    "website": "http://apteka-raduga.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1295087936,
+   "lat": 55.0444398,
+   "lon": 82.9544474,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-18",
+    "name": "ФармЦент",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1295088022,
+   "lat": 55.0428253,
+   "lon": 82.9523995,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Авицена"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1295109738,
+   "lat": 55.0518364,
+   "lon": 82.9678558,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Радуга"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1296316099,
+   "lat": 55.0371011,
+   "lon": 82.9273425,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1296316287,
+   "lat": 55.0365119,
+   "lon": 82.9202866,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1323385646,
+   "lat": 54.935338,
+   "lon": 82.902998,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1347055840,
+   "lat": 55.0368235,
+   "lon": 82.8971447,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1347055866,
+   "lat": 55.0375574,
+   "lon": 82.8978284,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1347055990,
+   "lat": 55.0388437,
+   "lon": 82.8959937,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1356954204,
+   "lat": 55.0339496,
+   "lon": 82.9063466,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1356954249,
+   "lat": 55.0347043,
+   "lon": 82.903151,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1356955122,
+   "lat": 55.0395819,
+   "lon": 82.9099126,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1359980716,
+   "lat": 55.0773761,
+   "lon": 82.9702159,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "36,6",
+    "website": "https://366.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1359980821,
+   "lat": 55.077592,
+   "lon": 82.971176,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Радуга"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1362316465,
+   "lat": 55.077152,
+   "lon": 82.9717999,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Муниципальная аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1390810089,
+   "lat": 55.0632125,
+   "lon": 82.9212534,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1462514793,
+   "lat": 54.8647752,
+   "lon": 82.981916,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1619105183,
+   "lat": 54.9667164,
+   "lon": 82.8731989,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Радуга"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1647451272,
+   "lat": 55.1622293,
+   "lon": 82.9810316,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "НольБоль",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1655517671,
+   "lat": 55.068811,
+   "lon": 82.9702041,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "name": "Аптека №8"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1655518205,
+   "lat": 55.0707042,
+   "lon": 82.9694685,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1655518801,
+   "lat": 55.0676675,
+   "lon": 82.9653408,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1658566917,
+   "lat": 55.0808959,
+   "lon": 82.9648528,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1664117021,
+   "lat": 55.051443,
+   "lon": 82.9195388,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-02-18",
+    "name": "Добрый Доктор",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1679554156,
+   "lat": 54.9739635,
+   "lon": 83.0730967,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1690145716,
+   "lat": 54.964781,
+   "lon": 83.0612278,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1717521332,
+   "lat": 55.1300769,
+   "lon": 82.896141,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Калина",
+    "opening_hours": "08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1745873171,
+   "lat": 55.062869,
+   "lon": 82.9352487,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-07-03",
+    "dispensing": "no",
+    "name": "Эвалар",
+    "opening_hours": "09:00-21:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1759345174,
+   "lat": 55.0696651,
+   "lon": 82.9428756,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Радуга",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1762010722,
+   "lat": 55.0310739,
+   "lon": 82.919299,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Радуга Эконом",
+    "opening_hours": "08:00-22:00",
+    "operator": "Радуга",
+    "phone": "+7 383 3034162",
+    "website": "http://apteka-raduga.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1767784912,
+   "lat": 55.0680724,
+   "lon": 82.9255365,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1770370044,
+   "lat": 55.0487028,
+   "lon": 82.8864955,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00",
+    "operator": "Новосибирская аптечная сеть",
+    "phone": "+7 383 2265486",
+    "ref": "253",
+    "website": "https://mpnas.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1776097310,
+   "lat": 55.0422213,
+   "lon": 82.9894132,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "41",
+    "addr:street": "улица Есенина",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Лектория",
+    "website": "https://lek54.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1778941934,
+   "lat": 54.9888123,
+   "lon": 82.816546,
+   "tags": {
+    "addr:housenumber": "45",
+    "addr:street": "улица Забалуева",
+    "amenity": "pharmacy",
+    "name": "Радуга",
+    "website": "apteka-raduga.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1779605902,
+   "lat": 55.0299488,
+   "lon": 82.9145982,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Жизнь"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1779755584,
+   "lat": 55.0324832,
+   "lon": 82.9126437,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Мелодия Здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1869499927,
+   "lat": 55.0367224,
+   "lon": 82.9182098,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-23",
+    "name": "Ортека",
+    "opening_hours": "09:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1925127582,
+   "lat": 55.0328522,
+   "lon": 83.0116546,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Моя аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1928607346,
+   "lat": 54.9252569,
+   "lon": 82.9836583,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "name": "Столичный доктор"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2027739342,
+   "lat": 55.0983204,
+   "lon": 82.7757532,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "ООО Магистр",
+    "opening_hours": "09:00-21:00",
+    "was:amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2115887596,
+   "lat": 54.9818389,
+   "lon": 82.8738162,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "36,6"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2122554389,
+   "lat": 54.9813088,
+   "lon": 82.8643823,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2158795321,
+   "lat": 55.0543572,
+   "lon": 82.9167732,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2025-08-23",
+    "check_date:opening_hours": "2025-08-23",
+    "dispensing": "no",
+    "name": "Ноль боль",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2189731504,
+   "lat": 54.9889709,
+   "lon": 82.8624194,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2249181124,
+   "lat": 55.0317096,
+   "lon": 82.9311885,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Белая аптека",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2379475680,
+   "lat": 54.8625391,
+   "lon": 82.989789,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2466869508,
+   "lat": 54.9935253,
+   "lon": 82.8989659,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2485021544,
+   "lat": 55.0791009,
+   "lon": 82.9008333,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "2",
+    "addr:street": "Мочищенское шоссе",
+    "amenity": "pharmacy",
+    "check_date": "2022-05-28",
+    "dispensing": "no",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Муниципальная аптека",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2487621432,
+   "lat": 55.0760177,
+   "lon": 82.9055646,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "НольБоль",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2495136117,
+   "lat": 55.0629878,
+   "lon": 82.8959555,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2501949841,
+   "lat": 55.0533869,
+   "lon": 82.8962954,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Озерки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2505878060,
+   "lat": 55.0533442,
+   "lon": 82.893836,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@eapteka.ru",
+    "contact:phone": "+7 800 7007711",
+    "contact:website": "https://www.eapteka.ru/",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Еаптека",
+    "opening_hours": "Mo-Fr 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2989036178,
+   "lat": 54.9774372,
+   "lon": 83.0476331,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "236",
+    "addr:postcode": "630030",
+    "addr:street": "Первомайская улица",
+    "amenity": "pharmacy",
+    "name": "Ноль Боль",
+    "shop": "convenience"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3102153169,
+   "lat": 55.1615365,
+   "lon": 82.9803724,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3106317043,
+   "lat": 54.8886201,
+   "lon": 83.0965035,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:floor": "1",
+    "addr:housenumber": "1/1",
+    "addr:postcode": "630060",
+    "addr:street": "Экваторная улица",
+    "amenity": "pharmacy",
+    "check_date": "2022-09-23",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Аптека",
+    "opening_hours": "08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3118312127,
+   "lat": 54.8507992,
+   "lon": 83.0899383,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "Mo-Fr 09:00-14:00, 15:00-16:30"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3157991196,
+   "lat": 55.0292131,
+   "lon": 82.9132746,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Радуга",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3198554671,
+   "lat": 54.9736901,
+   "lon": 83.0942131,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Тэида+АВ",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3254826392,
+   "lat": 55.1093979,
+   "lon": 82.9480418,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00",
+    "owner": "ИП Иванина И.Н."
+   }
+  },
+  {
+   "type": "node",
+   "id": 3263815936,
+   "lat": 55.1097705,
+   "lon": 82.9718153,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3276506616,
+   "lat": 55.1572218,
+   "lon": 83.1179363,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "apteka.ru",
+    "opening_hours": "09:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3276522470,
+   "lat": 55.0371478,
+   "lon": 82.9787904,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Солнышко",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3406925633,
+   "lat": 54.9416306,
+   "lon": 82.9231516,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Алоэ",
+    "brand:wikidata": "Q110253348",
+    "contact:phone": "+7 383 3120106-5664",
+    "contact:website": "https://aloeapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3419307695,
+   "lat": 55.0814787,
+   "lon": 82.9638063,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ноль Боль"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3421977134,
+   "lat": 55.1126947,
+   "lon": 82.9411726,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Моя Аптека",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3668056516,
+   "lat": 54.8698244,
+   "lon": 83.0815175,
+   "tags": {
+    "addr:housenumber": "26",
+    "addr:street": "Российская улица",
+    "amenity": "pharmacy",
+    "check_date": "2022-05-20",
+    "internet_access": "no",
+    "name": "Моя аптека",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "payment:mir": "yes",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3806899852,
+   "lat": 55.1147166,
+   "lon": 82.9387567,
+   "tags": {
+    "addr:housenumber": "21/1",
+    "addr:postcode": "630061",
+    "addr:street": "улица Тюленина",
+    "amenity": "pharmacy",
+    "email": "pr@nskas.ru",
+    "name": "Муниципальная Новосибирская аптечная сеть",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "+7 383 3478485",
+    "website": "https://mpnas.ru/",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3809946260,
+   "lat": 55.0965238,
+   "lon": 82.9629002,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3809946261,
+   "lat": 55.0958604,
+   "lon": 82.9624003,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ваше солнышко",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3811207821,
+   "lat": 55.0778188,
+   "lon": 82.9584544,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-02-27",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Озерки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3812174126,
+   "lat": 55.0757518,
+   "lon": 82.9487915,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3812345660,
+   "lat": 55.1097721,
+   "lon": 82.9713473,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 07:00-23:00; Sa-Su 08:00-23:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3817088587,
+   "lat": 55.1101164,
+   "lon": 82.945303,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ноль Боль",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3822448260,
+   "lat": 55.0437114,
+   "lon": 82.9230086,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "level": "1",
+    "name": "Радуга",
+    "opening_hours": "10:00-22:00",
+    "website": "http://apteka-raduga.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3837095427,
+   "lat": 55.0715354,
+   "lon": 82.9465066,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Моя аптека",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3857863305,
+   "lat": 55.0556622,
+   "lon": 82.8918518,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3859785362,
+   "lat": 55.0604978,
+   "lon": 82.9060699,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Гармония здоровья",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3859785376,
+   "lat": 55.0602105,
+   "lon": 82.9077922,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-11-27",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "operator": "Фармакопейка",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3861629724,
+   "lat": 55.058263,
+   "lon": 82.9123789,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-09-08",
+    "name": "Озерки",
+    "opening_hours": "08:00-22:00",
+    "operator": "Радуга"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3889406784,
+   "lat": 55.0990948,
+   "lon": 82.9709536,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-02-27",
+    "level": "1",
+    "name": "Ноль Боль",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3896866745,
+   "lat": 55.1055414,
+   "lon": 82.9343397,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Радуга",
+    "opening_hours": "08:00-24:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3928576673,
+   "lat": 55.1126466,
+   "lon": 82.9426369,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3928576674,
+   "lat": 55.1105004,
+   "lon": 82.9395045,
+   "tags": {
+    "amenity": "pharmacy",
+    "level": "1",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3933489196,
+   "lat": 54.9743715,
+   "lon": 83.093552,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Столичный доктор",
+    "opening_hours": "08:00-21:30"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3933550783,
+   "lat": 54.9777735,
+   "lon": 83.0833238,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека на Инской"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3933622550,
+   "lat": 54.9750552,
+   "lon": 83.082859,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Мелодия здоровья",
+    "opening_hours": "09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4036051236,
+   "lat": 54.8541089,
+   "lon": 83.0449377,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "31",
+    "addr:street": "Сиреневая улица",
+    "amenity": "pharmacy",
+    "check_date": "2022-07-14",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Домашняя аптечка",
+    "opening_hours": "Mo-Su,PH 08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "phone": "+7 383 209-14-15",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4125504698,
+   "lat": 54.8361425,
+   "lon": 83.0995589,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптека.ру",
+    "opening_hours": "09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4125504699,
+   "lat": 54.8359592,
+   "lon": 83.0991641,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4125534368,
+   "lat": 54.8402893,
+   "lon": 83.0944339,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "6a",
+    "addr:street": "улица Ильича",
+    "amenity": "pharmacy",
+    "check_date": "2026-03-24",
+    "level": "0",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4237512397,
+   "lat": 54.9892147,
+   "lon": 82.8164601,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Солнышко"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4237541090,
+   "lat": 54.9799997,
+   "lon": 82.8055704,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4237541091,
+   "lat": 54.9806812,
+   "lon": 82.8080695,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4237572990,
+   "lat": 54.9856997,
+   "lon": 82.8084658,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4237849694,
+   "lat": 54.986346,
+   "lon": 82.8098654,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4248117290,
+   "lat": 55.0538175,
+   "lon": 82.9133474,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-01-13",
+    "contact:facebook": "https://m.facebook.com/aptekaotsklada/",
+    "contact:instagram": "https://instagram.com/apteka_ot_sklada",
+    "contact:phone": "+7 800 5500033",
+    "contact:vk": "https://vk.com/skladzdorovya",
+    "contact:website": "https://apteka-ot-sklada.ru/",
+    "healthcare": "pharmacy",
+    "name": "Да",
+    "name:ru": "Аптека от склада",
+    "opening_hours": "07:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4248420491,
+   "lat": 55.0438823,
+   "lon": 82.9321165,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ветеринарная аптека",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4250620217,
+   "lat": 54.9816017,
+   "lon": 82.9019831,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4328507389,
+   "lat": 55.0286693,
+   "lon": 82.9665396,
+   "tags": {
+    "addr:housenumber": "186",
+    "addr:postcode": "630017",
+    "amenity": "pharmacy",
+    "level": "1",
+    "name": "Радуга",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "phone": "+73832600970"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4369604366,
+   "lat": 55.0127149,
+   "lon": 82.973208,
+   "tags": {
+    "addr:street": "улица Лескова",
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4526296790,
+   "lat": 55.0575332,
+   "lon": 82.9198042,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-07-30",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4693227190,
+   "lat": 54.9891823,
+   "lon": 82.9071243,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2024-06-07",
+    "healthcare": "pharmacy",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4693256689,
+   "lat": 54.9887975,
+   "lon": 82.9064417,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Озерки",
+    "brand:wikidata": "Q109712399",
+    "healthcare": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "Mo-Su,PH 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4791841735,
+   "lat": 55.0406906,
+   "lon": 82.946103,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "92/2",
+    "addr:postcode": "630112",
+    "addr:street": "улица Державина",
+    "amenity": "pharmacy",
+    "name": "Ноль Боль",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4832791308,
+   "lat": 55.0567221,
+   "lon": 82.9308948,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4832791309,
+   "lat": 55.0564891,
+   "lon": 82.9307194,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека Эконом"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4954935595,
+   "lat": 54.9575134,
+   "lon": 82.9624662,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ладушка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4962953174,
+   "lat": 54.9372161,
+   "lon": 83.1048619,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "19",
+    "addr:street": "Берёзовая улица",
+    "amenity": "pharmacy",
+    "name": "Nota Bene (Аптека)",
+    "operator": "Nota Bene"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4962961559,
+   "lat": 54.9380234,
+   "lon": 83.105168,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2025-05-17",
+    "name": "Моя аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4974619742,
+   "lat": 55.0376269,
+   "lon": 82.9347832,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "88",
+    "addr:postcode": "630005",
+    "addr:street": "улица Фрунзе",
+    "amenity": "pharmacy",
+    "name": "ЗдравStor",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5116726151,
+   "lat": 55.0214168,
+   "lon": 82.9425599,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5183084350,
+   "lat": 55.0603393,
+   "lon": 82.9157004,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-09-18",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5183084353,
+   "lat": 55.0608597,
+   "lon": 82.9230965,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-07-28",
+    "name": "Ноль Боль"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5207859288,
+   "lat": 54.9872208,
+   "lon": 82.8517151,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "84",
+    "addr:postcode": "630136",
+    "addr:street": "улица Пархоменко",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5207871587,
+   "lat": 54.982529,
+   "lon": 82.8728818,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5207872580,
+   "lat": 54.9821929,
+   "lon": 82.8700303,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5375405612,
+   "lat": 55.0509324,
+   "lon": 82.9141345,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-08-27",
+    "check_date:opening_hours": "2021-06-25",
+    "name": "№198",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5406601923,
+   "lat": 55.0429437,
+   "lon": 82.9174478,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5418421487,
+   "lat": 55.0430602,
+   "lon": 82.916514,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "На Красном проспекте",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5418421491,
+   "lat": 55.0406366,
+   "lon": 82.9204568,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5418421492,
+   "lat": 55.0406858,
+   "lon": 82.9211234,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Радуга",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5451150623,
+   "lat": 55.0414727,
+   "lon": 83.0034959,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5458080026,
+   "lat": 55.0407608,
+   "lon": 82.9813025,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5458080127,
+   "lat": 55.0361425,
+   "lon": 83.0011124,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Листик"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5458080128,
+   "lat": 55.0374722,
+   "lon": 82.9761575,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "АптекаПлюс"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5458080225,
+   "lat": 55.0407163,
+   "lon": 83.0020016,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Муниципальная новосибирская аптечная сеть"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5458080231,
+   "lat": 55.0441591,
+   "lon": 82.9545199,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-18",
+    "name": "Аптека на гоголя 180",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5458080232,
+   "lat": 55.0446068,
+   "lon": 82.9543849,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-18",
+    "name": "180 Гоголя",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5463363821,
+   "lat": 55.0410392,
+   "lon": 82.9831067,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5464750025,
+   "lat": 55.1563577,
+   "lon": 83.1167127,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "operator": "ООО \"Фарм-Лайт\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 5464750028,
+   "lat": 55.1884061,
+   "lon": 83.1411354,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5464801721,
+   "lat": 55.0362975,
+   "lon": 83.001615,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Солнышко"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5464803621,
+   "lat": 55.0368124,
+   "lon": 83.0011748,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Озерки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5464804022,
+   "lat": 55.0424966,
+   "lon": 82.9983531,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Муниципальная"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5464804221,
+   "lat": 55.0391073,
+   "lon": 83.0161777,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Сибирская здравица"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5464804222,
+   "lat": 55.0406615,
+   "lon": 83.0213814,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Радуга"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5469929822,
+   "lat": 55.044808,
+   "lon": 83.0343079,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5469937621,
+   "lat": 55.0479614,
+   "lon": 83.0720951,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5470111825,
+   "lat": 55.0560623,
+   "lon": 83.120924,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5613497283,
+   "lat": 54.8397155,
+   "lon": 83.0946583,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "6",
+    "addr:street": "улица Ильича",
+    "amenity": "pharmacy",
+    "check_date": "2022-12-24",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Моя Аптека",
+    "opening_hours": "24/7",
+    "payment:mir": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5653420747,
+   "lat": 54.9315111,
+   "lon": 82.9281977,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-05-18",
+    "healthcare": "pharmacy",
+    "name": "Низкие цены",
+    "operator": "ООО\"Рассвет\"",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5679779423,
+   "lat": 54.988508,
+   "lon": 82.8438835,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "19 к1",
+    "addr:street": "Новосибирская улица",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Белая аптека",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5707375781,
+   "lat": 55.075777,
+   "lon": 82.9083828,
+   "tags": {
+    "amenity": "pharmacy",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Гармония здоровья",
+    "opening_hours": "08:00-22:00",
+    "operator": "ООО \"Примекс Алтая\"",
+    "phone": "+7 383 2048712"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5766590016,
+   "lat": 54.9830471,
+   "lon": 82.8869078,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Радуга"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5766590020,
+   "lat": 54.9823309,
+   "lon": 82.8842965,
+   "tags": {
+    "amenity": "pharmacy",
+    "operator": "Фармагрош"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5766595852,
+   "lat": 54.9823514,
+   "lon": 82.8834477,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5845931772,
+   "lat": 54.839077,
+   "lon": 83.1061818,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "22",
+    "addr:street": "Морской проспект",
+    "amenity": "pharmacy",
+    "check_date": "2025-04-14",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Академическая аптека",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6307332541,
+   "lat": 55.0533309,
+   "lon": 82.9147294,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-15",
+    "name": "Тоника",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "ООО «Тоника»"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6433588877,
+   "lat": 55.1273649,
+   "lon": 82.8970209,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:facebook": "https://m.facebook.com/aptekaotsklada/",
+    "contact:instagram": "https://instagram.com/apteka_ot_sklada",
+    "contact:phone": "+7 800 5500033",
+    "contact:vk": "https://vk.com/skladzdorovya",
+    "contact:website": "https://apteka-ot-sklada.ru/",
+    "healthcare": "pharmacy",
+    "name": "Аптека от склада",
+    "name:ru": "Аптека от склада",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-19:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6433588879,
+   "lat": 55.1276191,
+   "lon": 82.8966346,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa,Su 10:00-20:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6433589103,
+   "lat": 55.1290904,
+   "lon": 82.8978751,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "103",
+    "addr:postcode": "630040",
+    "addr:street": "Кубовая улица",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Ноль Боль",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6437731467,
+   "lat": 55.0735494,
+   "lon": 82.9491132,
+   "tags": {
+    "amenity": "pharmacy",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6437731471,
+   "lat": 55.0744508,
+   "lon": 82.9508252,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-02-27"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6437731472,
+   "lat": 55.074718,
+   "lon": 82.9512984,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Листик"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6446132774,
+   "lat": 55.1100194,
+   "lon": 82.9426146,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Озерки",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6447179504,
+   "lat": 55.1154692,
+   "lon": 82.9380893,
+   "tags": {
+    "amenity": "pharmacy",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6447182277,
+   "lat": 55.113697,
+   "lon": 82.9419939,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Фармакопейка",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6447183086,
+   "lat": 55.1130616,
+   "lon": 82.9410299,
+   "tags": {
+    "amenity": "pharmacy",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6448171064,
+   "lat": 55.0920526,
+   "lon": 82.9370986,
+   "tags": {
+    "amenity": "pharmacy",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6448177093,
+   "lat": 55.1099598,
+   "lon": 82.9428474,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Планета здоровья",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6449661616,
+   "lat": 55.0451353,
+   "lon": 82.9102921,
+   "tags": {
+    "amenity": "pharmacy",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6454354233,
+   "lat": 55.0406201,
+   "lon": 82.8964896,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Олдис",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-20:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6457255232,
+   "lat": 55.0457903,
+   "lon": 82.9000372,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-07-27",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6462517409,
+   "lat": 55.0989937,
+   "lon": 82.9369109,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Ноль Боль",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6471814282,
+   "lat": 55.0392049,
+   "lon": 82.9152313,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2022-04-26",
+    "name": "Ли Вест",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-16:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6489943906,
+   "lat": 54.9363123,
+   "lon": 82.9115128,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6489943917,
+   "lat": 54.9356874,
+   "lon": 82.9097575,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-12-28",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-23:50; Sa-Su 08:00-23:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6491485454,
+   "lat": 55.0030728,
+   "lon": 83.0199721,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-23",
+    "name": "Ноль Боль",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6491486764,
+   "lat": 55.0031959,
+   "lon": 83.0204113,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6491486772,
+   "lat": 55.0033836,
+   "lon": 83.0210068,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6491486774,
+   "lat": 55.0035936,
+   "lon": 83.0217985,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "opening_hours": "Mo-Su 08:00-24:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6491488907,
+   "lat": 55.0029809,
+   "lon": 83.0220661,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Первая аптека",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6508653114,
+   "lat": 55.0657093,
+   "lon": 82.9026228,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Гармония здоровья",
+    "opening_hours": "Mo-Su 08:30-20:30",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6534820984,
+   "lat": 55.0413341,
+   "lon": 82.9821016,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Социалочка",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6534854289,
+   "lat": 55.0419354,
+   "lon": 82.9826384,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6548933772,
+   "lat": 55.0524027,
+   "lon": 82.9138105,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-06-16",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6553352852,
+   "lat": 55.0178389,
+   "lon": 82.9397804,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Дентал Ру",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa,Su 09:00-15:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6558178472,
+   "lat": 55.0181705,
+   "lon": 82.9401244,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Домашняя",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6558180204,
+   "lat": 55.0137645,
+   "lon": 82.9524935,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6571828215,
+   "lat": 55.0402523,
+   "lon": 82.910181,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:facebook": "https://m.facebook.com/aptekaotsklada/",
+    "contact:instagram": "https://instagram.com/apteka_ot_sklada",
+    "contact:phone": "+7 800 5500033",
+    "contact:vk": "https://vk.com/skladzdorovya",
+    "contact:website": "https://apteka-ot-sklada.ru/",
+    "healthcare": "pharmacy",
+    "name": "Аптека от склада",
+    "name:ru": "Аптека от склада",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-20:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6571842787,
+   "lat": 55.0468759,
+   "lon": 82.9370289,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date:opening_hours": "2022-06-14",
+    "name": "Ноль Боль",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6595689440,
+   "lat": 55.044659,
+   "lon": 82.9410818,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Социалочка",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6601762555,
+   "lat": 55.0440199,
+   "lon": 82.9403642,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-01-11",
+    "healthcare": "pharmacy",
+    "name": "Аптека плюс",
+    "opening_hours": "09:00-21:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6601955188,
+   "lat": 55.0581545,
+   "lon": 82.9099868,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-07-04",
+    "name": "Белая",
+    "opening_hours": "24/7",
+    "phone": "+7 383 2091060",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6634805453,
+   "lat": 55.0415657,
+   "lon": 82.9300296,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-11-03",
+    "healthcare": "pharmacy",
+    "name": "Солнышко",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6634806535,
+   "lat": 55.0396053,
+   "lon": 82.930664,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Фиалка",
+    "brand:ru": "Фиалка",
+    "brand:wikidata": "Q109995996",
+    "healthcare": "pharmacy",
+    "name": "Фиалка",
+    "name:en": "Fialka",
+    "name:ru": "Фиалка",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6642570344,
+   "lat": 54.9836235,
+   "lon": 82.8961855,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Ортека",
+    "brand:wikidata": "Q62393660",
+    "contact:facebook": "https://www.facebook.com/orteka.rus",
+    "contact:instagram": "https://www.instagram.com/orteka_rus",
+    "contact:vk": "https://vk.com/orteka_ru",
+    "contact:website": "https://www.orteka.ru",
+    "description": "Ортопедический салон",
+    "healthcare": "pharmacy",
+    "name": "Ортека",
+    "name:ru": "Ортека",
+    "operator": "ООО «НИКАМЕД»",
+    "shop": "medical_supply",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6642570350,
+   "lat": 54.9841011,
+   "lon": 82.8954061,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Эвалар",
+    "opening_hours": "Mo-Fr 09:00-22:00; Sa,Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6677524183,
+   "lat": 55.0485313,
+   "lon": 82.9019389,
+   "tags": {
+    "amenity": "pharmacy",
+    "opening_hours": "Mo-Fr 10:00-13:00,13:30-18:30",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6677525089,
+   "lat": 55.0495427,
+   "lon": 82.900764,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-02-09",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6846980997,
+   "lat": 55.0603724,
+   "lon": 82.932987,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-07-28",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Ноль Боль",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7417273890,
+   "lat": 54.9915474,
+   "lon": 82.9699492,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7564780485,
+   "lat": 54.8689233,
+   "lon": 83.0841921,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Домашняя аптечка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7566785578,
+   "lat": 54.9428706,
+   "lon": 82.9984288,
+   "tags": {
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Магнит Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7621191086,
+   "lat": 55.0497461,
+   "lon": 82.8860914,
+   "tags": {
+    "addr:postcode": "630001",
+    "amenity": "pharmacy",
+    "name": "Аптека \"На Холодильной 16\"",
+    "name:en": "\"Kholodilnaya 16\" pharmacy",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "phone": "+7 996 3815166"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7899412299,
+   "lat": 54.9883216,
+   "lon": 83.0435024,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "14/1",
+    "addr:postcode": "630114",
+    "addr:street": "улица Ключ-Камышенское Плато",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "aptekanainskom3@mail.ru",
+    "healthcare": "pharmacy",
+    "name": "Аптека на Инском №9",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "operator": "ООО Аптека на Инском",
+    "payment:apple_pay": "yes",
+    "payment:cash": "yes",
+    "payment:cashless": "yes",
+    "payment:sberbank_online": "yes",
+    "phone": "+7 383 3495057",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8092883682,
+   "lat": 54.9772147,
+   "lon": 83.0445439,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "4",
+    "addr:postcode": "630030",
+    "addr:street": "Заречная улица",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Аптека на Инском №6",
+    "operator": "ООО Аптека на Инском"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8285603898,
+   "lat": 55.0438958,
+   "lon": 82.9050232,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Радуга"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8605130378,
+   "lat": 54.8568105,
+   "lon": 83.1110962,
+   "tags": {
+    "amenity": "pharmacy"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8682353417,
+   "lat": 55.0020991,
+   "lon": 83.0188822,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Муниципальная аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8813161117,
+   "lat": 55.0211355,
+   "lon": 82.972847,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Другая аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8983727772,
+   "lat": 55.041412,
+   "lon": 82.928191,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Озерки",
+    "brand:wikidata": "Q109712399",
+    "healthcare": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9028130137,
+   "lat": 54.9868932,
+   "lon": 83.0409736,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "7/1",
+    "addr:postcode": "630114",
+    "addr:street": "улица Ключ-Камышенское Плато",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "email": "linevo.apteka128@gmail.com",
+    "healthcare": "pharmacy",
+    "name": "Аптека №128",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "operator": "ООО Аптека 128",
+    "payment:cash": "yes",
+    "payment:cashless": "yes",
+    "payment:sberbank_online": "yes",
+    "phone": "+7 901 4583265",
+    "website": "https://apteka.ru/",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9044860343,
+   "lat": 54.9797475,
+   "lon": 83.0559912,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "27/1",
+    "addr:postcode": "630030",
+    "addr:street": "Заречная улица",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "email": "na_ine@mail.ru;naine27@mail.ru",
+    "healthcare": "pharmacy",
+    "name": "На Ине",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "operator": "ООО На Ине",
+    "payment:cash": "yes",
+    "payment:cashless": "yes",
+    "phone": "+7 991 3764585",
+    "website": "https://apteka.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9168647603,
+   "lat": 54.9351862,
+   "lon": 82.9162707,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "191",
+    "addr:postcode": "630106",
+    "addr:street": "улица Зорге",
+    "amenity": "pharmacy",
+    "check_date": "2025-05-25",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Гармония здоровья",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "website": "garzdrav.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9169078331,
+   "lat": 54.9406776,
+   "lon": 82.903595,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "38А",
+    "addr:street": "улица Петухова",
+    "amenity": "pharmacy",
+    "brand": "Озерки",
+    "brand:wikidata": "Q109712399",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Озерки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9174355965,
+   "lat": 55.0459785,
+   "lon": 82.9266098,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9177595460,
+   "lat": 54.9766451,
+   "lon": 82.896262,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "32",
+    "addr:postcode": "630048",
+    "addr:street": "улица Сибиряков-Гвардейцев",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека низких цен, аптека",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "+7 953 8785964 +7 383 3815964",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9216117086,
+   "lat": 55.0424504,
+   "lon": 82.9132906,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-07-20",
+    "name": "Я+",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9280708512,
+   "lat": 54.8404574,
+   "lon": 83.1107846,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9280708513,
+   "lat": 54.8403859,
+   "lon": 83.1106318,
+   "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "Морской проспект",
+    "amenity": "pharmacy",
+    "check_date": "2025-05-21",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "name": "Лаванда",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9347816806,
+   "lat": 54.9703324,
+   "lon": 83.0376054,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:floor": "1",
+    "addr:housenumber": "2",
+    "addr:postcode": "630025",
+    "addr:street": "Бердское шоссе",
+    "amenity": "pharmacy",
+    "brand": "Алоэ",
+    "brand:wikidata": "Q110253348",
+    "check_date": "2022-06-14",
+    "contact:phone": "+7 383 3120106-5666",
+    "contact:website": "https://aloeapteka.ru/",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "operator": "ООО Алоэ",
+    "payment:cash": "yes",
+    "payment:cashless": "yes",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9399355160,
+   "lat": 54.9798215,
+   "lon": 83.0589258,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "60",
+    "addr:postcode": "630030",
+    "addr:street": "2-я улица Марата",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Моя аптека",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "ООО Моя аптека",
+    "phone": "+7 923 2508180",
+    "website": "https://lekkupi.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9551474820,
+   "lat": 55.0150829,
+   "lon": 82.9640879,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Мелодия здоровья",
+    "brand:wikidata": "Q110278680",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Мелодия здоровья"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9632720875,
+   "lat": 54.8658894,
+   "lon": 83.0810824,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "18",
+    "addr:street": "улица Героев Труда",
+    "amenity": "pharmacy",
+    "brand": "Фармакопейка",
+    "check_date": "2022-04-03",
+    "check_date:opening_hours": "2023-11-12",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9653758471,
+   "lat": 54.8400347,
+   "lon": 83.1084743,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "16",
+    "addr:street": "Морской проспект",
+    "amenity": "pharmacy",
+    "check_date": "2024-04-29",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Эконом",
+    "opening_hours": "08:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9658667204,
+   "lat": 55.0139915,
+   "lon": 82.9443738,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "28",
+    "addr:postcode": "630102",
+    "addr:street": "улица Восход",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "1+1",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9671681340,
+   "lat": 55.0403139,
+   "lon": 82.9140242,
+   "tags": {
+    "amenity": "pharmacy",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9689261793,
+   "lat": 55.0395346,
+   "lon": 82.9021561,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 912-265-2304",
+    "name": "Живика",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9705329439,
+   "lat": 55.057078,
+   "lon": 82.9769026,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9705442763,
+   "lat": 55.0461268,
+   "lon": 82.961044,
+   "tags": {
+    "amenity": "pharmacy",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9705442795,
+   "lat": 55.0565887,
+   "lon": 82.9772486,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Мелодия здоровья",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9706618042,
+   "lat": 55.0577939,
+   "lon": 82.9091057,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-07-04",
+    "name": "ФармДисконт",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9706702064,
+   "lat": 55.0558113,
+   "lon": 82.9023533,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-07-22",
+    "name": "54 плюс",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9706702068,
+   "lat": 55.0559918,
+   "lon": 82.9028092,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-07-22",
+    "name:signed": "no",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9707011772,
+   "lat": 55.0545684,
+   "lon": 82.9015714,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "apteka.ru",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9708606446,
+   "lat": 55.0589506,
+   "lon": 82.9103277,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-07-14",
+    "name": "АптекаПлюс"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9709304129,
+   "lat": 55.0513796,
+   "lon": 82.8964403,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Мелисса",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9712811990,
+   "lat": 54.9772236,
+   "lon": 83.0468377,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9721984722,
+   "lat": 55.0755619,
+   "lon": 82.9529384,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Солнышко"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9749121183,
+   "lat": 55.0427444,
+   "lon": 82.9587722,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-07-25",
+    "contact:email": "info@eapteka.ru",
+    "contact:phone": "+7 800 7007711",
+    "contact:website": "https://www.eapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Еаптека",
+    "opening_hours": "Mo-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9757108648,
+   "lat": 54.8531174,
+   "lon": 83.0394594,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "10",
+    "addr:street": "2-я Миргородская улица",
+    "amenity": "pharmacy",
+    "check_date": "2024-07-12",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Озерки",
+    "opening_hours": "09:00-21:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9757108649,
+   "lat": 54.8531401,
+   "lon": 83.0397571,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "12",
+    "addr:street": "2-я Миргородская улица",
+    "amenity": "pharmacy",
+    "check_date": "2024-07-12",
+    "check_date:opening_hours": "2024-07-12",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Орхидея",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9761408269,
+   "lat": 54.989214,
+   "lon": 83.0391392,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "271В, пом. 7",
+    "addr:postcode": "630114",
+    "addr:street": "Пролетарская улица",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Моя аптека",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "ООО Моя аптека",
+    "phone": "+7 923 1005087",
+    "start_date": "2022-05-27",
+    "website": "Lekkupi.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9782070153,
+   "lat": 54.8640951,
+   "lon": 83.100237,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "1",
+    "addr:street": "улица Демакова",
+    "amenity": "pharmacy",
+    "check_date": "2022-05-30",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Аптека 54 плюс",
+    "opening_hours": "08:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "website": "https://aptekiplus.ru/",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9782070156,
+   "lat": 54.8640884,
+   "lon": 83.1006018,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "1",
+    "addr:street": "улица Демакова",
+    "amenity": "pharmacy",
+    "brand": "Озерки",
+    "brand:wikidata": "Q109712399",
+    "check_date": "2022-05-30",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Озерки",
+    "opening_hours": "08:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9785304678,
+   "lat": 55.0604338,
+   "lon": 82.9128728,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-09",
+    "healthcare": "pharmacy",
+    "name": "Ника",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9798178585,
+   "lat": 55.0359689,
+   "lon": 82.9634641,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-06-06",
+    "healthcare": "pharmacy",
+    "name": "Фиалка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9801690236,
+   "lat": 55.1055323,
+   "lon": 82.9345089,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 383 3120106-5665",
+    "contact:website": "https://aloeapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 08:00-23:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9801690237,
+   "lat": 54.9950056,
+   "lon": 82.9659846,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 383 3120106-5662",
+    "contact:website": "https://aloeapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 10:00-23:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9801690238,
+   "lat": 55.0088249,
+   "lon": 82.8778902,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 383 3120106-5661",
+    "contact:website": "https://aloeapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9801690247,
+   "lat": 54.9706246,
+   "lon": 82.8553194,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Алоэ",
+    "brand:wikidata": "Q110253348",
+    "contact:phone": "+7 383 3120106-5663",
+    "contact:website": "https://aloeapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 10:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9801690249,
+   "lat": 55.1124595,
+   "lon": 82.9369336,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 383 3120106-5659",
+    "contact:website": "https://aloeapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Алоэ",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9806634241,
+   "lat": 55.0333773,
+   "lon": 82.9058756,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-06-09",
+    "healthcare": "pharmacy",
+    "name": "Твоя экономия",
+    "opening_hours": "08:00-21:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9810445707,
+   "lat": 55.0332827,
+   "lon": 82.9279818,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Солнышко"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9822589589,
+   "lat": 55.0522731,
+   "lon": 82.9137693,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2025-09-20",
+    "check_date:opening_hours": "2025-09-20",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009119",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармаимпекс",
+    "name:ru": "Фармаимпекс",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su 08:30-22:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9857539743,
+   "lat": 55.0402176,
+   "lon": 82.908712,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-06-30",
+    "healthcare": "pharmacy",
+    "name": "Белая",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9861701001,
+   "lat": 54.9298581,
+   "lon": 82.9165908,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-07-02",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "name": "Я+ аптека",
+    "opening_hours": "08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "website": "https://ya-apteka.ru/",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9868417988,
+   "lat": 55.0656471,
+   "lon": 82.9290412,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9868479229,
+   "lat": 55.064843,
+   "lon": 82.9269859,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@eapteka.ru",
+    "contact:phone": "+7 800 7007711",
+    "contact:website": "https://www.eapteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Еаптека",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9875996494,
+   "lat": 55.0593427,
+   "lon": 82.9388383,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-07-09",
+    "healthcare": "pharmacy",
+    "name": "Мелодия здоровья",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9887080461,
+   "lat": 54.8555633,
+   "lon": 83.050041,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "31",
+    "addr:street": "Балтийская улица",
+    "amenity": "pharmacy",
+    "check_date": "2022-07-14",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Пипетка и таблетка",
+    "opening_hours": "Mo-Fr 09:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9891254774,
+   "lat": 55.0512708,
+   "lon": 82.9185038,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-27",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9892770336,
+   "lat": 55.0459296,
+   "lon": 82.9198815,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-07-17",
+    "healthcare": "pharmacy",
+    "name": "Здоровая семья",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9899026433,
+   "lat": 54.8902887,
+   "lon": 83.0882869,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "5/1",
+    "addr:street": "Лесосечная улица",
+    "amenity": "pharmacy",
+    "check_date": "2022-07-20",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Моя аптека",
+    "opening_hours": "08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9899026438,
+   "lat": 54.8908695,
+   "lon": 83.0909167,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "7/1",
+    "addr:street": "Лесосечная улица",
+    "amenity": "pharmacy",
+    "check_date": "2022-07-20",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Доверие",
+    "opening_hours": "08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9901288215,
+   "lat": 55.0476886,
+   "lon": 82.9109527,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-07-21",
+    "healthcare": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9905768824,
+   "lat": 55.041828,
+   "lon": 82.9068851,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "19",
+    "addr:street": "Нарымская улица",
+    "amenity": "pharmacy",
+    "check_date": "2022-07-23",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Фарм цент",
+    "opening_hours": "08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9905768841,
+   "lat": 55.0406229,
+   "lon": 82.9078707,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "17",
+    "addr:street": "улица Челюскинцев",
+    "amenity": "pharmacy",
+    "brand": "Живика",
+    "check_date": "2023-08-04",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Живика",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "website": "https://zhivika.ru/",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9914723377,
+   "lat": 54.8476143,
+   "lon": 83.0642213,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "277",
+    "addr:street": "Бердское шоссе",
+    "amenity": "pharmacy",
+    "check_date": "2022-07-27",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "1",
+    "name": "Моя аптека",
+    "opening_hours": "09:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9916461573,
+   "lat": 55.0433714,
+   "lon": 82.9279579,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-02-07",
+    "healthcare": "pharmacy",
+    "name": "ФармДисконт",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9936663853,
+   "lat": 55.0622902,
+   "lon": 82.8936978,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Новая",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9960941429,
+   "lat": 55.043924,
+   "lon": 82.9545827,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-08-07",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9960941430,
+   "lat": 55.0443116,
+   "lon": 82.9544733,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-18",
+    "healthcare": "pharmacy",
+    "name": "ФармДисконт",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9960967127,
+   "lat": 55.0480322,
+   "lon": 82.960583,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-18",
+    "healthcare": "pharmacy",
+    "name": "Круглосуточная",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9969560804,
+   "lat": 55.0599675,
+   "lon": 82.914623,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-22",
+    "healthcare": "pharmacy",
+    "name": "54 плюс",
+    "opening_hours": "10:00-19:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9972522917,
+   "lat": 54.9912666,
+   "lon": 82.914412,
+   "tags": {
+    "addr:housenumber": "156",
+    "addr:street": "Немировича-Данченко",
+    "amenity": "pharmacy",
+    "contact:vk": "apteka22",
+    "healthcare": "pharmacy",
+    "name": "ФармДисконт",
+    "opening_hours": "Mo-Su 08:00-21:30",
+    "phone": "88005507732;+79236589306",
+    "website": "https://apteka22.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9987730595,
+   "lat": 55.066467,
+   "lon": 82.9114561,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-08-30",
+    "healthcare": "pharmacy",
+    "name": "Лаванда",
+    "opening_hours": "09:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10036014623,
+   "lat": 55.0581839,
+   "lon": 82.9133281,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2022-09-19",
+    "healthcare": "pharmacy",
+    "name": "Озерки",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10230933070,
+   "lat": 54.8609975,
+   "lon": 83.084093,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@eapteka.ru",
+    "contact:phone": "+7 800 7007711",
+    "contact:website": "https://www.eapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Еаптека",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-16:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10230933089,
+   "lat": 55.042256,
+   "lon": 82.914096,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@eapteka.ru",
+    "contact:phone": "+7 800 7007711",
+    "contact:website": "https://www.eapteka.ru/",
+    "healthcare": "pharmacy",
+    "name": "Еаптека",
+    "opening_hours": "Mo-Fr 09:30-19:30; Sa 10:00-17:00; Su 10:00-14:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10250308490,
+   "lat": 54.8652536,
+   "lon": 82.9898672,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "1",
+    "addr:street": "Часовая улица",
+    "amenity": "pharmacy",
+    "check_date": "2022-12-10",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Аптека плюс",
+    "opening_hours": "10:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10556308084,
+   "lat": 55.0257746,
+   "lon": 82.9211413,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "15/1",
+    "addr:postcode": "630099",
+    "addr:street": "Красный проспект",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Муниципальная Новосибирская аптечная сеть, аптека №2",
+    "opening_hours": "24/7",
+    "operator": "Муниципальная Новосибирская аптечная сеть",
+    "phone": "+7 (383) 230‒18‒18 (единая справочная: круглосуточно), +7 (383) 223‒32‒07, +7 (383) 223‒13‒17",
+    "website": "https://mpnas.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10613727264,
+   "lat": 55.043327,
+   "lon": 82.9271665,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-02-07",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697357063,
+   "lat": 54.962641,
+   "lon": 82.953089,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697387944,
+   "lat": 54.98787,
+   "lon": 82.843507,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:30-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697387945,
+   "lat": 54.957066,
+   "lon": 82.962129,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su 08:30-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697387946,
+   "lat": 55.0425123,
+   "lon": 82.9984769,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697387947,
+   "lat": 54.9740208,
+   "lon": 83.0951357,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-21:30; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697387948,
+   "lat": 55.0306064,
+   "lon": 83.0219704,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697387949,
+   "lat": 54.9891815,
+   "lon": 82.8568965,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:30-21:30; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697387950,
+   "lat": 54.990793,
+   "lon": 82.902939,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697387951,
+   "lat": 54.9367427,
+   "lon": 82.9102349,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10697387952,
+   "lat": 54.9930484,
+   "lon": 82.8972959,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "name:ru": "Экона",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10722918966,
+   "lat": 54.964329,
+   "lon": 82.843168,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Бережная аптека",
+    "name:ru": "Бережная аптека",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10775019455,
+   "lat": 55.0511677,
+   "lon": 82.9140751,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-10-15",
+    "healthcare": "pharmacy",
+    "name": "Лека",
+    "opening_hours": "08:00-21:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10860015226,
+   "lat": 55.0570225,
+   "lon": 82.9423452,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-05-01",
+    "healthcare": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10866830054,
+   "lat": 55.0589567,
+   "lon": 82.9173839,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2025-07-24",
+    "healthcare": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10938862236,
+   "lat": 54.9866489,
+   "lon": 82.9113623,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "23",
+    "addr:postcode": "630087",
+    "addr:street": "Геодезическая улица",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Апрель",
+    "not:brand:wikidata": "Q114060847",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "+7 800 200 90-01",
+    "website": "https://apteka-april.ru"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10948580741,
+   "lat": 55.0577055,
+   "lon": 82.9425432,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-06-03",
+    "healthcare": "pharmacy",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10970576458,
+   "lat": 55.0611227,
+   "lon": 82.9116475,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-06-12",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10972381188,
+   "lat": 55.0021635,
+   "lon": 83.0286073,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "12/1",
+    "addr:postcode": "630126",
+    "addr:street": "Рябиновая улица",
+    "amenity": "pharmacy",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Аптека+",
+    "opening_hours": "ПН-ПТ с 08:00 до 21:00, СБ-ВС с 09:00 до 21:00",
+    "phone": "+7‒939‒822‒48‒49"
+   }
+  },
+  {
+   "type": "node",
+   "id": 10978414884,
+   "lat": 55.0317787,
+   "lon": 82.926879,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-10-16",
+    "healthcare": "pharmacy",
+    "name": "Лека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11001281086,
+   "lat": 54.8528507,
+   "lon": 83.0458702,
+   "tags": {
+    "addr:housenumber": "7",
+    "addr:street": "улица Белоусова",
+    "amenity": "pharmacy",
+    "check_date": "2023-06-23",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "name": "Ваша Аптека",
+    "opening_hours": "08:00-22:00",
+    "payment:mastercard": "yes",
+    "payment:mir": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11021766323,
+   "lat": 55.0626832,
+   "lon": 82.9352956,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Аптека №1",
+    "check_date": "2023-07-03",
+    "healthcare": "pharmacy",
+    "name": "Аптека №136",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11033842945,
+   "lat": 55.05127,
+   "lon": 82.8996617,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-07-08",
+    "healthcare": "pharmacy",
+    "name": "Мелисса",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11047826395,
+   "lat": 55.0542768,
+   "lon": 82.9260205,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-10-20",
+    "healthcare": "pharmacy",
+    "name": "Апрель%",
+    "opening_hours": "08:00-21:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11061325185,
+   "lat": 55.0571803,
+   "lon": 82.9433683,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-07-22",
+    "healthcare": "pharmacy",
+    "name": "Фарм Дисконт",
+    "opening_hours": "08:00-21:30",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11067234660,
+   "lat": 54.9364933,
+   "lon": 82.9081267,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009119",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармаимпекс",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su 08:30-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11067234661,
+   "lat": 55.0590038,
+   "lon": 82.9141402,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009119",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармаимпекс",
+    "opening_hours": "Mo-Fr 07:30-22:00; Sa-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11067234697,
+   "lat": 55.0432734,
+   "lon": 82.9329534,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009119",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармаимпекс",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11067234698,
+   "lat": 55.0384874,
+   "lon": 82.9797711,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009119",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармаимпекс",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11067234699,
+   "lat": 55.1102427,
+   "lon": 82.9414452,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009119",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармаимпекс",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11067234700,
+   "lat": 54.9816409,
+   "lon": 82.8711122,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009119",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармаимпекс",
+    "opening_hours": "Mo-Fr 07:30-22:00; Sa-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11067234701,
+   "lat": 55.0388994,
+   "lon": 82.9047364,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009119",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармаимпекс",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11067234702,
+   "lat": 54.9821821,
+   "lon": 82.8909015,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455;+7 800 7009119",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармаимпекс",
+    "opening_hours": "Mo-Su 07:30-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11067346308,
+   "lat": 55.0526264,
+   "lon": 82.8943803,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11068663508,
+   "lat": 55.0561823,
+   "lon": 82.9271146,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-07-26",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11068665548,
+   "lat": 55.0563035,
+   "lon": 82.9317019,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Фармакопейка",
+    "check_date": "2023-07-26",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11085203873,
+   "lat": 55.0585854,
+   "lon": 82.9110624,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-08-03",
+    "healthcare": "pharmacy",
+    "name": "Живика",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11121123605,
+   "lat": 54.9918986,
+   "lon": 82.9115841,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Озерки",
+    "brand:wikidata": "Q109712399",
+    "contact:vk": "ozerkiapteka",
+    "healthcare": "pharmacy",
+    "name": "Озерки",
+    "name:en": "Ozerki",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "phone": "+78007757533",
+    "website": "https://ozerki.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11126828406,
+   "lat": 54.9453026,
+   "lon": 82.9517075,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "57",
+    "addr:postcode": "630022",
+    "addr:street": "10-й Бронный переулок",
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11136629180,
+   "lat": 54.9371982,
+   "lon": 82.8867409,
+   "tags": {
+    "addr:housenumber": "11В",
+    "addr:street": "улица Виктора Уса",
+    "amenity": "pharmacy",
+    "brand": "АптекаПлюс",
+    "healthcare": "pharmacy",
+    "mobile": "+7 (383) 285-78-80",
+    "name": "АптекаПлюс",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "website": "https://aptekiplus.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11136629189,
+   "lat": 54.9362782,
+   "lon": 82.8863516,
+   "tags": {
+    "addr:housenumber": "15/2",
+    "addr:street": "улица Василия Уса",
+    "amenity": "pharmacy",
+    "brand": "Фармокопейка",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11158423894,
+   "lat": 54.934763,
+   "lon": 82.9205599,
+   "tags": {
+    "addr:housenumber": "179",
+    "addr:street": "улица Зорге",
+    "amenity": "pharmacy",
+    "check_date": "2023-08-31",
+    "healthcare": "pharmacy",
+    "name": "Апрель",
+    "opening_hours": "08:00-20:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11160425260,
+   "lat": 55.0328228,
+   "lon": 82.9112308,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2023-09-01",
+    "healthcare": "pharmacy",
+    "name": "Плюс",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11207266063,
+   "lat": 55.0455608,
+   "lon": 82.9260378,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "brand:wikidata": "Q114060847",
+    "check_date": "2023-09-21",
+    "healthcare": "pharmacy",
+    "name": "Апрель"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11368500553,
+   "lat": 54.9909801,
+   "lon": 82.9765722,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11368500559,
+   "lat": 54.969931,
+   "lon": 82.843821,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:email": "info@b-apteka.ru",
+    "contact:phone": "+7 800 7004455",
+    "contact:website": "https://b-apteka.ru",
+    "healthcare": "pharmacy",
+    "name": "Экона",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11461730881,
+   "lat": 54.9354733,
+   "lon": 82.9094398,
+   "tags": {
+    "addr:housenumber": "15",
+    "addr:street": "Громова",
+    "amenity": "pharmacy",
+    "check_date": "2024-02-13",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Аптека эконом",
+    "opening_hours": "08:00-16:00,16:30-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+7 913 700-28-07",
+    "website": "https://melzdrav.ru",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11508031304,
+   "lat": 55.043963,
+   "lon": 82.9398928,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Живика",
+    "check_date": "2024-01-11",
+    "healthcare": "pharmacy",
+    "name": "Живика",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11569686741,
+   "lat": 54.8842155,
+   "lon": 82.7775259,
+   "tags": {
+    "addr:city": "Верх-Тула",
+    "addr:housenumber": "17А",
+    "addr:postcode": "630520",
+    "addr:street": "Советская улица",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Магнат 5, ООО",
+    "opening_hours": "Mo-Sa 08:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11668626248,
+   "lat": 55.069823,
+   "lon": 82.9431662,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Живика",
+    "check_date": "2024-02-27",
+    "healthcare": "pharmacy",
+    "name": "Живика",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11727941576,
+   "lat": 54.9330534,
+   "lon": 83.1254508,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "4",
+    "addr:postcode": "630068",
+    "addr:street": "переулок Твардовского",
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11837001470,
+   "lat": 55.0678324,
+   "lon": 82.9330221,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-04-22",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-22:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12019825869,
+   "lat": 55.0385703,
+   "lon": 82.9109553,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аптечный пункт",
+    "opening_hours": "Mo-Su 09:00-14:00, 15:00-18:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12031992271,
+   "lat": 55.071545,
+   "lon": 82.9698156,
+   "tags": {
+    "addr:postcode": "630084",
+    "amenity": "pharmacy",
+    "contact:vk": "apteka22",
+    "name": "Фармдисконт",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "8 (800) 550-77-32;+7 923 659-08-34",
+    "website": "https://apteka22.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096751390,
+   "lat": 54.9827012,
+   "lon": 82.8909729,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 07:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761627,
+   "lat": 55.0523391,
+   "lon": 82.9276328,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761630,
+   "lat": 55.0121779,
+   "lon": 83.0010331,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761631,
+   "lat": 55.0577572,
+   "lon": 82.9419826,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761633,
+   "lat": 54.9735201,
+   "lon": 83.0950788,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761641,
+   "lat": 54.9840648,
+   "lon": 82.7571312,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761648,
+   "lat": 54.9813128,
+   "lon": 83.0666431,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761652,
+   "lat": 55.0235751,
+   "lon": 83.0228373,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761655,
+   "lat": 55.0275599,
+   "lon": 83.0229414,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761656,
+   "lat": 54.8316013,
+   "lon": 82.9124322,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761667,
+   "lat": 55.043147,
+   "lon": 82.9340068,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-23:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761668,
+   "lat": 54.9412613,
+   "lon": 82.9600435,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761670,
+   "lat": 55.0739409,
+   "lon": 82.9765493,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761681,
+   "lat": 55.0148358,
+   "lon": 82.8938203,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761701,
+   "lat": 54.9261851,
+   "lon": 82.9159572,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761708,
+   "lat": 54.9425346,
+   "lon": 82.9661584,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761710,
+   "lat": 55.1189714,
+   "lon": 82.8939099,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761716,
+   "lat": 55.1567543,
+   "lon": 83.1199161,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761732,
+   "lat": 54.9994758,
+   "lon": 83.0081103,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761750,
+   "lat": 54.9784458,
+   "lon": 83.1066729,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761760,
+   "lat": 55.0135546,
+   "lon": 82.88488,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761765,
+   "lat": 55.0679639,
+   "lon": 82.7790733,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761795,
+   "lat": 55.1090069,
+   "lon": 82.9297314,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-23:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761796,
+   "lat": 54.9224642,
+   "lon": 82.981866,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761797,
+   "lat": 55.0335312,
+   "lon": 82.9731652,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 07:00-23:00; Sa-Su 08:00-23:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761798,
+   "lat": 54.9767375,
+   "lon": 82.8975229,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761810,
+   "lat": 55.0501727,
+   "lon": 82.900108,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761813,
+   "lat": 55.0411789,
+   "lon": 82.9991335,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761815,
+   "lat": 54.9420253,
+   "lon": 82.8862174,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761817,
+   "lat": 54.9742825,
+   "lon": 83.0809339,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761819,
+   "lat": 55.0438785,
+   "lon": 82.9529695,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761833,
+   "lat": 55.0720622,
+   "lon": 82.9243289,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761847,
+   "lat": 55.0250906,
+   "lon": 82.9559972,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761860,
+   "lat": 55.0336129,
+   "lon": 83.0142403,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 07:00-24:00; Sa-Su 08:00-24:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761872,
+   "lat": 54.9687406,
+   "lon": 82.872434,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761881,
+   "lat": 55.1070393,
+   "lon": 82.9362234,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761884,
+   "lat": 54.9411041,
+   "lon": 82.8964607,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761885,
+   "lat": 54.9661405,
+   "lon": 83.1106442,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761887,
+   "lat": 55.0305305,
+   "lon": 83.0200574,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761892,
+   "lat": 54.9698481,
+   "lon": 83.099652,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761903,
+   "lat": 55.0613336,
+   "lon": 82.9861361,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761906,
+   "lat": 54.9901934,
+   "lon": 82.8161473,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 07:00-23:45; Sa-Su 08:00-23:45"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761907,
+   "lat": 54.9871017,
+   "lon": 82.8499491,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761908,
+   "lat": 54.956493,
+   "lon": 82.9666895,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761914,
+   "lat": 54.9987863,
+   "lon": 82.9076622,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761916,
+   "lat": 54.9898706,
+   "lon": 82.9762859,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761917,
+   "lat": 54.9447038,
+   "lon": 82.9659643,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761926,
+   "lat": 54.9704306,
+   "lon": 82.8417528,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761927,
+   "lat": 55.0681424,
+   "lon": 82.9643603,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761928,
+   "lat": 55.0739898,
+   "lon": 82.9498791,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761931,
+   "lat": 54.9379313,
+   "lon": 83.12043,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761938,
+   "lat": 55.1000068,
+   "lon": 82.9416822,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761942,
+   "lat": 55.0208358,
+   "lon": 83.0173661,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761944,
+   "lat": 54.9818262,
+   "lon": 82.8734897,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761951,
+   "lat": 54.9674061,
+   "lon": 82.8509957,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761954,
+   "lat": 55.1892879,
+   "lon": 83.1417992,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761955,
+   "lat": 54.9968716,
+   "lon": 82.9558266,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761957,
+   "lat": 54.9226489,
+   "lon": 82.996844,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12096761964,
+   "lat": 54.9345583,
+   "lon": 82.9092436,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12114036344,
+   "lat": 55.0251767,
+   "lon": 82.813344,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Моя аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12114036347,
+   "lat": 55.0246446,
+   "lon": 82.8106485,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Фиалка",
+    "opening_hours": "до 21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12114036463,
+   "lat": 55.0274625,
+   "lon": 82.807192,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Экономка"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12114036497,
+   "lat": 55.028418,
+   "lon": 82.809299,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Экономка",
+    "operator": "до 21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12278393124,
+   "lat": 55.0570275,
+   "lon": 82.9052339,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Озерки",
+    "brand:wikidata": "Q109712399",
+    "check_date": "2024-10-22",
+    "healthcare": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12350306517,
+   "lat": 55.0064725,
+   "lon": 82.9568964,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-11-18",
+    "healthcare": "pharmacy",
+    "name": "Озерки",
+    "opening_hours": "08:00-21:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12558418697,
+   "lat": 55.0646252,
+   "lon": 82.9345588,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12558418698,
+   "lat": 55.0252048,
+   "lon": 82.8026617,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12558426602,
+   "lat": 54.8659153,
+   "lon": 82.9810892,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12558426603,
+   "lat": 54.8591974,
+   "lon": 82.9819728,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12558426605,
+   "lat": 54.9200306,
+   "lon": 82.9845418,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12558426610,
+   "lat": 55.0439072,
+   "lon": 82.8826007,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12558426624,
+   "lat": 54.941566,
+   "lon": 82.968192,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12558426630,
+   "lat": 54.9397099,
+   "lon": 82.9480042,
+   "tags": {
+    "amenity": "pharmacy",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12886158139,
+   "lat": 54.9891973,
+   "lon": 83.0400307,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Магнит Аптека",
+    "brand:wikidata": "Q120262563",
+    "healthcare": "pharmacy",
+    "name": "Магнит Аптека"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12886228440,
+   "lat": 54.9914193,
+   "lon": 82.9956378,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Апрель",
+    "brand:wikidata": "Q114060847",
+    "healthcare": "pharmacy",
+    "name": "Апрель"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12942149817,
+   "lat": 55.0519699,
+   "lon": 82.915122,
+   "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2025-06-21",
+    "healthcare": "pharmacy",
+    "name": "Планета Здоровья",
+    "opening_hours": "08:00-22:30",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12968939579,
+   "lat": 54.8642052,
+   "lon": 83.0859135,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "15",
+    "addr:street": "бульвар Молодёжи",
+    "amenity": "pharmacy",
+    "check_date": "2025-07-02",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Гармония здоровья",
+    "opening_hours": "08:00-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13073503570,
+   "lat": 55.0435697,
+   "lon": 82.9362338,
+   "tags": {
+    "addr:floor": "1",
+    "addr:housenumber": "38",
+    "addr:street": "улица Гоголя",
+    "amenity": "pharmacy",
+    "check_date": "2025-08-16",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "ФармДисконт",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13388595328,
+   "lat": 54.9923037,
+   "lon": 82.8340307,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Озерки"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13918888946,
+   "lat": 55.0133781,
+   "lon": 83.0024719,
+   "tags": {
+    "amenity": "pharmacy",
+    "name": "Аллоэ"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13918892102,
+   "lat": 55.0133781,
+   "lon": 83.0024719,
+   "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "плющихинская",
+    "amenity": "pharmacy",
+    "name": "Аллоэ",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13962217449,
+   "lat": 55.0433288,
+   "lon": 82.9887313,
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "39",
+    "addr:street": "улица Есенина",
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "brand:wikidata": "Q126737043",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Максавит"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14085888138,
+   "lat": 55.0427247,
+   "lon": 82.9191387,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Живика",
+    "brand:en": "Zhivika",
+    "brand:ru": "Живика",
+    "brand:wikidata": "Q123165954",
+    "healthcare": "pharmacy",
+    "name": "Живика",
+    "name:en": "Zhivika",
+    "name:ru": "Живика"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14085906018,
+   "lat": 55.0560132,
+   "lon": 82.9305554,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Максавит",
+    "brand:wikidata": "Q126737043",
+    "healthcare": "pharmacy",
+    "name": "Максавит",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14085906021,
+   "lat": 55.0560017,
+   "lon": 82.930441,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека Плюс",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14097682015,
+   "lat": 55.0571052,
+   "lon": 82.9370986,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека Экона"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14148680177,
+   "lat": 55.0431625,
+   "lon": 82.9252486,
+   "tags": {
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Аптека Максавит"
+   }
+  },
+  {
+   "type": "way",
+   "id": 51969077,
+   "center": {
+    "lat": 55.1099351,
+    "lon": 82.9706575
+   },
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:country": "RU",
+    "addr:housenumber": "2/5",
+    "addr:postcode": "630129",
+    "addr:street": "Рассветная улица",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "building:levels": "2",
+    "design": "typical",
+    "height": "7.2",
+    "length": "37.24",
+    "opening_hours": "08:00-21:00",
+    "roof:material": "tar_paper",
+    "roof:shape": "flat",
+    "width": "22.24"
+   }
+  },
+  {
+   "type": "way",
+   "id": 52115372,
+   "center": {
+    "lat": 54.964065,
+    "lon": 82.8434523
+   },
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:country": "RU",
+    "addr:postcode": "630107",
+    "addr:street": "улица Связистов",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Муниципальная аптечная сеть"
+   }
+  },
+  {
+   "type": "way",
+   "id": 126658289,
+   "center": {
+    "lat": 55.1768644,
+    "lon": 82.963297
+   },
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:country": "RU",
+    "addr:housenumber": "12/1",
+    "addr:postcode": "630900",
+    "addr:street": "Новоуральская улица",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "building:levels": "1"
+   }
+  },
+  {
+   "type": "way",
+   "id": 138544852,
+   "center": {
+    "lat": 55.0086568,
+    "lon": 82.9643717
+   },
+   "tags": {
+    "amenity": "pharmacy",
+    "building": "yes",
+    "contact:phone": "+7 800 2009707",
+    "contact:website": "https://farmakopeika.ru",
+    "healthcare": "pharmacy",
+    "name": "Фармакопейка",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "way",
+   "id": 143866707,
+   "center": {
+    "lat": 55.0147984,
+    "lon": 82.9538984
+   },
+   "tags": {
+    "addr:housenumber": "98 к1",
+    "addr:street": "Ленинградская улица",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "Мелодия здоровья"
+   }
+  },
+  {
+   "type": "way",
+   "id": 147290928,
+   "center": {
+    "lat": 54.971074,
+    "lon": 82.8728963
+   },
+   "tags": {
+    "addr:housenumber": "36А",
+    "addr:street": "улица Станиславского",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "name": "Аптечный Двор"
+   }
+  },
+  {
+   "type": "way",
+   "id": 241497150,
+   "center": {
+    "lat": 54.9380927,
+    "lon": 83.1178972
+   },
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "2/1 к1",
+    "addr:postcode": "630068",
+    "addr:street": "улица Пришвина",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "building:levels": "2"
+   }
+  },
+  {
+   "type": "way",
+   "id": 297426759,
+   "center": {
+    "lat": 54.9390922,
+    "lon": 82.9298183
+   },
+   "tags": {
+    "addr:housenumber": "122/3",
+    "addr:street": "улица Петухова",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "check_date": "2022-07-01",
+    "healthcare": "pharmacy",
+    "opening_hours": "08:00-22:00",
+    "operator": "ООО \"Олдис-Фарм\"",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 312957177,
+   "center": {
+    "lat": 55.0431018,
+    "lon": 82.9454572
+   },
+   "tags": {
+    "amenity": "pharmacy",
+    "building": "yes",
+    "building:levels": "1"
+   }
+  },
+  {
+   "type": "way",
+   "id": 449162558,
+   "center": {
+    "lat": 54.9768331,
+    "lon": 83.1266542
+   },
+   "tags": {
+    "amenity": "pharmacy",
+    "building": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 596125840,
+   "center": {
+    "lat": 54.9885126,
+    "lon": 82.8439781
+   },
+   "tags": {
+    "addr:city": "Новосибирск",
+    "addr:housenumber": "19 к1",
+    "addr:street": "Новосибирская улица",
+    "amenity": "pharmacy",
+    "building": "yes",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Белая аптека",
+    "opening_hours": "24/7"
+   }
+  }
+ ]
+}

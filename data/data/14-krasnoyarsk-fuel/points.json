@@ -1,0 +1,4909 @@
+{
+ "version": 0.6,
+ "generator": "Geofabrik extract russia/siberian-fed-district, отобрано по запросу из поля query",
+ "osm3s": {
+  "timestamp_osm_base": "2026-10-02T20:21:34Z",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+ },
+ "query": "[out:json][timeout:90];\nnwr[\"amenity\"=\"fuel\"](55.91,92.11,56.17,93.26);\nout center tags;",
+ "elements": [
+  {
+   "type": "node",
+   "id": 290710221,
+   "lat": 56.0249037,
+   "lon": 93.0618986,
+   "tags": {
+    "addr:housenumber": "2Г",
+    "addr:street": "улица Глинки",
+    "amenity": "fuel",
+    "brand": "Терминалнефтегаз",
+    "fuel:lpg": "yes",
+    "name": "АГЗС Терминалнефтегаз"
+   }
+  },
+  {
+   "type": "node",
+   "id": 346244725,
+   "lat": 56.0596569,
+   "lon": 92.7226936,
+   "tags": {
+    "amenity": "fuel",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Регион24",
+    "self_service": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 426835726,
+   "lat": 55.9927579,
+   "lon": 92.9984551,
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "node",
+   "id": 426835731,
+   "lat": 55.988586,
+   "lon": 92.9779778,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Олмал",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Олмал",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 430034682,
+   "lat": 56.0210069,
+   "lon": 92.8677922,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 433985480,
+   "lat": 56.0073005,
+   "lon": 93.0335487,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "351"
+   }
+  },
+  {
+   "type": "node",
+   "id": 744890006,
+   "lat": 55.9585728,
+   "lon": 92.5937668,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "ОПТИ",
+    "brand:wikidata": "Q109356512",
+    "contact:email": "opti-info@yandex.ru",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://www.azs-opti.ru",
+    "name": "Опти",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 744890061,
+   "lat": 55.947668,
+   "lon": 92.5127953,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "compressed_air": "no",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "364"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1727221690,
+   "lat": 56.0448248,
+   "lon": 92.8822343,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7",
+    "source": "Bing",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1778045072,
+   "lat": 56.0414282,
+   "lon": 92.864011,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_80": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1852680673,
+   "lat": 56.0663699,
+   "lon": 92.82438,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "name": "25 часов",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1852680674,
+   "lat": 56.0463396,
+   "lon": 92.8364111,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "fuel:diesel": "yes",
+    "fuel:octane_80": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1852680685,
+   "lat": 55.9806395,
+   "lon": 92.854263,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1854158959,
+   "lat": 56.0344556,
+   "lon": 92.9266576,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "КНП",
+    "compressed_air": "no",
+    "fixme": "на панорамах+аэрофото 2024 заправки нет. Существует ли?",
+    "name": "КНП"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1854158961,
+   "lat": 56.0399318,
+   "lon": 92.8513071,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Терминалнефтегаз",
+    "fuel:lpg": "yes",
+    "name": "Терминалнефтегаз"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1854158964,
+   "lat": 56.0496309,
+   "lon": 92.7612871,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Терминалнефтегаз",
+    "name": "Терминалнефтегаз"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1854158989,
+   "lat": 55.9844987,
+   "lon": 92.9080134,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Терминалнефтегаз",
+    "fuel:diesel": "yes",
+    "fuel:lpg": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Терминалнефтегаз",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1854158998,
+   "lat": 56.0229751,
+   "lon": 93.0243379,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "352"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1854159000,
+   "lat": 56.0414678,
+   "lon": 92.7831258,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "name": "25 часов"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1863896919,
+   "lat": 56.1589995,
+   "lon": 92.6949803,
+   "tags": {
+    "amenity": "fuel",
+    "name": "Формула"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1867052766,
+   "lat": 56.0298289,
+   "lon": 92.8289506,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "ОПТИ",
+    "brand:wikidata": "Q109356512",
+    "contact:email": "opti-info@yandex.ru",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://www.azs-opti.ru",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "ОПТИ",
+    "name:en": "Opti",
+    "name:ru": "ОПТИ",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1903429002,
+   "lat": 56.1573617,
+   "lon": 92.7255993,
+   "tags": {
+    "addr:city": "Емельяново",
+    "addr:place": "798-й километр трассы Сибирь",
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "brand:wikipedia": "ru:Газпром нефть",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "556"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1912419552,
+   "lat": 56.0375038,
+   "lon": 93.1203868,
+   "tags": {
+    "addr:housenumber": "22",
+    "addr:street": "улица Дружбы",
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2024607815,
+   "lat": 56.0417146,
+   "lon": 93.1716667,
+   "tags": {
+    "amenity": "fuel",
+    "name": "Фортуна плюс"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2113157900,
+   "lat": 56.0693455,
+   "lon": 92.9876406,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Терминалнефтегаз",
+    "compressed_air": "no",
+    "name": "Терминалнефтегаз"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2176631222,
+   "lat": 56.0644295,
+   "lon": 92.8914623,
+   "tags": {
+    "addr:housenumber": "35/3",
+    "addr:street": "Северное шоссе",
+    "amenity": "fuel",
+    "brand": "Нефтеком",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Нефтеком"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2176631227,
+   "lat": 56.0399146,
+   "lon": 92.7636281,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Мидас",
+    "name": "Мидас",
+    "opening_hours": "PH,Mo-Su 00:00-24:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2335105160,
+   "lat": 56.0256822,
+   "lon": 93.0618213,
+   "tags": {
+    "amenity": "fuel",
+    "name": "КНП",
+    "operator": "ОАО КНП"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2522812473,
+   "lat": 56.0456307,
+   "lon": 92.8650238,
+   "tags": {
+    "amenity": "fuel",
+    "name": "ЕвроОйл"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2669803637,
+   "lat": 56.1036906,
+   "lon": 92.4561524,
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2791966983,
+   "lat": 56.0761696,
+   "lon": 92.9500793,
+   "tags": {
+    "amenity": "fuel",
+    "name": "Аркадия"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2857668929,
+   "lat": 56.0279926,
+   "lon": 93.1446466,
+   "tags": {
+    "amenity": "fuel",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Позитив"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2857668930,
+   "lat": 56.0285657,
+   "lon": 93.196627,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Роснефть",
+    "contact:phone": "+7 800 7757588",
+    "contact:website": "https://rosneft-azs.ru",
+    "fuel:diesel": "yes",
+    "fuel:discount": "Семейная команда",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Роснефть",
+    "name:ru": "Роснефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"РН-Красноярскнефтепродукт\"",
+    "ref": "8",
+    "shop": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2857668934,
+   "lat": 56.0234156,
+   "lon": 93.1285988,
+   "tags": {
+    "amenity": "fuel",
+    "compressed_air": "no",
+    "name": "Стандарт"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2857668936,
+   "lat": 56.0295312,
+   "lon": 93.1982343,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Роснефть",
+    "contact:phone": "+7 800 7757588",
+    "contact:website": "https://rosneft-azs.ru",
+    "fuel:diesel": "yes",
+    "fuel:discount": "Семейная команда",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Роснефть",
+    "name:ru": "Роснефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"РН-Красноярскнефтепродукт\"",
+    "ref": "7",
+    "shop": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2921492785,
+   "lat": 55.9547578,
+   "lon": 92.3222966,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Роснефть",
+    "compressed_air": "no",
+    "contact:phone": "+7 800 7757588",
+    "contact:website": "https://rosneft-azs.ru",
+    "fuel:diesel": "yes",
+    "fuel:discount": "Семейная команда",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Роснефть",
+    "name:ru": "Роснефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"РН-Красноярскнефтепродукт\"",
+    "ref": "32",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2922926784,
+   "lat": 55.9611965,
+   "lon": 92.4059432,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "ОПТИ",
+    "brand:wikidata": "Q109356512",
+    "compressed_air": "no",
+    "contact:email": "opti-info@yandex.ru",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://www.azs-opti.ru",
+    "name": "Опти",
+    "name:en": "Opti",
+    "name:ru": "Опти",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2922926787,
+   "lat": 55.9604939,
+   "lon": 92.4076598,
+   "tags": {
+    "amenity": "fuel",
+    "compressed_air": "no",
+    "name": "Партнер XXI"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3129280566,
+   "lat": 56.0491132,
+   "lon": 92.9528116,
+   "tags": {
+    "addr:housenumber": "51А/3",
+    "addr:street": "проспект Металлургов",
+    "amenity": "fuel",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Ачинск нефть"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3130599592,
+   "lat": 56.1092748,
+   "lon": 92.9115596,
+   "tags": {
+    "amenity": "fuel",
+    "name": "Регион24"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3130599594,
+   "lat": 56.1091919,
+   "lon": 92.9238696,
+   "tags": {
+    "amenity": "fuel",
+    "name": "Техно-союз"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3130599595,
+   "lat": 56.1096921,
+   "lon": 92.9244245,
+   "tags": {
+    "amenity": "fuel",
+    "name": "Регион24"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3141266323,
+   "lat": 56.1483265,
+   "lon": 93.0164735,
+   "tags": {
+    "addr:place": "18 км территория Глубокий обход Красноярска",
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "240"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3266482980,
+   "lat": 56.0435745,
+   "lon": 93.1758074,
+   "tags": {
+    "amenity": "fuel",
+    "name": "Позитив"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3266482981,
+   "lat": 56.0371868,
+   "lon": 93.1062752,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "211"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3266482983,
+   "lat": 56.037454,
+   "lon": 93.1002921,
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3280462408,
+   "lat": 55.95627,
+   "lon": 92.431935,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Роснефть",
+    "contact:phone": "+7 800 7757588",
+    "contact:website": "https://rosneft-azs.ru",
+    "fuel:diesel": "yes",
+    "fuel:discount": "Семейная команда",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Роснефть",
+    "name:ru": "Роснефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"РН-Красноярскнефтепродукт\"",
+    "ref": "33"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3369589494,
+   "lat": 56.0652139,
+   "lon": 92.9540502,
+   "tags": {
+    "amenity": "fuel",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Регион24",
+    "opening_hours": "24/7",
+    "self_service": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3494301087,
+   "lat": 56.1601723,
+   "lon": 92.7230477,
+   "tags": {
+    "amenity": "fuel",
+    "name": "КНП"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3494301091,
+   "lat": 56.1582976,
+   "lon": 92.7274767,
+   "tags": {
+    "addr:housenumber": "1Ж/1",
+    "addr:street": "Московская улица",
+    "amenity": "fuel",
+    "name": "Сибгаз",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3517119633,
+   "lat": 56.0324912,
+   "lon": 92.9104798,
+   "tags": {
+    "amenity": "fuel",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Стандарт"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3597754001,
+   "lat": 56.0224963,
+   "lon": 93.024935,
+   "tags": {
+    "amenity": "fuel",
+    "fuel:lpg": "yes",
+    "name": "Красноярсккрайгаз"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3628037510,
+   "lat": 55.9586547,
+   "lon": 93.0098024,
+   "tags": {
+    "amenity": "fuel",
+    "compressed_air": "no",
+    "name": "Аркадия",
+    "opening_hours": "24/7",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3632488587,
+   "lat": 55.9708749,
+   "lon": 92.9528289,
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3699480139,
+   "lat": 56.0223265,
+   "lon": 93.1103887,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Сольвент",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Сольвент",
+    "opening_hours": "PH,Mo-Su 12:00-24:00"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3711441437,
+   "lat": 55.9506282,
+   "lon": 93.153793,
+   "tags": {
+    "amenity": "fuel",
+    "compressed_air": "no",
+    "name": "КИТ",
+    "opening_hours": "24/7",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3866438587,
+   "lat": 55.9529668,
+   "lon": 92.3190457,
+   "tags": {
+    "amenity": "fuel",
+    "compressed_air": "no",
+    "name": "Позитив",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3866443457,
+   "lat": 55.9579236,
+   "lon": 92.3236656,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "КНП",
+    "name": "КНП"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5116381722,
+   "lat": 56.100403,
+   "lon": 92.9137058,
+   "tags": {
+    "amenity": "fuel",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Регион24"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5321393638,
+   "lat": 56.0811197,
+   "lon": 93.0122577,
+   "tags": {
+    "amenity": "fuel",
+    "name": "Регион24"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6433448941,
+   "lat": 56.0595643,
+   "lon": 92.9389908,
+   "tags": {
+    "amenity": "fuel",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Нефтеком",
+    "toilets": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7051113824,
+   "lat": 56.002951,
+   "lon": 92.9515526,
+   "tags": {
+    "amenity": "fuel",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Столица"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9209967054,
+   "lat": 56.055244,
+   "lon": 92.883936,
+   "tags": {
+    "amenity": "fuel",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Нефтеком",
+    "opening_hours": "24/7",
+    "self_service": "no",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9574578442,
+   "lat": 55.9482919,
+   "lon": 92.5125191,
+   "tags": {
+    "amenity": "fuel",
+    "compressed_air": "no",
+    "name": "Регион24",
+    "opening_hours": "24/7",
+    "ref": "15"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9960748720,
+   "lat": 55.9883308,
+   "lon": 93.0242631,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "ОПТИ",
+    "brand:wikidata": "Q109356512",
+    "contact:email": "opti-info@yandex.ru",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://www.azs-opti.ru",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Опти",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12003607169,
+   "lat": 55.9854358,
+   "lon": 92.8916595,
+   "tags": {
+    "amenity": "fuel",
+    "compressed_air": "no",
+    "fixme": "Перепроверить доступность fuel:octane_80, маппил по яндекс панорамам, там на табличке есть 80, однако нет цены. С учетом того что 80 встречается редко, есть все основания предполагать что табличка устарела",
+    "fuel:diesel": "yes",
+    "fuel:octane_80": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "AutoБавария"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12119720990,
+   "lat": 56.1593253,
+   "lon": 92.7077456,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Роснефть",
+    "brand:en": "Rosneft",
+    "brand:ru": "Роснефть",
+    "brand:wikidata": "Q1141123",
+    "cafe": "yes",
+    "compressed_air": "no",
+    "contact:phone": "+7 800 7757588",
+    "contact:website": "https://rosneft-azs.ru",
+    "fuel:diesel": "yes",
+    "fuel:discount": "Семейная команда",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Роснефть",
+    "name:en": "Rosneft",
+    "name:ru": "Роснефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"РН-Красноярскнефтепродукт\"",
+    "ref": "13",
+    "shop": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13017674583,
+   "lat": 56.0259593,
+   "lon": 93.1369725,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikipedia": "ru:Газпром нефть",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "538"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13832916847,
+   "lat": 55.9753735,
+   "lon": 92.8904588,
+   "tags": {
+    "amenity": "fuel",
+    "compressed_air": "no",
+    "fuel:octane_95": "yes",
+    "name": "АЗС Автомат",
+    "opening_hours": "24/7",
+    "self_service": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 59536787,
+   "center": {
+    "lat": 55.9778108,
+    "lon": 92.8373448
+   },
+   "tags": {
+    "addr:housenumber": "67Г",
+    "addr:street": "Свердловская улица",
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fixme": "не помешал бы ref:source=",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "366"
+   }
+  },
+  {
+   "type": "way",
+   "id": 59536806,
+   "center": {
+    "lat": 55.9788983,
+    "lon": 92.836961
+   },
+   "tags": {
+    "addr:housenumber": "65Г",
+    "addr:street": "Свердловская улица",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fixme": "не помешал бы ref:source=",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "348"
+   }
+  },
+  {
+   "type": "way",
+   "id": 60262961,
+   "center": {
+    "lat": 56.0120908,
+    "lon": 92.811452
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "yes",
+    "building:levels": "1",
+    "check_date": "2024-12-29",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов"
+   }
+  },
+  {
+   "type": "way",
+   "id": 61025671,
+   "center": {
+    "lat": 56.0200103,
+    "lon": 92.7958043
+   },
+   "tags": {
+    "addr:housenumber": "48А",
+    "addr:street": "Свободный проспект",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "location": "surface",
+    "name": "25 часов",
+    "opening_hours": "24/7",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "way",
+   "id": 96351534,
+   "center": {
+    "lat": 55.9946413,
+    "lon": 92.9132571
+   },
+   "tags": {
+    "addr:housenumber": "2/4",
+    "addr:postcode": "660093",
+    "addr:street": "улица Академика Вавилова",
+    "amenity": "fuel",
+    "building": "yes",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:lpg": "yes",
+    "fuel:octane_95": "yes",
+    "name": "АГЗС Терминалнефтегаз",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 108686743,
+   "center": {
+    "lat": 56.024227,
+    "lon": 92.7555108
+   },
+   "tags": {
+    "addr:housenumber": "26А",
+    "addr:postcode": "660130",
+    "addr:street": "улица Елены Стасовой",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "shop": "supermarket"
+   }
+  },
+  {
+   "type": "way",
+   "id": 109737150,
+   "center": {
+    "lat": 56.0617501,
+    "lon": 92.9726985
+   },
+   "tags": {
+    "addr:housenumber": "3Г",
+    "addr:postcode": "660055",
+    "addr:street": "проспект Металлургов",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "25 часов",
+    "self_service": "no"
+   }
+  },
+  {
+   "type": "way",
+   "id": 123934908,
+   "center": {
+    "lat": 56.0126767,
+    "lon": 92.8392726
+   },
+   "tags": {
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Столица",
+    "payment:cards": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 123934911,
+   "center": {
+    "lat": 56.0160361,
+    "lon": 92.841062
+   },
+   "tags": {
+    "addr:housenumber": "49Д",
+    "addr:street": "улица Республики",
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП"
+   }
+  },
+  {
+   "type": "way",
+   "id": 132311081,
+   "center": {
+    "lat": 56.0480334,
+    "lon": 92.8334745
+   },
+   "tags": {
+    "addr:housenumber": "111",
+    "addr:street": "улица Маерчака",
+    "amenity": "fuel",
+    "brand": "ОПТИ",
+    "brand:wikidata": "Q109356512",
+    "building": "yes",
+    "building:levels": "1",
+    "contact:email": "opti-info@yandex.ru",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://www.azs-opti.ru",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Опти",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 132311082,
+   "center": {
+    "lat": 56.0433167,
+    "lon": 92.8361048
+   },
+   "tags": {
+    "addr:housenumber": "103/1",
+    "addr:street": "улица Маерчака",
+    "amenity": "fuel",
+    "brand": "Benzo",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Benzo"
+   }
+  },
+  {
+   "type": "way",
+   "id": 140233127,
+   "center": {
+    "lat": 56.0540426,
+    "lon": 92.8339146
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "source": "Bing"
+   }
+  },
+  {
+   "type": "way",
+   "id": 162681857,
+   "center": {
+    "lat": 56.0479036,
+    "lon": 92.8318375
+   },
+   "tags": {
+    "addr:housenumber": "111А",
+    "addr:street": "улица Маерчака",
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "building:levels": "1",
+    "name": "КНП"
+   }
+  },
+  {
+   "type": "way",
+   "id": 169562288,
+   "center": {
+    "lat": 55.958944,
+    "lon": 92.6010429
+   },
+   "tags": {
+    "amenity": "fuel",
+    "building": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7",
+    "shop": "supermarket"
+   }
+  },
+  {
+   "type": "way",
+   "id": 172597125,
+   "center": {
+    "lat": 55.9589329,
+    "lon": 92.5718738
+   },
+   "tags": {
+    "amenity": "fuel",
+    "building": "retail",
+    "check_date": "2024",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Регион24",
+    "self_service": "no"
+   }
+  },
+  {
+   "type": "way",
+   "id": 172730142,
+   "center": {
+    "lat": 56.0194951,
+    "lon": 92.8601212
+   },
+   "tags": {
+    "addr:housenumber": "65А с5",
+    "addr:street": "Брянская улица",
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Регион24"
+   }
+  },
+  {
+   "type": "way",
+   "id": 173406060,
+   "center": {
+    "lat": 55.9933056,
+    "lon": 92.9253575
+   },
+   "tags": {
+    "addr:housenumber": "271Г",
+    "addr:postcode": "660025",
+    "addr:street": "Семафорная улица",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 173416670,
+   "center": {
+    "lat": 55.9879575,
+    "lon": 92.9204363
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Лукойл",
+    "brand:en": "Lukoil",
+    "brand:ru": "Лукойл",
+    "brand:wikidata": "Q329347",
+    "building": "retail",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Лукойл",
+    "name:en": "Lukoil",
+    "name:ru": "Лукойл"
+   }
+  },
+  {
+   "type": "way",
+   "id": 173423530,
+   "center": {
+    "lat": 55.982821,
+    "lon": 92.8958036
+   },
+   "tags": {
+    "addr:housenumber": "105И",
+    "addr:street": "улица 60 лет Октября",
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:lpg": "yes",
+    "name": "Терминалнефтегаз",
+    "operator": "Терминалнефтегаз"
+   }
+  },
+  {
+   "type": "way",
+   "id": 173456586,
+   "center": {
+    "lat": 55.9979299,
+    "lon": 92.9102478
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "source": "Яндекс Панорамы"
+   }
+  },
+  {
+   "type": "way",
+   "id": 175546020,
+   "center": {
+    "lat": 56.0145563,
+    "lon": 92.9530913
+   },
+   "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Сибирский переулок",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "building:levels": "1",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fixme": "не помешало бы source:ref=",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "355"
+   }
+  },
+  {
+   "type": "way",
+   "id": 177078025,
+   "center": {
+    "lat": 56.0349525,
+    "lon": 92.9205976
+   },
+   "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Октябрьская улица",
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "office",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "КНП",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 194859137,
+   "center": {
+    "lat": 56.0023068,
+    "lon": 93.0444992
+   },
+   "tags": {
+    "amenity": "fuel",
+    "name": "КНП"
+   }
+  },
+  {
+   "type": "way",
+   "id": 199433044,
+   "center": {
+    "lat": 55.9855656,
+    "lon": 92.9538945
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП"
+   }
+  },
+  {
+   "type": "way",
+   "id": 199498649,
+   "center": {
+    "lat": 55.9869851,
+    "lon": 92.9763951
+   },
+   "tags": {
+    "addr:housenumber": "75А/5",
+    "addr:street": "улица Мичурина",
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП",
+    "opening_hours": "24/7",
+    "roof:shape": "flat",
+    "toilets": "yes",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 202996023,
+   "center": {
+    "lat": 56.0346958,
+    "lon": 92.9243393
+   },
+   "tags": {
+    "addr:housenumber": "40",
+    "addr:street": "улица Партизана Железняка",
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Ачинск нефть",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 204773238,
+   "center": {
+    "lat": 56.0413205,
+    "lon": 92.8565167
+   },
+   "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Караульная улица",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "yes",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "PH,Mo-Su 00:00-24:00",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 205673365,
+   "center": {
+    "lat": 56.0318395,
+    "lon": 92.8070025
+   },
+   "tags": {
+    "addr:housenumber": "43Ж",
+    "addr:street": "улица Калинина",
+    "amenity": "fuel",
+    "brand": "СибОйл",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "layer": "1",
+    "name": "СибОйл"
+   }
+  },
+  {
+   "type": "way",
+   "id": 210541493,
+   "center": {
+    "lat": 56.1211947,
+    "lon": 92.944336
+   },
+   "tags": {
+    "addr:housenumber": "2/1",
+    "addr:postcode": "660119",
+    "addr:street": "Енисейский тракт (12 км)",
+    "amenity": "fuel",
+    "brand": "Регион24",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Регион24"
+   }
+  },
+  {
+   "type": "way",
+   "id": 213496457,
+   "center": {
+    "lat": 56.0775772,
+    "lon": 92.593441
+   },
+   "tags": {
+    "amenity": "fuel",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Регион 24",
+    "name:en": "Region 24",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 216570328,
+   "center": {
+    "lat": 56.0326892,
+    "lon": 92.8917592
+   },
+   "tags": {
+    "addr:housenumber": "18",
+    "addr:street": "улица Шахтёров",
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "fuel:lpg": "yes",
+    "name": "Терминалнефтегаз",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 222587856,
+   "center": {
+    "lat": 56.0234227,
+    "lon": 93.1015287
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "ОПТИ",
+    "brand:wikidata": "Q109356512",
+    "building": "yes",
+    "compressed_air": "no",
+    "contact:email": "opti-info@yandex.ru",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://www.azs-opti.ru",
+    "name": "Опти",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 222718899,
+   "center": {
+    "lat": 56.0268174,
+    "lon": 93.1248609
+   },
+   "tags": {
+    "addr:housenumber": "5А",
+    "addr:street": "Пролетарская улица",
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "building:levels": "1",
+    "changing_table": "no",
+    "check_date": "2025-08-25",
+    "compressed_air": "yes",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "207",
+    "roof:levels": "0",
+    "roof:shape": "flat",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 237327015,
+   "center": {
+    "lat": 56.1684246,
+    "lon": 92.6536061
+   },
+   "tags": {
+    "addr:housenumber": "19",
+    "addr:street": "Промышленная улица",
+    "amenity": "fuel",
+    "building": "yes",
+    "name": "Стандарт 24"
+   }
+  },
+  {
+   "type": "way",
+   "id": 237792331,
+   "center": {
+    "lat": 56.0223834,
+    "lon": 93.0117035
+   },
+   "tags": {
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "name:ru": "25 часов",
+    "ref": "37"
+   }
+  },
+  {
+   "type": "way",
+   "id": 243745723,
+   "center": {
+    "lat": 56.0707283,
+    "lon": 92.9367209
+   },
+   "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "улица 9 Мая",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "yes",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "PH,Mo-Su 00:00-24:00"
+   }
+  },
+  {
+   "type": "way",
+   "id": 245448703,
+   "center": {
+    "lat": 56.0440235,
+    "lon": 92.7783653
+   },
+   "tags": {
+    "amenity": "fuel",
+    "building": "roof",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Стандарт 24",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 254294669,
+   "center": {
+    "lat": 56.0686701,
+    "lon": 92.9321914
+   },
+   "tags": {
+    "addr:housenumber": "4Г",
+    "addr:street": "улица 9 Мая",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "yes",
+    "building:levels": "1",
+    "compressed_air": "yes",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "217",
+    "roof:shape": "flat",
+    "self_service": "no",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274211407,
+   "center": {
+    "lat": 56.0443886,
+    "lon": 93.0219436
+   },
+   "tags": {
+    "addr:housenumber": "57Г",
+    "addr:street": "Рейдовая улица",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "building:levels": "1",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "220"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274224643,
+   "center": {
+    "lat": 56.0615821,
+    "lon": 93.0252617
+   },
+   "tags": {
+    "addr:housenumber": "7Д",
+    "addr:street": "Одесская улица",
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274714217,
+   "center": {
+    "lat": 56.0653359,
+    "lon": 92.984429
+   },
+   "tags": {
+    "addr:housenumber": "12А",
+    "addr:street": "Джамбульская улица",
+    "amenity": "fuel",
+    "building": "yes",
+    "building:levels": "1"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274717011,
+   "center": {
+    "lat": 56.0904079,
+    "lon": 93.0326946
+   },
+   "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "улица Пограничников",
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274717021,
+   "center": {
+    "lat": 56.1054933,
+    "lon": 93.0740409
+   },
+   "tags": {
+    "addr:housenumber": "5/3",
+    "addr:street": "улица Пограничников",
+    "amenity": "fuel",
+    "brand": "Роснефть",
+    "brand:en": "Rosneft",
+    "brand:ru": "Роснефть",
+    "brand:wikidata": "Q1141123",
+    "building": "yes",
+    "building:levels": "1",
+    "contact:phone": "+7 800 7757588",
+    "contact:website": "https://rosneft-azs.ru",
+    "fuel:diesel": "yes",
+    "fuel:discount": "Семейная команда",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Роснефть",
+    "name:en": "Rosneft",
+    "name:ru": "Роснефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"РН-Красноярскнефтепродукт\"",
+    "ref": "16",
+    "shop": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274730372,
+   "center": {
+    "lat": 56.0864918,
+    "lon": 92.9370363
+   },
+   "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "Енисейский тракт",
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "КНП",
+    "source": "Bing"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274730395,
+   "center": {
+    "lat": 56.0806916,
+    "lon": 92.9361152
+   },
+   "tags": {
+    "addr:housenumber": "9А",
+    "addr:street": "Северное шоссе",
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "building": "yes",
+    "building:levels": "1",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:lpg": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "343",
+    "self_service": "no"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274733920,
+   "center": {
+    "lat": 56.0751525,
+    "lon": 92.9219025
+   },
+   "tags": {
+    "addr:housenumber": "17Ж",
+    "addr:street": "Северное шоссе",
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Ачинск Нефть"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274738071,
+   "center": {
+    "lat": 56.0677312,
+    "lon": 92.9018258
+   },
+   "tags": {
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274760606,
+   "center": {
+    "lat": 56.0453849,
+    "lon": 92.7729093
+   },
+   "tags": {
+    "addr:housenumber": "79/2",
+    "addr:street": "улица Калинина",
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274906846,
+   "center": {
+    "lat": 56.0479424,
+    "lon": 92.8359119
+   },
+   "tags": {
+    "addr:housenumber": "17",
+    "addr:street": "проспект Котельникова",
+    "amenity": "fuel",
+    "brand": "Роснефть",
+    "brand:en": "Rosneft",
+    "brand:ru": "Роснефть",
+    "brand:wikidata": "Q1141123",
+    "building": "retail",
+    "building:levels": "1",
+    "contact:phone": "+7 800 7757588",
+    "contact:website": "https://rosneft-azs.ru",
+    "fuel:diesel": "yes",
+    "fuel:discount": "Семейная команда",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Роснефть",
+    "name:en": "Rosneft",
+    "name:ru": "Роснефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"РН-Красноярскнефтепродукт\"",
+    "ref": "30"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274910964,
+   "center": {
+    "lat": 56.0386855,
+    "lon": 92.8413712
+   },
+   "tags": {
+    "addr:housenumber": "6Г",
+    "addr:street": "2-я Брянская улица",
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "building:levels": "2",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП"
+   }
+  },
+  {
+   "type": "way",
+   "id": 274921409,
+   "center": {
+    "lat": 56.1227777,
+    "lon": 92.9491276
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "ОПТИ",
+    "brand:wikidata": "Q109356512",
+    "building": "retail",
+    "building:levels": "1",
+    "contact:email": "opti-info@yandex.ru",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://www.azs-opti.ru",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Опти",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 305680087,
+   "center": {
+    "lat": 56.0382008,
+    "lon": 92.8848117
+   },
+   "tags": {
+    "access": "private",
+    "amenity": "fuel",
+    "building": "retail",
+    "source": "Bing"
+   }
+  },
+  {
+   "type": "way",
+   "id": 321444156,
+   "center": {
+    "lat": 56.035415,
+    "lon": 92.890456
+   },
+   "tags": {
+    "addr:housenumber": "25А",
+    "addr:street": "улица Шахтёров",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "brand:wikipedia": "en:Gazprom Neft",
+    "building": "yes",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fixme": "source:ref=?",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "481"
+   }
+  },
+  {
+   "type": "way",
+   "id": 322424243,
+   "center": {
+    "lat": 56.0360216,
+    "lon": 92.8933746
+   },
+   "tags": {
+    "addr:housenumber": "72",
+    "addr:street": "улица Молокова",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов"
+   }
+  },
+  {
+   "type": "way",
+   "id": 331010942,
+   "center": {
+    "lat": 56.0403019,
+    "lon": 92.8542555
+   },
+   "tags": {
+    "addr:housenumber": "20/1",
+    "addr:street": "2-я Брянская улица",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "compressed_air": "no",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "215",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 375255072,
+   "center": {
+    "lat": 56.0338769,
+    "lon": 92.8320079
+   },
+   "tags": {
+    "addr:housenumber": "54",
+    "addr:street": "улица Маерчака",
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "yes",
+    "building:levels": "1",
+    "check_date": "2025-02-23",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП"
+   }
+  },
+  {
+   "type": "way",
+   "id": 377977402,
+   "center": {
+    "lat": 56.0711486,
+    "lon": 92.9405835
+   },
+   "tags": {
+    "addr:housenumber": "17Г",
+    "addr:street": "улица 9 Мая",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "yes",
+    "compressed_air": "no",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "203",
+    "self_service": "yes",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 402477375,
+   "center": {
+    "lat": 55.9712141,
+    "lon": 92.773394
+   },
+   "tags": {
+    "addr:housenumber": "98",
+    "addr:postcode": "660054",
+    "addr:street": "Свердловская улица",
+    "amenity": "fuel",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Висмут"
+   }
+  },
+  {
+   "type": "way",
+   "id": 406522263,
+   "center": {
+    "lat": 56.0472751,
+    "lon": 92.9184814
+   },
+   "tags": {
+    "amenity": "fuel",
+    "building": "yes",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Ачинск Нефть",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 422946586,
+   "center": {
+    "lat": 56.0559807,
+    "lon": 92.9408696
+   },
+   "tags": {
+    "addr:housenumber": "44Г",
+    "addr:street": "Краснодарская улица",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "compressed_air": "yes",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "202",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 457367553,
+   "center": {
+    "lat": 56.0049285,
+    "lon": 92.9780162
+   },
+   "tags": {
+    "addr:housenumber": "471А",
+    "addr:street": "Семафорная улица",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "compressed_air": "no",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "357"
+   }
+  },
+  {
+   "type": "way",
+   "id": 522089661,
+   "center": {
+    "lat": 56.1144834,
+    "lon": 92.942678
+   },
+   "tags": {
+    "addr:housenumber": "3/2",
+    "addr:postcode": "660119",
+    "addr:street": "Енисейский тракт (10 км)",
+    "amenity": "fuel",
+    "brand": "Регион24",
+    "building": "yes",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Регион24"
+   }
+  },
+  {
+   "type": "way",
+   "id": 523000119,
+   "center": {
+    "lat": 56.027187,
+    "lon": 92.7658575
+   },
+   "tags": {
+    "amenity": "fuel",
+    "area:highway": "service",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_80": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "210",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "way",
+   "id": 524651815,
+   "center": {
+    "lat": 56.1590765,
+    "lon": 92.9317233
+   },
+   "tags": {
+    "amenity": "fuel",
+    "area:highway": "service",
+    "name": "Регион24",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "way",
+   "id": 524909018,
+   "center": {
+    "lat": 56.1601687,
+    "lon": 92.9319302
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "265",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "way",
+   "id": 526167683,
+   "center": {
+    "lat": 56.0221291,
+    "lon": 92.7887727
+   },
+   "tags": {
+    "amenity": "fuel",
+    "area:highway": "service",
+    "brand": "25 часов",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "way",
+   "id": 632648396,
+   "center": {
+    "lat": 56.0795044,
+    "lon": 92.9340699
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "building:levels": "1",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "216",
+    "self_service": "no"
+   }
+  },
+  {
+   "type": "way",
+   "id": 633635925,
+   "center": {
+    "lat": 56.067099,
+    "lon": 92.9527001
+   },
+   "tags": {
+    "addr:housenumber": "8Г",
+    "addr:street": "улица Гайдашовка",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "brand:wikipedia": "en:Gazprom Neft",
+    "building": "retail",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "205",
+    "self_service": "no",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 636056471,
+   "center": {
+    "lat": 56.1227785,
+    "lon": 92.9182915
+   },
+   "tags": {
+    "amenity": "fuel",
+    "area:highway": "service",
+    "brand": "Регион24",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Регион24"
+   }
+  },
+  {
+   "type": "way",
+   "id": 757237402,
+   "center": {
+    "lat": 55.992185,
+    "lon": 92.9947056
+   },
+   "tags": {
+    "addr:housenumber": "65",
+    "addr:street": "Волжская улица",
+    "amenity": "fuel",
+    "building": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 866762360,
+   "center": {
+    "lat": 56.0915945,
+    "lon": 93.0328453
+   },
+   "tags": {
+    "amenity": "fuel",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_80": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 968889868,
+   "center": {
+    "lat": 56.0232544,
+    "lon": 93.0638883
+   },
+   "tags": {
+    "amenity": "fuel",
+    "building": "retail",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "internet_access": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7",
+    "toilets": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1039808237,
+   "center": {
+    "lat": 55.9959604,
+    "lon": 92.9716169
+   },
+   "tags": {
+    "addr:housenumber": "30Г",
+    "addr:street": "улица Мичурина",
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "brand:wikipedia": "en:Gazprom Neft",
+    "building": "retail",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "201"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1180662852,
+   "center": {
+    "lat": 56.0715529,
+    "lon": 92.91082
+   },
+   "tags": {
+    "addr:housenumber": "25Д",
+    "addr:street": "Северное шоссе",
+    "amenity": "fuel",
+    "brand": "Роснефть",
+    "brand:en": "Rosneft",
+    "brand:ru": "Роснефть",
+    "brand:wikidata": "Q1141123",
+    "building": "yes",
+    "cafe": "yes",
+    "contact:phone": "+7 800 7757588",
+    "contact:website": "https://rosneft-azs.ru",
+    "fuel:diesel": "yes",
+    "fuel:discount": "Семейная команда",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Роснефть",
+    "name:en": "Rosneft",
+    "name:ru": "Роснефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"РН-Красноярскнефтепродукт\"",
+    "ref": "9"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1249660199,
+   "center": {
+    "lat": 56.0717329,
+    "lon": 92.9813254
+   },
+   "tags": {
+    "addr:city": "Красноярск",
+    "addr:housenumber": "74",
+    "addr:postcode": "660131",
+    "addr:street": "Ястынская улица",
+    "amenity": "fuel",
+    "brand": "Роснефть",
+    "brand:en": "Rosneft",
+    "brand:ru": "Роснефть",
+    "brand:wikidata": "Q1141123",
+    "building": "retail",
+    "cafe": "yes",
+    "contact:phone": "+7 800 7757588",
+    "contact:website": "https://rosneft-azs.ru",
+    "fuel:diesel": "yes",
+    "fuel:discount": "Семейная команда",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Роснефть",
+    "name:en": "Rosneft",
+    "name:ru": "Роснефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"РН-Красноярскнефтепродукт\"",
+    "payment:cards": "yes",
+    "ref": "6",
+    "shop": "yes",
+    "toilets": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1250874617,
+   "center": {
+    "lat": 55.9846502,
+    "lon": 92.9316027
+   },
+   "tags": {
+    "addr:housenumber": "36А/1",
+    "addr:street": "Затонская улица",
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "brand:wikipedia": "en:Gazprom Neft",
+    "building": "retail",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "344"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1253338395,
+   "center": {
+    "lat": 56.0247368,
+    "lon": 92.7879086
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "ОПТИ",
+    "brand:wikidata": "Q109356512",
+    "building": "retail",
+    "compressed_air": "no",
+    "contact:email": "opti-info@yandex.ru",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://www.azs-opti.ru",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Опти",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1254715517,
+   "center": {
+    "lat": 55.9994711,
+    "lon": 92.970468
+   },
+   "tags": {
+    "addr:housenumber": "1А",
+    "addr:street": "улица Академика Павлова",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1254972198,
+   "center": {
+    "lat": 55.9948052,
+    "lon": 92.926063
+   },
+   "tags": {
+    "addr:housenumber": "11Д",
+    "addr:postcode": "660025",
+    "addr:street": "Затонская улица",
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП",
+    "operator": "ОАО Красноярскнефтепродукт"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1255370334,
+   "center": {
+    "lat": 56.0125174,
+    "lon": 92.7842469
+   },
+   "tags": {
+    "addr:housenumber": "77",
+    "addr:street": "Свободный проспект",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "building:levels": "1",
+    "changing_table": "no",
+    "compressed_air": "no",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "365",
+    "roof:levels": "1",
+    "roof:shape": "flat",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1255702397,
+   "center": {
+    "lat": 55.9812758,
+    "lon": 92.8637746
+   },
+   "tags": {
+    "addr:housenumber": "17Д",
+    "addr:street": "Свердловская улица",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1255721532,
+   "center": {
+    "lat": 56.033847,
+    "lon": 92.8345748
+   },
+   "tags": {
+    "addr:housenumber": "280/1",
+    "addr:street": "Брянская улица",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "yes",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1273033483,
+   "center": {
+    "lat": 56.0478394,
+    "lon": 92.8942145
+   },
+   "tags": {
+    "addr:housenumber": "185",
+    "addr:street": "улица 9 Мая",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "check_date": "2024-12-11",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7",
+    "self_service": "no",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1273896214,
+   "center": {
+    "lat": 56.0220609,
+    "lon": 92.8494479
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "yes",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "346"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1284425429,
+   "center": {
+    "lat": 56.0090201,
+    "lon": 93.0324148
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1294910284,
+   "center": {
+    "lat": 56.0237056,
+    "lon": 92.8033779
+   },
+   "tags": {
+    "addr:housenumber": "44Б",
+    "addr:postcode": "660028",
+    "addr:street": "Свободный проспект",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "building:levels": "1",
+    "check_date": "2026-03-31",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazprom Neft",
+    "name:ru": "Газпром Нефть",
+    "opening_hours": "24/7",
+    "roof:colour": "#a3a5a0"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1305288779,
+   "center": {
+    "lat": 56.0412135,
+    "lon": 92.9285697
+   },
+   "tags": {
+    "addr:housenumber": "2А/1",
+    "addr:street": "улица Авиаторов",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fixme": "source:ref=?",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "204",
+    "shop": "convenience"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1307792757,
+   "center": {
+    "lat": 56.0203863,
+    "lon": 92.8751246
+   },
+   "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Брянская улица",
+    "amenity": "fuel",
+    "brand": "Лукойл",
+    "brand:en": "Lukoil",
+    "brand:ru": "Лукойл",
+    "brand:wikidata": "Q329347",
+    "building": "yes",
+    "check_date": "2025-05-07",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Лукойл",
+    "name:en": "Lukoil",
+    "name:ru": "Лукойл",
+    "opening_hours": "PH,Mo-Su 00:05-23:45",
+    "operator": "Лукойл",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1324181027,
+   "center": {
+    "lat": 56.047509,
+    "lon": 92.7717715
+   },
+   "tags": {
+    "addr:housenumber": "90Г",
+    "addr:street": "улица Калинина",
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1337729888,
+   "center": {
+    "lat": 56.0621193,
+    "lon": 92.8781733
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Газпромнефть"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341560841,
+   "center": {
+    "lat": 56.0127616,
+    "lon": 92.9510738
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП",
+    "source": "Яндекс Панорамы"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341560842,
+   "center": {
+    "lat": 56.0133373,
+    "lon": 92.959316
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "compressed_air": "no",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fixme": "не помешал бы тег source:ref=",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "345"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341560847,
+   "center": {
+    "lat": 56.0111723,
+    "lon": 92.9648331
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "compressed_air": "no",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "25 часов"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341560848,
+   "center": {
+    "lat": 56.0011352,
+    "lon": 92.9234334
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "check_date": "2024-12-22",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "source": "Яндекс Панорамы"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341560849,
+   "center": {
+    "lat": 55.9840651,
+    "lon": 92.8768903
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Газпромнефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "building:levels": "1",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "363",
+    "self_service": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341560850,
+   "center": {
+    "lat": 55.9800543,
+    "lon": 92.8596916
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "КНП",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341560853,
+   "center": {
+    "lat": 55.996811,
+    "lon": 92.7932366
+   },
+   "tags": {
+    "addr:housenumber": "15Г",
+    "addr:postcode": "660074",
+    "addr:street": "улица Академика Киренского",
+    "amenity": "fuel",
+    "building": "retail",
+    "check_date": "2024-12-29",
+    "compressed_air": "no",
+    "email": "25h@gloster.ru",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "name:en": "25 hours",
+    "name:ru": "25 часов",
+    "opening_hours": "24/7",
+    "phone": "+73912402346",
+    "website": "https://vk.com/25chasov_krsk"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341560854,
+   "center": {
+    "lat": 56.0061911,
+    "lon": 92.8340228
+   },
+   "tags": {
+    "addr:housenumber": "140",
+    "addr:street": "улица Бограда",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341560856,
+   "center": {
+    "lat": 56.0331616,
+    "lon": 92.8919199
+   },
+   "tags": {
+    "addr:housenumber": "55",
+    "addr:street": "Взлётная улица",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "building:levels": "1",
+    "check_date": "2026-03-05",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazprom Neft",
+    "name:ru": "Газпром Нефть",
+    "opening_hours": "24/7",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341560858,
+   "center": {
+    "lat": 56.0375135,
+    "lon": 92.8918887
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "НТС",
+    "building": "retail",
+    "compressed_air": "fixme",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "НТС",
+    "wheelchair": "fixme"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341850317,
+   "center": {
+    "lat": 56.0395024,
+    "lon": 92.9367415
+   },
+   "tags": {
+    "addr:housenumber": "49",
+    "addr:street": "улица Партизана Железняка",
+    "amenity": "fuel",
+    "brand": "Лукойл",
+    "brand:en": "Lukoil",
+    "brand:ru": "Лукойл",
+    "brand:wikidata": "Q329347",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Лукойл",
+    "name:en": "Lukoil",
+    "name:ru": "Лукойл",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341850320,
+   "center": {
+    "lat": 56.0402713,
+    "lon": 92.935653
+   },
+   "tags": {
+    "addr:city": "Красноярск",
+    "addr:housenumber": "48",
+    "addr:postcode": "660133",
+    "addr:street": "улица Партизана Железняка",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "self_service": "no"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341850322,
+   "center": {
+    "lat": 56.0352458,
+    "lon": 92.9283267
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1341850324,
+   "center": {
+    "lat": 56.0256283,
+    "lon": 92.9030768
+   },
+   "tags": {
+    "addr:housenumber": "1А",
+    "addr:street": "Дудинская улица",
+    "amenity": "fuel",
+    "brand": "Регион 24",
+    "building": "retail",
+    "check_date": "2025-05-07",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Регион 24"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1360670092,
+   "center": {
+    "lat": 55.9900376,
+    "lon": 92.9897629
+   },
+   "tags": {
+    "amenity": "fuel",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Сибойл"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1361127508,
+   "center": {
+    "lat": 56.0799806,
+    "lon": 93.0092445
+   },
+   "tags": {
+    "addr:housenumber": "59",
+    "addr:street": "улица Пограничников",
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1361127510,
+   "center": {
+    "lat": 56.0244731,
+    "lon": 93.0947072
+   },
+   "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Трактовая улица",
+    "amenity": "fuel",
+    "building": "retail",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1367610385,
+   "center": {
+    "lat": 56.0113223,
+    "lon": 92.8130338
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Лукойл",
+    "brand:en": "Lukoil",
+    "brand:ru": "Лукойл",
+    "brand:wikidata": "Q329347",
+    "building": "retail",
+    "check_date": "2024-12-29",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Лукойл",
+    "name:en": "Lukoil",
+    "name:ru": "Лукойл"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383299031,
+   "center": {
+    "lat": 56.0774737,
+    "lon": 93.0017873
+   },
+   "tags": {
+    "addr:housenumber": "50",
+    "addr:street": "улица Пограничников",
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "25 часов"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383299033,
+   "center": {
+    "lat": 56.0312033,
+    "lon": 92.8842204
+   },
+   "tags": {
+    "addr:housenumber": "82Г",
+    "addr:street": "улица Березина",
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Сольвент"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383299035,
+   "center": {
+    "lat": 56.0732197,
+    "lon": 92.9764242
+   },
+   "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "Северное шоссе",
+    "amenity": "fuel",
+    "brand": "Фортуна плюс",
+    "building": "retail",
+    "building:levels": "1",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "Фортуна плюс"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383299039,
+   "center": {
+    "lat": 56.0693,
+    "lon": 92.9906457
+   },
+   "tags": {
+    "addr:housenumber": "1Г/3",
+    "addr:street": "проспект Металлургов",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "changing_table": "no",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383299040,
+   "center": {
+    "lat": 56.0695585,
+    "lon": 92.9918476
+   },
+   "tags": {
+    "addr:housenumber": "121",
+    "addr:street": "улица Пограничников",
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "building:levels": "1",
+    "changing_table": "no",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383503612,
+   "center": {
+    "lat": 55.9893601,
+    "lon": 92.9273192
+   },
+   "tags": {
+    "addr:housenumber": "171Г",
+    "addr:street": "улица 60 лет Октября",
+    "amenity": "fuel",
+    "brand": "Газпром Нефть",
+    "brand:en": "Gazprom Neft",
+    "brand:ru": "Газпром Нефть",
+    "brand:wikidata": "Q1461799",
+    "building": "retail",
+    "compressed_air": "no",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://gpnbonus.ru/",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Газпромнефть",
+    "name:en": "Gazpromneft",
+    "name:ru": "Газпромнефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"Газпромнефть - Центр\"",
+    "ref": "209"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383503614,
+   "center": {
+    "lat": 55.9874151,
+    "lon": 92.9216475
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "25 часов"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383503620,
+   "center": {
+    "lat": 55.9827525,
+    "lon": 92.9486164
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Лукойл",
+    "brand:en": "Lukoil",
+    "brand:ru": "Лукойл",
+    "brand:wikidata": "Q329347",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Лукойл",
+    "name:en": "Lukoil",
+    "name:ru": "Лукойл"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383503622,
+   "center": {
+    "lat": 55.9882107,
+    "lon": 92.9738397
+   },
+   "tags": {
+    "addr:housenumber": "3 с1",
+    "addr:street": "Новая улица",
+    "amenity": "fuel",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Сибнефть",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383730671,
+   "center": {
+    "lat": 56.0311175,
+    "lon": 93.0224398
+   },
+   "tags": {
+    "addr:housenumber": "14",
+    "addr:street": "улица 26 Бакинских Комиссаров",
+    "amenity": "fuel",
+    "brand": "ОПТИ",
+    "brand:wikidata": "Q109356512",
+    "building": "retail",
+    "building:levels": "1",
+    "contact:email": "opti-info@yandex.ru",
+    "contact:phone": "+7 800 7005151",
+    "contact:website": "https://www.azs-opti.ru",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Опти",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383730675,
+   "center": {
+    "lat": 56.0297628,
+    "lon": 93.0241861
+   },
+   "tags": {
+    "addr:housenumber": "13/2",
+    "addr:street": "улица 26 Бакинских Комиссаров",
+    "amenity": "fuel",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "РСН"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383730678,
+   "center": {
+    "lat": 56.0193126,
+    "lon": 93.0332447
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "25 часов"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383730679,
+   "center": {
+    "lat": 56.0217253,
+    "lon": 93.0407355
+   },
+   "tags": {
+    "addr:housenumber": "57А/1",
+    "addr:street": "улица Айвазовского",
+    "amenity": "fuel",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Позитив"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383799190,
+   "center": {
+    "lat": 55.9879112,
+    "lon": 92.769131
+   },
+   "tags": {
+    "amenity": "fuel",
+    "building": "retail",
+    "check_date": "2024",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Октан Маркет"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383799191,
+   "center": {
+    "lat": 56.019494,
+    "lon": 92.7269515
+   },
+   "tags": {
+    "addr:housenumber": "65Г",
+    "addr:street": "улица Елены Стасовой",
+    "amenity": "fuel",
+    "brand": "КНП",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "fuel:octane_98": "yes",
+    "name": "КНП"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1383799195,
+   "center": {
+    "lat": 55.9678404,
+    "lon": 92.7343263
+   },
+   "tags": {
+    "addr:housenumber": "116",
+    "addr:postcode": "660054",
+    "addr:street": "Туристская улица",
+    "amenity": "fuel",
+    "building": "retail",
+    "compressed_air": "no",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Регион24",
+    "opening_hours": "24/7",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1420972876,
+   "center": {
+    "lat": 56.0851503,
+    "lon": 92.7564062
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Регион24",
+    "building": "retail",
+    "fuel:diesel": "yes",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Регион24"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1420972878,
+   "center": {
+    "lat": 56.1115667,
+    "lon": 92.7358163
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Роснефть",
+    "brand:en": "Rosneft",
+    "brand:ru": "Роснефть",
+    "brand:wikidata": "Q1141123",
+    "building": "retail",
+    "contact:phone": "+7 800 7757588",
+    "contact:website": "https://rosneft-azs.ru",
+    "fuel:diesel": "yes",
+    "fuel:discount": "Семейная команда",
+    "fuel:octane_100": "yes",
+    "fuel:octane_92": "yes",
+    "fuel:octane_95": "yes",
+    "name": "Роснефть",
+    "name:en": "Rosneft",
+    "name:ru": "Роснефть",
+    "opening_hours": "24/7",
+    "operator": "ООО \"РН-Красноярскнефтепродукт\"",
+    "ref": "31",
+    "shop": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1420972880,
+   "center": {
+    "lat": 56.0635185,
+    "lon": 92.682694
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "compressed_air": "no",
+    "name": "25 часов"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1420972882,
+   "center": {
+    "lat": 56.0629191,
+    "lon": 92.682036
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "25 часов",
+    "building": "retail",
+    "compressed_air": "no",
+    "name": "25 часов"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1426817993,
+   "center": {
+    "lat": 56.1459481,
+    "lon": 92.5483399
+   },
+   "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "улица Дружбы",
+    "amenity": "fuel",
+    "building": "retail",
+    "building:levels": "1",
+    "check_date": "2024",
+    "source:addr": "ЕГРН",
+    "start_date": "1994"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1452390143,
+   "center": {
+    "lat": 56.015186,
+    "lon": 92.8378312
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1540935056,
+   "center": {
+    "lat": 55.983081,
+    "lon": 92.8968353
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1540935058,
+   "center": {
+    "lat": 55.9828055,
+    "lon": 92.8961317
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1540935061,
+   "center": {
+    "lat": 55.9846241,
+    "lon": 92.9082241
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1541422623,
+   "center": {
+    "lat": 56.0232924,
+    "lon": 93.0641717
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1542819509,
+   "center": {
+    "lat": 56.0228399,
+    "lon": 93.0243449
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1542819519,
+   "center": {
+    "lat": 56.0316479,
+    "lon": 93.0247156
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1542880102,
+   "center": {
+    "lat": 56.0670592,
+    "lon": 92.9589215
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1543147914,
+   "center": {
+    "lat": 56.0594379,
+    "lon": 92.9386347
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1543193910,
+   "center": {
+    "lat": 56.0395392,
+    "lon": 92.9365456
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1543244248,
+   "center": {
+    "lat": 56.0596257,
+    "lon": 92.722641
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1544020330,
+   "center": {
+    "lat": 56.0312159,
+    "lon": 92.7547675
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1544020409,
+   "center": {
+    "lat": 56.0399982,
+    "lon": 92.7636015
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1545104936,
+   "center": {
+    "lat": 55.9881843,
+    "lon": 92.9740335
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1545987595,
+   "center": {
+    "lat": 56.0073572,
+    "lon": 93.0337156
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1546077962,
+   "center": {
+    "lat": 55.988468,
+    "lon": 93.0242779
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1546319673,
+   "center": {
+    "lat": 55.9900954,
+    "lon": 92.989727
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1546319791,
+   "center": {
+    "lat": 55.9870326,
+    "lon": 92.9765893
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1546661217,
+   "center": {
+    "lat": 55.9927105,
+    "lon": 92.9984912
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1546661230,
+   "center": {
+    "lat": 56.0048414,
+    "lon": 92.9776827
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1546661335,
+   "center": {
+    "lat": 56.0132419,
+    "lon": 92.9591958
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1546906343,
+   "center": {
+    "lat": 56.0375855,
+    "lon": 93.126363
+   },
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Лукойл",
+    "brand:en": "Lukoil",
+    "brand:ru": "Лукойл",
+    "brand:wikidata": "Q329347",
+    "compressed_air": "no",
+    "name": "Лукойл",
+    "name:en": "Lukoil",
+    "name:ru": "Лукойл",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1546906388,
+   "center": {
+    "lat": 56.0371675,
+    "lon": 93.1060941
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547041673,
+   "center": {
+    "lat": 56.0711843,
+    "lon": 92.9403547
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547138542,
+   "center": {
+    "lat": 56.0490748,
+    "lon": 92.9528503
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547404803,
+   "center": {
+    "lat": 56.0714631,
+    "lon": 92.9104351
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547404857,
+   "center": {
+    "lat": 56.0645291,
+    "lon": 92.891225
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547404869,
+   "center": {
+    "lat": 56.0552814,
+    "lon": 92.8840016
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547404887,
+   "center": {
+    "lat": 56.041227,
+    "lon": 92.8567555
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547404889,
+   "center": {
+    "lat": 56.0402838,
+    "lon": 92.8539142
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547404907,
+   "center": {
+    "lat": 56.0388489,
+    "lon": 92.841306
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547436889,
+   "center": {
+    "lat": 56.0678286,
+    "lon": 92.9013208
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547500394,
+   "center": {
+    "lat": 56.0311382,
+    "lon": 92.8843136
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547683987,
+   "center": {
+    "lat": 56.0385869,
+    "lon": 92.9327377
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547708384,
+   "center": {
+    "lat": 56.0472147,
+    "lon": 92.9184296
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547764795,
+   "center": {
+    "lat": 56.0731652,
+    "lon": 92.9764083
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547764796,
+   "center": {
+    "lat": 56.0718337,
+    "lon": 92.9809736
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547909755,
+   "center": {
+    "lat": 56.0688107,
+    "lon": 92.9323639
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1547909760,
+   "center": {
+    "lat": 56.070656,
+    "lon": 92.9370719
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1548071536,
+   "center": {
+    "lat": 56.0322729,
+    "lon": 92.8916717
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1548071538,
+   "center": {
+    "lat": 56.0331851,
+    "lon": 92.8916954
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1548071619,
+   "center": {
+    "lat": 56.0256783,
+    "lon": 92.9028918
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1548356529,
+   "center": {
+    "lat": 56.0693464,
+    "lon": 92.9876658
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1548356534,
+   "center": {
+    "lat": 56.0693212,
+    "lon": 92.9907139
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1548356555,
+   "center": {
+    "lat": 56.0618424,
+    "lon": 92.9725356
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1548520614,
+   "center": {
+    "lat": 56.0811116,
+    "lon": 93.0120919
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1548520669,
+   "center": {
+    "lat": 56.0905449,
+    "lon": 93.0323563
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549275072,
+   "center": {
+    "lat": 56.0196676,
+    "lon": 92.8600838
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549275073,
+   "center": {
+    "lat": 56.0210701,
+    "lon": 92.8680366
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549275077,
+   "center": {
+    "lat": 56.0220444,
+    "lon": 92.8493065
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549348685,
+   "center": {
+    "lat": 55.9945993,
+    "lon": 92.9134842
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549348701,
+   "center": {
+    "lat": 55.9932921,
+    "lon": 92.9256053
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549533163,
+   "center": {
+    "lat": 55.9821985,
+    "lon": 92.8925317
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549533165,
+   "center": {
+    "lat": 55.9812921,
+    "lon": 92.8637621
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549533167,
+   "center": {
+    "lat": 55.9801858,
+    "lon": 92.859576
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549623040,
+   "center": {
+    "lat": 55.987888,
+    "lon": 92.7694402
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549748556,
+   "center": {
+    "lat": 55.9968442,
+    "lon": 92.7934278
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549805997,
+   "center": {
+    "lat": 56.033584,
+    "lon": 92.8319317
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549825660,
+   "center": {
+    "lat": 56.0199099,
+    "lon": 92.7958237
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549825673,
+   "center": {
+    "lat": 56.0248447,
+    "lon": 92.787754
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549838258,
+   "center": {
+    "lat": 56.0112663,
+    "lon": 92.8131733
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1549920046,
+   "center": {
+    "lat": 56.0126964,
+    "lon": 92.7840699
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1550080329,
+   "center": {
+    "lat": 56.0652963,
+    "lon": 92.9538969
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1550080336,
+   "center": {
+    "lat": 56.0669525,
+    "lon": 92.9527792
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1550102883,
+   "center": {
+    "lat": 56.0561785,
+    "lon": 92.9406752
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1550102961,
+   "center": {
+    "lat": 56.0381318,
+    "lon": 92.8844462
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1550102969,
+   "center": {
+    "lat": 56.0399422,
+    "lon": 92.8511496
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1550288900,
+   "center": {
+    "lat": 56.0310765,
+    "lon": 93.0226073
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1550315990,
+   "center": {
+    "lat": 55.9994791,
+    "lon": 92.9703579
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1550347370,
+   "center": {
+    "lat": 55.9885606,
+    "lon": 92.978143
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1550374813,
+   "center": {
+    "lat": 56.0237744,
+    "lon": 92.8034536
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1550960454,
+   "center": {
+    "lat": 56.0455262,
+    "lon": 92.77323
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1550960472,
+   "center": {
+    "lat": 56.047675,
+    "lon": 92.7714175
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1550960498,
+   "center": {
+    "lat": 56.0413492,
+    "lon": 92.7831667
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1551059260,
+   "center": {
+    "lat": 56.0440054,
+    "lon": 92.7783405
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1551231943,
+   "center": {
+    "lat": 56.0319396,
+    "lon": 92.8071678
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1551243439,
+   "center": {
+    "lat": 56.0299169,
+    "lon": 92.8288919
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1551256771,
+   "center": {
+    "lat": 56.050013,
+    "lon": 92.7581374
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1551256882,
+   "center": {
+    "lat": 56.0497654,
+    "lon": 92.7607949
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1551465221,
+   "center": {
+    "lat": 55.9946553,
+    "lon": 92.9261053
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1551655489,
+   "center": {
+    "lat": 56.0160137,
+    "lon": 92.8412752
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1552790224,
+   "center": {
+    "lat": 56.0194242,
+    "lon": 93.0334624
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  },
+  {
+   "type": "way",
+   "id": 1552790416,
+   "center": {
+    "lat": 56.0144892,
+    "lon": 92.9531416
+   },
+   "tags": {
+    "amenity": "fuel"
+   }
+  }
+ ]
+}

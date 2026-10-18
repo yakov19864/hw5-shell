@@ -1,0 +1,5479 @@
+{
+ "version": 0.6,
+ "generator": "Geofabrik extract russia/siberian-fed-district, отобрано по запросу из поля query",
+ "osm3s": {
+  "timestamp_osm_base": "2026-10-02T20:21:34Z",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+ },
+ "query": "[out:json][timeout:90];\nnwr[\"amenity\"=\"atm\"](56.35,84.81,56.70,85.15);\nout center tags;",
+ "elements": [
+  {
+   "type": "node",
+   "id": 942830004,
+   "lat": 56.5155755,
+   "lon": 84.9785399,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "check_date": "2021-07-29",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1025450022,
+   "lat": 56.4544425,
+   "lon": 84.9755804,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "brand:wikipedia": "en:Sberbank of Russia",
+    "cash_in": "yes",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012",
+    "operator:wikipedia": "en:Sberbank of Russia"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1025450028,
+   "lat": 56.4547327,
+   "lon": 84.9739749,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "brand:wikipedia": "en:Sberbank",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012",
+    "operator:wikipedia": "en:Sberbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1025450070,
+   "lat": 56.4547322,
+   "lon": 84.9742104,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Росбанк",
+    "brand:en": "Rosbank",
+    "brand:ru": "Росбанк",
+    "brand:wikidata": "Q1119857",
+    "brand:wikipedia": "en:Rosbank",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "Росбанк",
+    "operator:wikidata": "Q1119857",
+    "operator:wikipedia": "en:Rosbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1025507848,
+   "lat": 56.4597173,
+   "lon": 84.965526,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1030524412,
+   "lat": 56.4734362,
+   "lon": 84.9915537,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "operator": "ПАО \"Томскпромстройбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1090586498,
+   "lat": 56.4660241,
+   "lon": 84.9638022,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Росбанк",
+    "brand:en": "Rosbank",
+    "brand:ru": "Росбанк",
+    "brand:wikidata": "Q1119857",
+    "brand:wikipedia": "en:Rosbank",
+    "contact:website": "https://www.rosbank.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО РОСБАНК",
+    "operator:wikidata": "Q1119857",
+    "operator:wikipedia": "en:Rosbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1090586536,
+   "lat": 56.4842685,
+   "lon": 84.9491448,
+   "tags": {
+    "amenity": "atm",
+    "check_date": "2021-09-15",
+    "contact:website": "https://www.rosbank.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1090586545,
+   "lat": 56.4638032,
+   "lon": 84.9546222,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1094147061,
+   "lat": 56.4657397,
+   "lon": 84.9805908,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Росбанк",
+    "brand:en": "Rosbank",
+    "brand:ru": "Росбанк",
+    "brand:wikidata": "Q1119857",
+    "brand:wikipedia": "en:Rosbank",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК",
+    "operator:wikidata": "Q1119857",
+    "operator:wikipedia": "en:Rosbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1123347360,
+   "lat": 56.4701401,
+   "lon": 84.9761764,
+   "tags": {
+    "addr:housenumber": "68",
+    "addr:street": "Киевская улица",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "brand:wikipedia": "en:Sberbank of Russia",
+    "check_date": "2025-08-06",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "drive_through": "no",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012",
+    "operator:wikipedia": "en:Sberbank of Russia"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1207177719,
+   "lat": 56.4758453,
+   "lon": 85.0127701,
+   "tags": {
+    "addr:housenumber": "131/1",
+    "addr:street": "проспект Фрунзе",
+    "amenity": "atm",
+    "check_date": "2026-06-17",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "ПАО \"Томскпромстройбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1246528813,
+   "lat": 56.4599924,
+   "lon": 84.9519338,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1246572242,
+   "lat": 56.475549,
+   "lon": 84.953842,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:ru": "Газпромбанк",
+    "brand:wikidata": "Q1924338",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1246572725,
+   "lat": 56.4755566,
+   "lon": 84.9518767,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1246803684,
+   "lat": 56.4796394,
+   "lon": 84.9754547,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Русский Стандарт",
+    "brand:en": "Russian Standard Bank",
+    "brand:ru": "Русский Стандарт",
+    "brand:wikidata": "Q4400854",
+    "contact:phone": "+7 800 2006200",
+    "contact:website": "https://www.rsb.ru/",
+    "operator": "АО \"Банк Русский Стандарт\"",
+    "operator:wikidata": "Q4400854"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1246866720,
+   "lat": 56.4758059,
+   "lon": 84.9793278,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "contact:vk": "https://vk.com/alfabank",
+    "contact:website": "https://alfabank.ru",
+    "operator": "АО \"Альфа-Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1246867054,
+   "lat": 56.4757911,
+   "lon": 84.9794673,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1246867617,
+   "lat": 56.4757881,
+   "lon": 84.9796765,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "operator": "ПАО \"Томскпромстройбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1247145771,
+   "lat": 56.484118,
+   "lon": 84.946036,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1247146162,
+   "lat": 56.4841269,
+   "lon": 84.9462291,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1247195289,
+   "lat": 56.4918487,
+   "lon": 84.9476143,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 495 7858222",
+    "contact:website": "https://home.bank/",
+    "operator": "ООО \"ХКФ Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1247211183,
+   "lat": 56.492491,
+   "lon": 84.9428418,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1248447364,
+   "lat": 56.5035509,
+   "lon": 84.9472826,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1248458431,
+   "lat": 56.503545,
+   "lon": 84.9428086,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1249656311,
+   "lat": 56.5107816,
+   "lon": 84.9427195,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Райффайзен",
+    "brand:en": "Raiffeisenbank",
+    "brand:ru": "Райффайзен",
+    "brand:wikidata": "Q4389244",
+    "brand:wikipedia": "en:Raiffeisenbank (Russia)",
+    "contact:phone": "+7 800 7009100;+7 495 7771717",
+    "contact:website": "https://www.raiffeisen.ru/",
+    "operator": "АО \"Райффайзенбанк\"",
+    "operator:wikidata": "Q4389244",
+    "operator:wikipedia": "en:Raiffeisenbank (Russia)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1249736811,
+   "lat": 56.5145554,
+   "lon": 84.934547,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Уралсиб",
+    "contact:phone": "+7 800 2005520",
+    "contact:website": "https://uralsib.ru/",
+    "operator": "ПАО \"БАНК УРАЛСИБ\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1249792648,
+   "lat": 56.5157959,
+   "lon": 84.9388902,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "brand:wikipedia": "en:Sberbank of Russia",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012",
+    "operator:wikipedia": "en:Sberbank of Russia"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1249907251,
+   "lat": 56.5120133,
+   "lon": 84.9445497,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1249907252,
+   "lat": 56.5119186,
+   "lon": 84.9442814,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "contact:vk": "https://vk.com/alfabank",
+    "contact:website": "https://alfabank.ru",
+    "operator": "АО \"Альфа-Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1249907665,
+   "lat": 56.5118772,
+   "lon": 84.9445497,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1249908517,
+   "lat": 56.5119127,
+   "lon": 84.9448501,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1249908520,
+   "lat": 56.5117943,
+   "lon": 84.9443244,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1249922737,
+   "lat": 56.5090833,
+   "lon": 84.9463198,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "contact:vk": "https://vk.com/alfabank",
+    "contact:website": "https://alfabank.ru",
+    "operator": "АО \"Альфа-Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1249922897,
+   "lat": 56.5091031,
+   "lon": 84.9463868,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "operator": "ПАО \"Томскпромстройбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1249947960,
+   "lat": 56.507142,
+   "lon": 84.9485527,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1250159030,
+   "lat": 56.4985405,
+   "lon": 84.9488519,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "fixme": "проверить, ранее банкомат Бинбанка",
+    "operator": "ПАО Банк \"ФК Открытие\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1250218594,
+   "lat": 56.4946171,
+   "lon": 84.9487661,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "brand:en": "Alfa-Bank",
+    "brand:ru": "Альфа-Банк",
+    "brand:wikidata": "Q1377835",
+    "brand:wikipedia": "ru:Альфа-Банк",
+    "contact:vk": "https://vk.com/alfabank",
+    "contact:website": "https://alfabank.ru",
+    "operator": "АО \"Альфа-Банк\"",
+    "operator:wikidata": "Q1377835",
+    "operator:wikipedia": "ru:Альфа-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1250219438,
+   "lat": 56.4941907,
+   "lon": 84.9491041,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1250224076,
+   "lat": 56.494161,
+   "lon": 84.9498014,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Райффайзен",
+    "contact:phone": "+7 800 7009100;+7 495 7771717",
+    "contact:website": "https://www.raiffeisen.ru/",
+    "operator": "АО \"Райффайзенбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1250224266,
+   "lat": 56.4941107,
+   "lon": 84.9497639,
+   "tags": {
+    "amenity": "atm",
+    "brand": "МТС Банк",
+    "brand:en": "MTS Bank",
+    "brand:wikidata": "Q1667422",
+    "contact:phone": "+7 800 2500520;+7 495 7770001",
+    "contact:website": "https://www.mtsbank.ru/",
+    "operator": "ПАО \"МТС-Банк\"",
+    "operator:wikidata": "Q1667422"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1250224282,
+   "lat": 56.4940959,
+   "lon": 84.9499141,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1250226114,
+   "lat": 56.4937998,
+   "lon": 84.9498068,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1250234085,
+   "lat": 56.4927041,
+   "lon": 84.9486159,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1250235331,
+   "lat": 56.4932045,
+   "lon": 84.9485086,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Совкомбанк",
+    "brand:en": "Sovcom Bank",
+    "brand:ru": "Совкомбанк",
+    "brand:wikidata": "Q4426566",
+    "brand:wikipedia": "ru:Совкомбанк",
+    "contact:phone": "+7 800 2006696",
+    "contact:website": "https://sovcombank.ru/",
+    "operator": "ПАО \"Совкомбанк\"",
+    "operator:wikidata": "Q4426566",
+    "operator:wikipedia": "ru:Совкомбанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1250741775,
+   "lat": 56.479968,
+   "lon": 84.9511801,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:wikidata": "Q1924338",
+    "brand:wikipedia": "en:Gazprombank",
+    "check_date": "2024-11-11",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338",
+    "operator:wikipedia": "en:Gazprombank",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1251531077,
+   "lat": 56.4951824,
+   "lon": 84.9595447,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Россельхозбанк",
+    "brand:en": "Rosselkhozbank",
+    "brand:ru": "Россельхозбанк",
+    "brand:wikidata": "Q3920226",
+    "contact:phone": "+7 800 1000100",
+    "contact:website": "https://www.rshb.ru/",
+    "operator": "АО \"Россельхозбанк\"",
+    "operator:wikidata": "Q3920226"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252100293,
+   "lat": 56.497043,
+   "lon": 84.9628659,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВБРР",
+    "contact:website": "https://www.vbrr.ru/",
+    "operator": "Банк \"ВБРР\" (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252101083,
+   "lat": 56.4969364,
+   "lon": 84.9652692,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "contact:vk": "https://vk.com/alfabank",
+    "contact:website": "https://alfabank.ru",
+    "operator": "АО \"Альфа-Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252104010,
+   "lat": 56.4978455,
+   "lon": 84.9643626,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252114317,
+   "lat": 56.4989435,
+   "lon": 84.9701778,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252187924,
+   "lat": 56.4993378,
+   "lon": 84.9916568,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252188700,
+   "lat": 56.4993496,
+   "lon": 84.9917319,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:wikidata": "Q649100",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252189126,
+   "lat": 56.4993792,
+   "lon": 84.9918499,
+   "tags": {
+    "amenity": "atm",
+    "brand": "МТС Банк",
+    "brand:en": "MTS Bank",
+    "brand:wikidata": "Q1667422",
+    "contact:phone": "+7 800 2500520;+7 495 7770001",
+    "contact:website": "https://www.mtsbank.ru/",
+    "operator": "ПАО \"МТС-Банк\"",
+    "operator:wikidata": "Q1667422"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252189615,
+   "lat": 56.4993171,
+   "lon": 84.9918338,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 3339898",
+    "contact:website": "https://www.avangard.ru/",
+    "operator": "ПАО АКБ \"АВАНГАРД\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252190638,
+   "lat": 56.4993052,
+   "lon": 84.9917372,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252190980,
+   "lat": 56.4994,
+   "lon": 84.9920001,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "operator": "ПАО \"Томскпромстройбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252191842,
+   "lat": 56.4993505,
+   "lon": 84.9919242,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Уралсиб",
+    "contact:phone": "+7 800 2005520",
+    "contact:website": "https://uralsib.ru/",
+    "operator": "ПАО \"БАНК УРАЛСИБ\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252192279,
+   "lat": 56.4993585,
+   "lon": 84.9921449,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 495 7858222",
+    "contact:website": "https://home.bank/",
+    "operator": "ООО \"ХКФ Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252200208,
+   "lat": 56.5004984,
+   "lon": 84.9735465,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252270228,
+   "lat": 56.5021772,
+   "lon": 84.984801,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1252558881,
+   "lat": 56.5067955,
+   "lon": 84.9981531,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1255210738,
+   "lat": 56.5201078,
+   "lon": 85.0303299,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1255210785,
+   "lat": 56.5202006,
+   "lon": 85.0299761,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256628719,
+   "lat": 56.5151188,
+   "lon": 85.0510575,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256629011,
+   "lat": 56.5150448,
+   "lon": 85.0511809,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256629024,
+   "lat": 56.5150951,
+   "lon": 85.0511755,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Русский Стандарт",
+    "contact:phone": "+7 800 2006200",
+    "contact:website": "https://www.rsb.ru/",
+    "operator": "АО \"Банк Русский Стандарт\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256629086,
+   "lat": 56.5150892,
+   "lon": 85.0509663,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "contact:vk": "https://vk.com/alfabank",
+    "contact:website": "https://alfabank.ru",
+    "operator": "АО \"Альфа-Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256630888,
+   "lat": 56.5145979,
+   "lon": 85.0470342,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256762213,
+   "lat": 56.5172105,
+   "lon": 85.0357762,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "contact:vk": "https://vk.com/alfabank",
+    "contact:website": "https://alfabank.ru",
+    "operator": "АО \"Альфа-Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256763347,
+   "lat": 56.5169679,
+   "lon": 85.0357923,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Уралсиб",
+    "contact:phone": "+7 800 2005520",
+    "contact:website": "https://uralsib.ru/",
+    "operator": "ПАО \"БАНК УРАЛСИБ\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256778975,
+   "lat": 56.5189566,
+   "lon": 85.0459847,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "fixme": "проверить, ранее банкомат Бинбанка",
+    "operator": "ПАО Банк \"ФК Открытие\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256782053,
+   "lat": 56.5163434,
+   "lon": 85.0335715,
+   "tags": {
+    "addr:city": "Томск",
+    "addr:housenumber": "10",
+    "addr:postcode": "634063",
+    "addr:street": "улица Беринга",
+    "amenity": "atm",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "operator": "ПАО \"Томскпромстройбанк\"",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256782057,
+   "lat": 56.5164085,
+   "lon": 85.0332657,
+   "tags": {
+    "addr:city": "Томск",
+    "addr:housenumber": "10",
+    "addr:postcode": "634063",
+    "addr:street": "улица Беринга",
+    "amenity": "atm",
+    "brand": "МТС Банк",
+    "brand:en": "MTS Bank",
+    "brand:wikidata": "Q1667422",
+    "contact:phone": "+7 800 2500520;+7 495 7770001",
+    "contact:website": "https://www.mtsbank.ru/",
+    "operator": "ПАО \"МТС-Банк\"",
+    "operator:wikidata": "Q1667422",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256782061,
+   "lat": 56.5161836,
+   "lon": 85.0334427,
+   "tags": {
+    "addr:city": "Томск",
+    "addr:housenumber": "10",
+    "addr:postcode": "634063",
+    "addr:street": "улица Беринга",
+    "amenity": "atm",
+    "brand": "Русский Стандарт",
+    "brand:en": "Russian Standard Bank",
+    "brand:ru": "Русский Стандарт",
+    "brand:wikidata": "Q4400854",
+    "contact:phone": "+7 800 2006200",
+    "contact:website": "https://www.rsb.ru/",
+    "operator": "АО \"Банк Русский Стандарт\"",
+    "operator:wikidata": "Q4400854",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256782068,
+   "lat": 56.5163345,
+   "lon": 85.033255,
+   "tags": {
+    "addr:city": "Томск",
+    "addr:housenumber": "10",
+    "addr:postcode": "634063",
+    "addr:street": "улица Беринга",
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256782071,
+   "lat": 56.5160948,
+   "lon": 85.033491,
+   "tags": {
+    "addr:city": "Томск",
+    "addr:housenumber": "10",
+    "addr:postcode": "634063",
+    "addr:street": "улица Беринга",
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256782073,
+   "lat": 56.5164263,
+   "lon": 85.0334159,
+   "tags": {
+    "addr:city": "Томск",
+    "addr:housenumber": "10",
+    "addr:postcode": "634063",
+    "addr:street": "улица Беринга",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256782075,
+   "lat": 56.516151,
+   "lon": 85.0335393,
+   "tags": {
+    "addr:city": "Томск",
+    "addr:housenumber": "10",
+    "addr:postcode": "634063",
+    "addr:street": "улица Беринга",
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256782077,
+   "lat": 56.5163434,
+   "lon": 85.0334266,
+   "tags": {
+    "addr:city": "Томск",
+    "addr:housenumber": "10",
+    "addr:postcode": "634063",
+    "addr:street": "улица Беринга",
+    "amenity": "atm",
+    "brand": "Райффайзен",
+    "contact:phone": "+7 800 7009100;+7 495 7771717",
+    "contact:website": "https://www.raiffeisen.ru/",
+    "operator": "АО \"Райффайзенбанк\"",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256782079,
+   "lat": 56.5162635,
+   "lon": 85.0333408,
+   "tags": {
+    "addr:city": "Томск",
+    "addr:housenumber": "10",
+    "addr:postcode": "634063",
+    "addr:street": "улица Беринга",
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256782087,
+   "lat": 56.5164618,
+   "lon": 85.0335876,
+   "tags": {
+    "addr:city": "Томск",
+    "addr:housenumber": "10",
+    "addr:postcode": "634063",
+    "addr:street": "улица Беринга",
+    "amenity": "atm",
+    "brand": "Уралсиб",
+    "contact:phone": "+7 800 2005520",
+    "contact:website": "https://uralsib.ru/",
+    "operator": "ПАО \"БАНК УРАЛСИБ\"",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1256787062,
+   "lat": 56.5148606,
+   "lon": 85.031989,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1257725243,
+   "lat": 56.5109846,
+   "lon": 85.0358333,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1257727108,
+   "lat": 56.5105021,
+   "lon": 85.0340845,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1257728096,
+   "lat": 56.5099841,
+   "lon": 85.032164,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1257729763,
+   "lat": 56.5094395,
+   "lon": 85.030442,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1257751952,
+   "lat": 56.5102298,
+   "lon": 85.0257321,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "fixme": "проверить, ранее банкомат Бинбанка",
+    "operator": "ПАО Банк \"ФК Открытие\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1257836166,
+   "lat": 56.5056566,
+   "lon": 85.0168043,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1257838322,
+   "lat": 56.5046563,
+   "lon": 85.0116306,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "fixme": "проверить, ранее банкомат Бинбанка",
+    "operator": "ПАО Банк \"ФК Открытие\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1257850477,
+   "lat": 56.5032258,
+   "lon": 85.0077934,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1258053971,
+   "lat": 56.5198992,
+   "lon": 85.0151642,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "operator": "ПАО \"Томскпромстройбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1259327031,
+   "lat": 56.5064795,
+   "lon": 85.0228246,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Совкомбанк",
+    "brand:en": "Sovcom Bank",
+    "brand:ru": "Совкомбанк",
+    "brand:wikidata": "Q4426566",
+    "contact:phone": "+7 800 2006696",
+    "contact:website": "https://sovcombank.ru/",
+    "operator": "ПАО \"Совкомбанк\"",
+    "operator:wikidata": "Q4426566"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1259327205,
+   "lat": 56.5065476,
+   "lon": 85.0229265,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "operator": "ПАО \"Томскпромстройбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1259385889,
+   "lat": 56.5055722,
+   "lon": 85.0357399,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1259396893,
+   "lat": 56.4943774,
+   "lon": 85.0408316,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1259499928,
+   "lat": 56.5179401,
+   "lon": 85.0619687,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Русский Стандарт",
+    "contact:phone": "+7 800 2006200",
+    "contact:website": "https://www.rsb.ru/",
+    "operator": "АО \"Банк Русский Стандарт\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1259509155,
+   "lat": 56.5184284,
+   "lon": 85.0638785,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1259718935,
+   "lat": 56.5206834,
+   "lon": 85.1051416,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1259744196,
+   "lat": 56.5182657,
+   "lon": 85.1069708,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Уралсиб",
+    "contact:phone": "+7 800 2005520",
+    "contact:website": "https://uralsib.ru/",
+    "operator": "ПАО \"БАНК УРАЛСИБ\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1260653796,
+   "lat": 56.5055732,
+   "lon": 85.086192,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1262284522,
+   "lat": 56.4682563,
+   "lon": 84.9809972,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:ru": "Газпромбанк",
+    "brand:wikidata": "Q1924338",
+    "brand:wikipedia": "en:Gazprombank",
+    "check_date": "2021-08-09",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "drive_through": "no",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Газпромбанк",
+    "operator:wikidata": "Q1924338",
+    "operator:wikipedia": "en:Gazprombank",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1263053790,
+   "lat": 56.475742,
+   "lon": 84.9686936,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "brand:wikipedia": "en:Sberbank of Russia",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012",
+    "operator:wikipedia": "en:Sberbank of Russia"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1263053999,
+   "lat": 56.475566,
+   "lon": 84.9666932,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВБРР",
+    "check_date": "2026-04-11",
+    "contact:website": "https://www.vbrr.ru/",
+    "operator": "Банк \"ВБРР\" (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1263054010,
+   "lat": 56.4755657,
+   "lon": 84.966735,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:ru": "ВТБ",
+    "brand:wikidata": "Q1549389",
+    "brand:wikipedia": "en:VTB Bank",
+    "check_date": "2026-04-11",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)",
+    "operator:wikidata": "Q1549389",
+    "operator:wikipedia": "en:VTB Bank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1263054011,
+   "lat": 56.4755185,
+   "lon": 84.9666869,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:ru": "Газпромбанк",
+    "brand:wikidata": "Q1924338",
+    "brand:wikipedia": "en:Gazprombank",
+    "check_date": "2026-04-11",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338",
+    "operator:wikipedia": "en:Gazprombank",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1263142025,
+   "lat": 56.4758006,
+   "lon": 84.9586049,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1263299353,
+   "lat": 56.4695142,
+   "lon": 84.9475269,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:ru": "Газпромбанк",
+    "brand:wikidata": "Q1924338",
+    "cash_in": "yes",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1263299510,
+   "lat": 56.4693834,
+   "lon": 84.9477138,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "opening_hours": "Mo-Sa 08:00-19:00",
+    "operator": "Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1263402647,
+   "lat": 56.4719398,
+   "lon": 84.9511005,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "drive_through": "no",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1265089847,
+   "lat": 56.4625168,
+   "lon": 84.9400366,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1267191589,
+   "lat": 56.4608486,
+   "lon": 84.9683051,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:ru": "ВТБ",
+    "brand:wikidata": "Q1549389",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)",
+    "operator:wikidata": "Q1549389"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1267287417,
+   "lat": 56.4597086,
+   "lon": 84.9658828,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2025-04-05",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1267287418,
+   "lat": 56.4597187,
+   "lon": 84.965462,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:ru": "Газпромбанк",
+    "brand:wikidata": "Q1924338",
+    "check_date": "2025-04-05",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1267287769,
+   "lat": 56.4597174,
+   "lon": 84.9655836,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 495 7858222",
+    "contact:website": "https://home.bank/",
+    "operator": "ООО \"ХКФ Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1267294461,
+   "lat": 56.4593801,
+   "lon": 84.9639742,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1268492386,
+   "lat": 56.4636849,
+   "lon": 84.9640415,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "brand:wikipedia": "en:Sberbank",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012",
+    "operator:wikipedia": "en:Sberbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1268692278,
+   "lat": 56.4654453,
+   "lon": 84.9503473,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1268700475,
+   "lat": 56.46312,
+   "lon": 84.9504514,
+   "tags": {
+    "addr:housenumber": "28",
+    "addr:postcode": "634050",
+    "addr:street": "проспект Ленина",
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "check_date": "2025-07-27",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1268700629,
+   "lat": 56.463249,
+   "lon": 84.9504316,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1270157552,
+   "lat": 56.5014254,
+   "lon": 84.9533015,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1302851075,
+   "lat": 56.5291648,
+   "lon": 84.978801,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "fixme": "проверить, ранее банкомат Бинбанка",
+    "operator": "ПАО Банк \"ФК Открытие\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1303788609,
+   "lat": 56.5239539,
+   "lon": 84.9939494,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1303806282,
+   "lat": 56.5200248,
+   "lon": 84.9891972,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "fixme": "проверить, ранее банкомат Бинбанка",
+    "operator": "ПАО Банк \"ФК Открытие\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1304910452,
+   "lat": 56.5242114,
+   "lon": 84.9761456,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1304977675,
+   "lat": 56.5158993,
+   "lon": 84.9764621,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "operator": "ПАО \"Томскпромстройбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305008978,
+   "lat": 56.5183942,
+   "lon": 84.9799597,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Уралсиб",
+    "contact:phone": "+7 800 2005520",
+    "contact:website": "https://uralsib.ru/",
+    "operator": "ПАО \"БАНК УРАЛСИБ\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305009085,
+   "lat": 56.5182936,
+   "lon": 84.9799704,
+   "tags": {
+    "amenity": "atm",
+    "brand": "МТС Банк",
+    "brand:en": "MTS Bank",
+    "brand:wikidata": "Q1667422",
+    "contact:phone": "+7 800 2500520;+7 495 7770001",
+    "contact:website": "https://www.mtsbank.ru/",
+    "operator": "ПАО \"МТС-Банк\"",
+    "operator:wikidata": "Q1667422"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305010037,
+   "lat": 56.5183439,
+   "lon": 84.980067,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305010038,
+   "lat": 56.5182433,
+   "lon": 84.9799651,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:wikidata": "Q649100",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305010040,
+   "lat": 56.5183942,
+   "lon": 84.9800724,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305011298,
+   "lat": 56.5183942,
+   "lon": 84.9801743,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305011300,
+   "lat": 56.5183053,
+   "lon": 84.9800644,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Русский Стандарт",
+    "contact:phone": "+7 800 2006200",
+    "contact:website": "https://www.rsb.ru/",
+    "operator": "АО \"Банк Русский Стандарт\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305392484,
+   "lat": 56.514344,
+   "lon": 84.9765783,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Почта Банк",
+    "brand:en": "Post Bank",
+    "brand:wikidata": "Q24930461",
+    "contact:phone": "+7 495 5321300",
+    "contact:website": "https://www.pochtabank.ru",
+    "operator": "АО \"Почта Банк\"",
+    "operator:wikidata": "Q24930461"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305392791,
+   "lat": 56.5135908,
+   "lon": 84.9758988,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305407556,
+   "lat": 56.5098968,
+   "lon": 84.9840528,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Райффайзен",
+    "contact:phone": "+7 800 7009100;+7 495 7771717",
+    "contact:website": "https://www.raiffeisen.ru/",
+    "operator": "АО \"Райффайзенбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305407557,
+   "lat": 56.5099087,
+   "lon": 84.984219,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305469322,
+   "lat": 56.5099679,
+   "lon": 84.9785918,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305469333,
+   "lat": 56.5098436,
+   "lon": 84.9787366,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "operator": "ПАО \"Томскпромстройбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305469335,
+   "lat": 56.5098968,
+   "lon": 84.9786347,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Уралсиб",
+    "contact:phone": "+7 800 2005520",
+    "contact:website": "https://uralsib.ru/",
+    "operator": "ПАО \"БАНК УРАЛСИБ\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1305469336,
+   "lat": 56.5098968,
+   "lon": 84.9787742,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1336254894,
+   "lat": 56.5776409,
+   "lon": 84.9192115,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1336310862,
+   "lat": 56.5821614,
+   "lon": 84.9216899,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1336318219,
+   "lat": 56.5833077,
+   "lon": 84.9158212,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1336318220,
+   "lat": 56.5832958,
+   "lon": 84.9161109,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1336318221,
+   "lat": 56.5831718,
+   "lon": 84.9158749,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1336318229,
+   "lat": 56.5824078,
+   "lon": 84.9222938,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Уралсиб",
+    "contact:phone": "+7 800 2005520",
+    "contact:website": "https://uralsib.ru/",
+    "operator": "ПАО \"БАНК УРАЛСИБ\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1336318230,
+   "lat": 56.5831599,
+   "lon": 84.9156281,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1336350856,
+   "lat": 56.5906884,
+   "lon": 84.9072461,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1336350860,
+   "lat": 56.5906677,
+   "lon": 84.9071495,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1336370899,
+   "lat": 56.5897062,
+   "lon": 84.9021098,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1336370903,
+   "lat": 56.5895998,
+   "lon": 84.9019059,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1336375014,
+   "lat": 56.5924118,
+   "lon": 84.9034509,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1337929996,
+   "lat": 56.6090808,
+   "lon": 84.8641326,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1339327747,
+   "lat": 56.6025058,
+   "lon": 84.8823473,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1339327753,
+   "lat": 56.6022298,
+   "lon": 84.8833058,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1339331626,
+   "lat": 56.6022164,
+   "lon": 84.8831412,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "operator": "ПАО Банк \"ФК Открытие\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1339341811,
+   "lat": 56.6005963,
+   "lon": 84.8869653,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1339889593,
+   "lat": 56.5932853,
+   "lon": 84.9020542,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1372177558,
+   "lat": 56.4486015,
+   "lon": 84.9960723,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1372177568,
+   "lat": 56.4486667,
+   "lon": 84.9960723,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:ru": "Газпромбанк",
+    "brand:wikidata": "Q1924338",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Газпромбанк",
+    "operator:wikidata": "Q1924338",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1372250039,
+   "lat": 56.4500189,
+   "lon": 84.9897765,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "cash_in": "yes",
+    "check_date": "2025-11-30",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "drive_through": "no",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1382525732,
+   "lat": 56.5859192,
+   "lon": 84.9240356,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1390377696,
+   "lat": 56.4722173,
+   "lon": 85.0444379,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1390382345,
+   "lat": 56.4728692,
+   "lon": 85.046719,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1390382347,
+   "lat": 56.472887,
+   "lon": 85.0468209,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "contact:vk": "https://vk.com/alfabank",
+    "contact:website": "https://alfabank.ru",
+    "operator": "АО \"Альфа-Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1491064792,
+   "lat": 56.4974735,
+   "lon": 84.9674351,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "drive_through": "no",
+    "opening_hours": "24/7",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1497113617,
+   "lat": 56.4739596,
+   "lon": 84.9765587,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1584659793,
+   "lat": 56.4582625,
+   "lon": 84.950717,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "opening_hours": "24/7",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1661702096,
+   "lat": 56.4744798,
+   "lon": 84.9499217,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Росбанк",
+    "brand:en": "Rosbank",
+    "brand:ru": "Росбанк",
+    "brand:wikidata": "Q1119857",
+    "brand:wikipedia": "en:Rosbank",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК",
+    "operator:wikidata": "Q1119857",
+    "operator:wikipedia": "en:Rosbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1661702107,
+   "lat": 56.4744261,
+   "lon": 84.9496679,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:wikidata": "Q1924338",
+    "brand:wikipedia": "en:Gazprombank",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338",
+    "operator:wikipedia": "en:Gazprombank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 1775771596,
+   "lat": 56.5165423,
+   "lon": 85.0301589,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Уралсиб",
+    "contact:phone": "+7 800 2005520",
+    "contact:website": "https://uralsib.ru/",
+    "operator": "ПАО \"БАНК УРАЛСИБ\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 1802384262,
+   "lat": 56.5094407,
+   "lon": 85.0270276,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2248504353,
+   "lat": 56.4795583,
+   "lon": 84.8866538,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://www.rosbank.ru/",
+    "operator": "ПАО РОСБАНК"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2248504356,
+   "lat": 56.4795687,
+   "lon": 84.8863655,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2360034977,
+   "lat": 56.4677186,
+   "lon": 84.9494048,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "cash_in": "yes",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "ПАО Сбербанк",
+    "payment:contactless": "no"
+   }
+  },
+  {
+   "type": "node",
+   "id": 2616134252,
+   "lat": 56.4759771,
+   "lon": 84.9498399,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "check_date": "2025-08-04",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "ref": "8616/0240 и 8616/0239"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3226780186,
+   "lat": 56.5043712,
+   "lon": 85.0118901,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:wikidata": "Q1924338",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3226780187,
+   "lat": 56.5044052,
+   "lon": 85.0118579,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3465812093,
+   "lat": 56.4533555,
+   "lon": 84.982303,
+   "tags": {
+    "amenity": "atm",
+    "branch": "с функцией приёма наличных",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "brand:wikipedia": "en:Sberbank of Russia",
+    "check_date": "2021-07-31",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012",
+    "operator:wikipedia": "en:Sberbank of Russia"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3640142413,
+   "lat": 56.4962887,
+   "lon": 84.95915,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "drive_through": "no",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3641169641,
+   "lat": 56.5246291,
+   "lon": 84.9386079,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "drive_through": "no",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 3972050625,
+   "lat": 56.5184141,
+   "lon": 84.9800161,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:wikidata": "Q1549389",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "drive_through": "no",
+    "operator": "Банк ВТБ (ПАО)",
+    "operator:wikidata": "Q1549389"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4214616897,
+   "lat": 56.601536,
+   "lon": 84.8826111,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:wikidata": "Q1549389",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "opening_hours": "24/7",
+    "operator": "Банк ВТБ (ПАО)",
+    "operator:wikidata": "Q1549389"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4214642201,
+   "lat": 56.6023572,
+   "lon": 84.8677538,
+   "tags": {
+    "amenity": "atm",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4225662990,
+   "lat": 56.523658,
+   "lon": 84.9791816,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2021-08-16",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4352699308,
+   "lat": 56.475644,
+   "lon": 85.0461715,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4589021787,
+   "lat": 56.4659867,
+   "lon": 84.9796627,
+   "tags": {
+    "addr:housenumber": "51Д",
+    "addr:street": "проспект Кирова",
+    "amenity": "atm",
+    "brand": "Авангард",
+    "brand:en": "Avangard Bank",
+    "brand:ru": "Авангард",
+    "brand:wikidata": "Q62122617",
+    "contact:phone": "+7 800 3339898",
+    "contact:website": "https://www.avangard.ru/",
+    "drive_through": "no",
+    "opening_hours": "9:00-18:00",
+    "operator": "ПАО АКБ \"АВАНГАРД\"",
+    "operator:wikidata": "Q62122617"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4672428291,
+   "lat": 56.5936743,
+   "lon": 84.910039,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "not:brand:wikidata": "Q205012",
+    "operator": "Банк ВТБ (ПАО)",
+    "website": "https://www.sberbank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4711373189,
+   "lat": 56.6015775,
+   "lon": 85.025838,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:wikidata": "Q1924338",
+    "brand:wikipedia": "en:Gazprombank",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "opening_hours": "24/7",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338",
+    "operator:wikipedia": "en:Gazprombank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4940396622,
+   "lat": 56.6017532,
+   "lon": 84.8687349,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 4946569321,
+   "lat": 56.6024318,
+   "lon": 84.8747553,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5004192103,
+   "lat": 56.4512331,
+   "lon": 84.964258,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:wikidata": "Q1924338",
+    "check_date": "2023-06-11",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "level": "1",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5004227944,
+   "lat": 56.4508683,
+   "lon": 84.9661253,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5217317886,
+   "lat": 56.4508761,
+   "lon": 84.966169,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "fixme": "проверить, ранее банкомат Бинбанка",
+    "operator": "ПАО Банк \"ФК Открытие\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 5217421701,
+   "lat": 56.4637749,
+   "lon": 84.9544762,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:wikidata": "Q1924338",
+    "brand:wikipedia": "en:Gazprombank",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338",
+    "operator:wikipedia": "en:Gazprombank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5219372324,
+   "lat": 56.4611535,
+   "lon": 84.9912624,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "fixme": "проверить, ранее банкомат Бинбанка",
+    "operator": "ПАО Банк \"ФК Открытие\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 5219372325,
+   "lat": 56.4612747,
+   "lon": 84.9910755,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5219743678,
+   "lat": 56.4637684,
+   "lon": 84.9543798,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:wikidata": "Q1924338",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5591748581,
+   "lat": 56.4968103,
+   "lon": 84.9764918,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 5934029781,
+   "lat": 56.4566767,
+   "lon": 84.9516564,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "fixme": "проверить, ранее банкомат Бинбанка",
+    "operator": "ПАО Банк \"ФК Открытие\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 6298450587,
+   "lat": 56.5039103,
+   "lon": 85.0393889,
+   "tags": {
+    "addr:city": "Томск",
+    "addr:housenumber": "12Б",
+    "addr:postcode": "634062",
+    "addr:street": "улица Бирюкова",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6298450685,
+   "lat": 56.50271,
+   "lon": 85.0419486,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "cash_in": "yes",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6515680685,
+   "lat": 56.5051577,
+   "lon": 84.9491256,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-17:00; Sa 09:00-15:00",
+    "operator": "ПАО \"Томскпромстройбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 6515688585,
+   "lat": 56.5051346,
+   "lon": 84.9491178,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Уралсиб",
+    "contact:phone": "+7 800 2005520",
+    "contact:website": "https://uralsib.ru/",
+    "operator": "ПАО \"БАНК УРАЛСИБ\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 6561339827,
+   "lat": 56.5104871,
+   "lon": 85.0150737,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "cash_in": "yes",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "drive_through": "no",
+    "indoor": "yes",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6566214341,
+   "lat": 56.4990599,
+   "lon": 84.9705388,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "cash_in": "yes",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "covered": "no",
+    "drive_through": "no",
+    "opening_hours": "24/7",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6769102848,
+   "lat": 56.4897885,
+   "lon": 84.9477578,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:wikidata": "Q649100",
+    "brand:wikipedia": "en:Promsvyazbank",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100",
+    "operator:wikipedia": "en:Promsvyazbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6769102849,
+   "lat": 56.505285,
+   "lon": 85.017804,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:wikidata": "Q649100",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777010359,
+   "lat": 56.5052569,
+   "lon": 85.0179979,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:wikidata": "Q649100",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "Mo-Fr 09:00-19:00;Sa 10:30-16:30",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777010361,
+   "lat": 56.5052748,
+   "lon": 85.0179872,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:wikidata": "Q649100",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "Mo-Fr 09:00-19:00;Sa 10:30-16:30",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777031303,
+   "lat": 56.464245,
+   "lon": 84.9656117,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:ru": "Промсвязьбанк",
+    "brand:wikidata": "Q649100",
+    "brand:wikipedia": "en:Promsvyazbank",
+    "check_date": "2021-09-17",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "Mo-Su 10:00-20:00",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100",
+    "operator:wikipedia": "en:Promsvyazbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777031306,
+   "lat": 56.4903514,
+   "lon": 84.9489257,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:wikidata": "Q649100",
+    "brand:wikipedia": "en:Promsvyazbank",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100",
+    "operator:wikipedia": "en:Promsvyazbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777031347,
+   "lat": 56.4764801,
+   "lon": 84.9707035,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:wikidata": "Q649100",
+    "brand:wikipedia": "en:Promsvyazbank",
+    "check_date": "2026-04-11",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100",
+    "operator:wikipedia": "en:Promsvyazbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777041973,
+   "lat": 56.4508895,
+   "lon": 84.966202,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:wikidata": "Q649100",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777041976,
+   "lat": 56.4740562,
+   "lon": 84.9831131,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:wikidata": "Q649100",
+    "brand:wikipedia": "en:Promsvyazbank",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "Mo-Fr 10:00-19:00;Sa-Su 11:00-18:00",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100",
+    "operator:wikipedia": "en:Promsvyazbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777059053,
+   "lat": 56.5014453,
+   "lon": 84.952324,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:wikidata": "Q649100",
+    "brand:wikipedia": "en:Promsvyazbank",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "Mo-Su 09:00-01:00",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100",
+    "operator:wikipedia": "en:Promsvyazbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777059978,
+   "lat": 56.51024,
+   "lon": 84.984469,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777070221,
+   "lat": 56.513874,
+   "lon": 84.945332,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777070259,
+   "lat": 56.468072,
+   "lon": 84.982461,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:wikidata": "Q649100",
+    "brand:wikipedia": "en:Promsvyazbank",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100",
+    "operator:wikipedia": "en:Promsvyazbank"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777080784,
+   "lat": 56.4595104,
+   "lon": 84.9653515,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:ru": "Промсвязьбанк",
+    "brand:wikidata": "Q649100",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100"
+   }
+  },
+  {
+   "type": "node",
+   "id": 6777084585,
+   "lat": 56.600664,
+   "lon": 84.884457,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:email": "info@psbank.ru",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 6950330061,
+   "lat": 56.4603316,
+   "lon": 84.9655533,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "cash_in": "yes",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "level": "0",
+    "opening_hours": "Mo-Su 10:00-21:30",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 7830888460,
+   "lat": 56.4581103,
+   "lon": 84.9507225,
+   "tags": {
+    "amenity": "atm",
+    "cash_in": "no",
+    "contact:phone": "+7 800 3339898",
+    "contact:website": "https://www.avangard.ru/",
+    "drive_through": "no",
+    "operator": "ПАО АКБ \"АВАНГАРД\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 8104625105,
+   "lat": 56.4884353,
+   "lon": 84.9792004,
+   "tags": {
+    "addr:housenumber": "13Б",
+    "addr:street": "Комсомольский проспект",
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "brand:en": "Alfa-Bank",
+    "brand:ru": "Альфа-Банк",
+    "brand:wikidata": "Q1377835",
+    "check_date": "2026-07-27",
+    "contact:vk": "https://vk.com/alfabank",
+    "contact:website": "https://alfabank.ru",
+    "level": "0",
+    "operator": "Альфа-Банк",
+    "operator:wikidata": "Q1377835"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8104625106,
+   "lat": 56.4884355,
+   "lon": 84.9793613,
+   "tags": {
+    "addr:housenumber": "13Б",
+    "addr:street": "Комсомольский проспект",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "cash_in": "yes",
+    "check_date": "2026-07-27",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "level": "0",
+    "operator": "Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8104625107,
+   "lat": 56.488435,
+   "lon": 84.9790394,
+   "tags": {
+    "addr:housenumber": "13Б",
+    "addr:street": "Комсомольский проспект",
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:en": "T-Bank",
+    "brand:fa": "تی-بانک",
+    "brand:he": "טי-בנק",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "check_date": "2026-07-27",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "level": "0",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8104625109,
+   "lat": 56.4884354,
+   "lon": 84.9792808,
+   "tags": {
+    "addr:housenumber": "13Б",
+    "addr:street": "Комсомольский проспект",
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:ru": "Газпромбанк",
+    "brand:wikidata": "Q1924338",
+    "check_date": "2026-07-27",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "level": "0",
+    "operator": "Газпромбанк",
+    "operator:wikidata": "Q1924338"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8104625110,
+   "lat": 56.4884351,
+   "lon": 84.97912,
+   "tags": {
+    "addr:housenumber": "13Б",
+    "addr:street": "Комсомольский проспект",
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:ru": "ВТБ",
+    "brand:wikidata": "Q1549389",
+    "check_date": "2026-07-27",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "level": "0",
+    "operator": "ВТБ",
+    "operator:wikidata": "Q1549389"
+   }
+  },
+  {
+   "type": "node",
+   "id": 8151181559,
+   "lat": 56.4764861,
+   "lon": 84.971479,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Открытие",
+    "brand:wikidata": "Q4327204",
+    "brand:wikipedia": "ru:Открытие (банк)",
+    "check_date": "2024-10-01",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "operator": "ПАО Банк \"ФК Открытие\"",
+    "operator:wikidata": "Q4327204",
+    "operator:wikipedia": "ru:Открытие (банк)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9121429527,
+   "lat": 56.484896,
+   "lon": 84.9502768,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "opening_hours": "24/7",
+    "operator": "ПАО Банк \"ФК Открытие\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 9221096623,
+   "lat": 56.4623077,
+   "lon": 84.9689693,
+   "tags": {
+    "addr:full": "ул. Красноармейская, 120",
+    "amenity": "atm",
+    "brand": "ВБРР",
+    "contact:website": "https://www.vbrr.ru/",
+    "opening_hours": "24/7",
+    "operator": "Банк \"ВБРР\" (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9221096640,
+   "lat": 56.503821,
+   "lon": 85.009821,
+   "tags": {
+    "addr:full": "ул. Иркутский тракт, 42",
+    "amenity": "atm",
+    "brand": "ВБРР",
+    "contact:website": "https://www.vbrr.ru/",
+    "opening_hours": "8:00-23:00",
+    "operator": "Банк \"ВБРР\" (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9221096670,
+   "lat": 56.487088,
+   "lon": 84.97976,
+   "tags": {
+    "addr:full": "переулок Асфальтовый, д. 8",
+    "amenity": "atm",
+    "brand": "ВБРР",
+    "contact:website": "https://www.vbrr.ru/",
+    "opening_hours": "10:00- 22:00",
+    "operator": "Банк \"ВБРР\" (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9221096738,
+   "lat": 56.5182511,
+   "lon": 84.9800725,
+   "tags": {
+    "addr:full": "пр. Мира, 27в",
+    "amenity": "atm",
+    "brand": "ВБРР",
+    "contact:website": "https://www.vbrr.ru/",
+    "opening_hours": "10:00-23:00",
+    "operator": "Банк \"ВБРР\" (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9221097062,
+   "lat": 56.4488091,
+   "lon": 84.9960573,
+   "tags": {
+    "addr:full": "г. Томск, ул. Мокрушина, д. 9, стр. 16",
+    "amenity": "atm",
+    "brand": "ВБРР",
+    "contact:website": "https://www.vbrr.ru/",
+    "opening_hours": "08:00-22:00",
+    "operator": "Банк \"ВБРР\" (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9221097075,
+   "lat": 56.5100078,
+   "lon": 84.9852599,
+   "tags": {
+    "addr:full": "г. Томск, ул. Говорова, 19 B",
+    "amenity": "atm",
+    "brand": "ВБРР",
+    "contact:website": "https://www.vbrr.ru/",
+    "opening_hours": "09:00-18:00",
+    "operator": "Банк \"ВБРР\" (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9221097076,
+   "lat": 56.52402,
+   "lon": 84.975748,
+   "tags": {
+    "addr:full": "г. Томск, пр. Мира, 72",
+    "amenity": "atm",
+    "brand": "ВБРР",
+    "contact:website": "https://www.vbrr.ru/",
+    "opening_hours": "09:00-18:00",
+    "operator": "Банк \"ВБРР\" (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9302017264,
+   "lat": 56.4755663,
+   "lon": 84.9666103,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "cash_in": "yes",
+    "check_date": "2026-04-11",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "drive_through": "no",
+    "opening_hours": "24/7",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9302017265,
+   "lat": 56.475566,
+   "lon": 84.9666501,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "brand:en": "Alfa-Bank",
+    "brand:ru": "Альфа-Банк",
+    "brand:wikidata": "Q1377835",
+    "brand:wikipedia": "ru:Альфа-банк",
+    "check_date": "2026-04-11",
+    "contact:vk": "https://vk.com/alfabank",
+    "contact:website": "https://alfabank.ru",
+    "operator": "АО \"Альфа-Банк\"",
+    "operator:wikidata": "Q1377835",
+    "operator:wikipedia": "ru:Альфа-банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9332240429,
+   "lat": 56.4963741,
+   "lon": 84.9579188,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "brand:wikipedia": "en:Sberbank of Russia",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "drive_through": "no",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012",
+    "operator:wikipedia": "en:Sberbank of Russia"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11047049212,
+   "lat": 56.4597193,
+   "lon": 84.9656385,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Уралсиб",
+    "brand:en": "Uralsib Bank",
+    "brand:ru": "Уралсиб",
+    "brand:wikidata": "Q4476693",
+    "contact:phone": "+7 800 2005520",
+    "contact:website": "https://uralsib.ru/",
+    "operator": "Уралсиб",
+    "operator:wikidata": "Q4476693"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11173777051,
+   "lat": 56.6110736,
+   "lon": 84.870984,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:wikidata": "Q1924338",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "currency:RUB": "yes",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11207277038,
+   "lat": 56.586323,
+   "lon": 84.9161235,
+   "tags": {
+    "addr:city": "Северск",
+    "addr:housenumber": "116",
+    "addr:postcode": "636019",
+    "addr:street": "Коммунистический проспект",
+    "amenity": "atm",
+    "contact:phone": "+7 495 5321300",
+    "contact:website": "https://www.pochtabank.ru",
+    "not:brand:wikidata": "Q24930461",
+    "operator": "АО \"Почта Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 11209455546,
+   "lat": 56.5862512,
+   "lon": 84.9209802,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217046034,
+   "lat": 56.588398,
+   "lon": 84.9292068,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217069628,
+   "lat": 56.5947471,
+   "lon": 84.8985338,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217082711,
+   "lat": 56.5983023,
+   "lon": 84.9022387,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217086053,
+   "lat": 56.598289,
+   "lon": 84.8924469,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217092151,
+   "lat": 56.5877661,
+   "lon": 84.9129996,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217092365,
+   "lat": 56.602618,
+   "lon": 84.8790608,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217099831,
+   "lat": 56.5778175,
+   "lon": 84.9205931,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217100653,
+   "lat": 56.5990651,
+   "lon": 84.8886421,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217100753,
+   "lat": 56.607164,
+   "lon": 84.8594973,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217113043,
+   "lat": 56.6088164,
+   "lon": 84.8867293,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217120197,
+   "lat": 56.5926173,
+   "lon": 84.9137617,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217133512,
+   "lat": 56.5727623,
+   "lon": 84.9266873,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217140290,
+   "lat": 56.6022501,
+   "lon": 84.8955442,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217142959,
+   "lat": 56.5779155,
+   "lon": 84.9205721,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217143728,
+   "lat": 56.579969,
+   "lon": 84.9335138,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217143729,
+   "lat": 56.591424,
+   "lon": 84.9246264,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217143973,
+   "lat": 56.5958848,
+   "lon": 84.9016234,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217157135,
+   "lat": 56.5968027,
+   "lon": 84.8956196,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217161949,
+   "lat": 56.5779367,
+   "lon": 84.9206847,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217171024,
+   "lat": 56.6072871,
+   "lon": 84.8595749,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217171334,
+   "lat": 56.6021183,
+   "lon": 84.8833471,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217178977,
+   "lat": 56.5988842,
+   "lon": 84.8908076,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217189749,
+   "lat": 56.593929,
+   "lon": 84.9099027,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217200023,
+   "lat": 56.6087568,
+   "lon": 84.8864605,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217205634,
+   "lat": 56.6087547,
+   "lon": 84.8866347,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217230291,
+   "lat": 56.5937504,
+   "lon": 84.9100408,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217231285,
+   "lat": 56.5833437,
+   "lon": 84.9159699,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 4444400",
+    "contact:website": "https://open.ru/",
+    "operator": "ПАО Банк \"ФК Открытие\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217247618,
+   "lat": 56.606805,
+   "lon": 84.8644689,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 495 5321300",
+    "contact:website": "https://www.pochtabank.ru",
+    "operator": "АО \"Почта Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217265545,
+   "lat": 56.5851765,
+   "lon": 84.917661,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Почта Банк",
+    "brand:en": "Post Bank",
+    "brand:wikidata": "Q24930461",
+    "contact:phone": "+7 495 5321300",
+    "contact:website": "https://www.pochtabank.ru",
+    "operator": "АО \"Почта Банк\"",
+    "operator:wikidata": "Q24930461"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217277336,
+   "lat": 56.5832483,
+   "lon": 84.9162397,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11217534169,
+   "lat": 56.5878782,
+   "lon": 84.9127946,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 2006696",
+    "contact:website": "https://sovcombank.ru/",
+    "operator": "ПАО \"Совкомбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 11219057096,
+   "lat": 56.5888249,
+   "lon": 84.9142797,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "operator": "ПАО \"Томскпромстройбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 11219128228,
+   "lat": 56.5938446,
+   "lon": 84.9098822,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 11219137675,
+   "lat": 56.5832248,
+   "lon": 84.9161449,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "contact:vk": "https://vk.com/alfabank",
+    "contact:website": "https://alfabank.ru",
+    "operator": "АО \"Альфа-Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 11219155256,
+   "lat": 56.5990179,
+   "lon": 84.8886233,
+   "tags": {
+    "amenity": "atm",
+    "contact:phone": "+7 800 2006696",
+    "contact:website": "https://sovcombank.ru/",
+    "operator": "ПАО \"Совкомбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 11221671527,
+   "lat": 56.5906673,
+   "lon": 84.9072198,
+   "tags": {
+    "amenity": "atm",
+    "contact:website": "https://tpsbank.tomsk.ru/",
+    "operator": "ПАО \"Томскпромстройбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 11221717866,
+   "lat": 56.4757504,
+   "lon": 85.0065922,
+   "tags": {
+    "addr:housenumber": "119К",
+    "addr:street": "проспект Фрунзе",
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:wikidata": "Q1924338",
+    "check_date": "2026-04-14",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "drive_through": "no",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11221724618,
+   "lat": 56.4763735,
+   "lon": 84.9823931,
+   "tags": {
+    "addr:housenumber": "112",
+    "addr:street": "проспект Фрунзе",
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:wikidata": "Q1549389",
+    "cash_in": "yes",
+    "check_date": "2026-04-11",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "Банк ВТБ (ПАО)",
+    "operator:wikidata": "Q1549389"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11279098894,
+   "lat": 56.4827047,
+   "lon": 84.9842627,
+   "tags": {
+    "addr:housenumber": "60",
+    "addr:street": "Сибирская улица",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "cash_in": "yes",
+    "check_date": "2026-05-04",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11305027880,
+   "lat": 56.5043881,
+   "lon": 85.011874,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "opening_hours": "Mo-Su 10:00-20:00",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11370375836,
+   "lat": 56.5740395,
+   "lon": 84.9227385,
+   "tags": {
+    "addr:city": "Северск",
+    "addr:housenumber": "3",
+    "addr:street": "переулок Чекист",
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11427837348,
+   "lat": 56.6007459,
+   "lon": 84.8865755,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "contact:vk": "https://vk.com/alfabank",
+    "contact:website": "https://alfabank.ru",
+    "operator": "АО \"Альфа-Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 11458636628,
+   "lat": 56.4826155,
+   "lon": 85.0063012,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "cash_in": "yes",
+    "check_date": "2026-07-23",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "not:brand:wikidata": "Q1924338",
+    "operator": "Банк ГПБ (АО)",
+    "website": "https://www.gazprombank.ru/"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11834581764,
+   "lat": 56.4719551,
+   "lon": 84.9868793,
+   "tags": {
+    "addr:housenumber": "61/1",
+    "addr:street": "улица Герцена",
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "cash_in": "yes",
+    "check_date": "2026-01-17",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "opening_hours": "Mo-Su 10:00-21:00",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11870764085,
+   "lat": 56.4758465,
+   "lon": 84.9804363,
+   "tags": {
+    "addr:housenumber": "83А",
+    "addr:street": "проспект Фрунзе",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2024-11-17",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11894241843,
+   "lat": 56.4765262,
+   "lon": 84.9916005,
+   "tags": {
+    "addr:housenumber": "152",
+    "addr:street": "проспект Фрунзе",
+    "amenity": "atm",
+    "brand": "Россельхозбанк",
+    "brand:en": "Rosselkhozbank",
+    "brand:ru": "Россельхозбанк",
+    "brand:wikidata": "Q3920226",
+    "check_date": "2026-06-10",
+    "contact:phone": "+7 800 1000100",
+    "contact:website": "https://www.rshb.ru/",
+    "drive_through": "no",
+    "operator": "АО \"Россельхозбанк\"",
+    "operator:wikidata": "Q3920226"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11903983869,
+   "lat": 56.4758199,
+   "lon": 85.0121542,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:en": "T-Bank",
+    "brand:fa": "تی-بانک",
+    "brand:he": "טי-בנק",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "cash_in": "yes",
+    "check_date": "2026-06-26",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11909932545,
+   "lat": 56.4794295,
+   "lon": 84.9825584,
+   "tags": {
+    "addr:housenumber": "46",
+    "addr:street": "Комсомольский проспект",
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "cash_in": "yes",
+    "check_date": "2026-07-27",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 11939836346,
+   "lat": 56.4567078,
+   "lon": 84.9613711,
+   "tags": {
+    "amenity": "atm",
+    "check_date": "2024-11-11"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12002093802,
+   "lat": 56.4984031,
+   "lon": 84.9843413,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "cash_in": "yes",
+    "check_date": "2025-11-03",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12002093803,
+   "lat": 56.4983928,
+   "lon": 84.9848083,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:wikidata": "Q1549389",
+    "cash_in": "yes",
+    "check_date": "2025-11-03",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "Банк ВТБ (ПАО)",
+    "operator:wikidata": "Q1549389"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12002093804,
+   "lat": 56.4983771,
+   "lon": 84.9849064,
+   "tags": {
+    "addr:housenumber": "59",
+    "addr:street": "улица Пушкина",
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:ru": "Газпромбанк",
+    "brand:wikidata": "Q1924338",
+    "cash_in": "yes",
+    "check_date": "2025-11-03",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "Газпромбанк",
+    "operator:wikidata": "Q1924338"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12002093805,
+   "lat": 56.4983582,
+   "lon": 84.9849922,
+   "tags": {
+    "addr:housenumber": "59",
+    "addr:street": "улица Пушкина",
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:en": "T-Bank",
+    "brand:fa": "تی-بانک",
+    "brand:he": "טי-בנק",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "cash_in": "yes",
+    "check_date": "2025-11-03",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "opening_hours": "24/7",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12064310814,
+   "lat": 56.4938808,
+   "lon": 85.056099,
+   "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "улица Архитекторов",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "cash_in": "yes",
+    "check_date": "2025-06-28",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12088386927,
+   "lat": 56.5833334,
+   "lon": 84.9167225,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "contact:phone": "+7 495 7873333;+7 800 3330303",
+    "contact:website": "https://www.psbank.ru/",
+    "operator": "ПАО \"Промсвязьбанк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 12093025091,
+   "lat": 56.6015319,
+   "lon": 84.8968213,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12093034365,
+   "lat": 56.5776683,
+   "lon": 84.9269926,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "contact:phone": "+7 800 5555550",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12093043992,
+   "lat": 56.5941326,
+   "lon": 84.9089615,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12093058088,
+   "lat": 56.5949738,
+   "lon": 84.8941215,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "cash_in": "yes",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12093082710,
+   "lat": 56.600781,
+   "lon": 84.8975491,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12094482347,
+   "lat": 56.5903951,
+   "lon": 84.9085723,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "contact:phone": "+7 800 1000701",
+    "contact:website": "https://www.gazprombank.ru/",
+    "operator": "Банк ГПБ (АО)"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12101654447,
+   "lat": 56.4936774,
+   "lon": 85.0562935,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:wikidata": "Q1549389",
+    "check_date": "2025-06-28",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "drive_through": "no",
+    "operator": "Банк ВТБ (ПАО)",
+    "operator:wikidata": "Q1549389"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12101654448,
+   "lat": 56.4936904,
+   "lon": 85.0562563,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "check_date": "2025-06-28",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "drive_through": "no",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "operator": "АО «ТБанк»"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12214151208,
+   "lat": 56.4765592,
+   "lon": 84.9717333,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:wikidata": "Q1549389",
+    "check_date": "2025-07-22",
+    "contact:phone": "+7 800 1002424",
+    "contact:website": "https://www.vtb.ru/",
+    "operator": "Банк ВТБ (ПАО)",
+    "operator:wikidata": "Q1549389"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12229300888,
+   "lat": 56.4655945,
+   "lon": 84.9962777,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2025-11-30",
+    "contact:website": "https://www.sberbank.ru/",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12241340779,
+   "lat": 56.4808047,
+   "lon": 85.003544,
+   "tags": {
+    "addr:housenumber": "118",
+    "addr:street": "Алтайская улица",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "cash_in": "yes",
+    "check_date": "2026-09-07",
+    "contact:website": "https://www.sberbank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "level": "0",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12252902369,
+   "lat": 56.475751,
+   "lon": 85.0050731,
+   "tags": {
+    "addr:housenumber": "119Е",
+    "addr:street": "проспект Фрунзе",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "cash_in": "yes",
+    "check_date": "2026-09-07",
+    "contact:website": "https://www.sberbank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "opening_hours": "06:00-23:00",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12367012686,
+   "lat": 56.4884343,
+   "lon": 84.9794625,
+   "tags": {
+    "addr:housenumber": "13Б",
+    "addr:street": "Комсомольский проспект",
+    "amenity": "atm",
+    "check_date": "2026-07-27",
+    "level": "0",
+    "operator": "Левобережный"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12367020568,
+   "lat": 56.4884143,
+   "lon": 84.9788661,
+   "tags": {
+    "addr:housenumber": "13Б",
+    "addr:street": "Комсомольский проспект",
+    "amenity": "atm",
+    "brand": "Райффайзен",
+    "brand:en": "Raiffeisen Bank",
+    "brand:ru": "Райффайзен",
+    "brand:wikidata": "Q4389244",
+    "check_date": "2026-07-27",
+    "level": "0",
+    "operator": "АО \"Райффайзенбанк\"",
+    "operator:wikidata": "Q4389244"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12475174014,
+   "lat": 56.4823616,
+   "lon": 85.0047793,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "check_date": "2026-07-23",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12603849666,
+   "lat": 56.4850513,
+   "lon": 85.0018459,
+   "tags": {
+    "addr:housenumber": "38/5",
+    "addr:street": "улица Льва Толстого",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2026-05-18",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12627856260,
+   "lat": 56.4964131,
+   "lon": 84.9842875,
+   "tags": {
+    "addr:housenumber": "59/1",
+    "addr:street": "улица Пушкина",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2025-11-29",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12627856261,
+   "lat": 56.4964653,
+   "lon": 84.9842863,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Промсвязьбанк",
+    "brand:en": "Promsvyazbank",
+    "brand:ru": "Промсвязьбанк",
+    "brand:wikidata": "Q649100",
+    "check_date": "2025-11-29",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "ПАО \"Промсвязьбанк\"",
+    "operator:wikidata": "Q649100"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12709222093,
+   "lat": 56.4797467,
+   "lon": 84.9750328,
+   "tags": {
+    "addr:housenumber": "13",
+    "addr:street": "Киевская улица",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2026-02-07",
+    "currency:RUB": "yes",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12730641239,
+   "lat": 56.4641554,
+   "lon": 84.9657135,
+   "tags": {
+    "addr:housenumber": "114",
+    "addr:street": "Красноармейская улица",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2026-01-09",
+    "currency:RUB": "yes",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12730813306,
+   "lat": 56.4610444,
+   "lon": 84.9856734,
+   "tags": {
+    "addr:housenumber": "37",
+    "addr:street": "улица Усова",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2025-04-05",
+    "currency:RUB": "yes",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12732380953,
+   "lat": 56.4758368,
+   "lon": 84.9831307,
+   "tags": {
+    "addr:housenumber": "58 стр. 1",
+    "addr:street": "Комсомольский проспект",
+    "amenity": "atm",
+    "brand": "Газпромбанк",
+    "brand:en": "Gazprombank",
+    "brand:ru": "Газпромбанк",
+    "brand:wikidata": "Q1924338",
+    "check_date": "2025-04-06",
+    "currency:RUB": "yes",
+    "operator": "Банк ГПБ (АО)",
+    "operator:wikidata": "Q1924338"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12747484841,
+   "lat": 56.4459669,
+   "lon": 85.0239431,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12747484842,
+   "lat": 56.4459669,
+   "lon": 85.023994,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12816558554,
+   "lat": 56.4850033,
+   "lon": 85.002167,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "check_date": "2026-05-18",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "operator": "АО «ТБанк»",
+    "operator:wikipedia": "ru:Т-Банк"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12873094932,
+   "lat": 56.4723521,
+   "lon": 84.9862795,
+   "tags": {
+    "addr:housenumber": "61/1",
+    "addr:street": "улица Герцена",
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "brand:en": "Alfa-Bank",
+    "brand:ru": "Альфа-Банк",
+    "brand:wikidata": "Q1377835",
+    "check_date": "2026-01-17",
+    "operator": "АО \"Альфа-Банк\"",
+    "operator:wikidata": "Q1377835"
+   }
+  },
+  {
+   "type": "node",
+   "id": 12873094933,
+   "lat": 56.4721342,
+   "lon": 84.98627,
+   "tags": {
+    "addr:housenumber": "61/1",
+    "addr:street": "улица Герцена",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2026-01-17",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13015548674,
+   "lat": 56.4757813,
+   "lon": 85.0121544,
+   "tags": {
+    "addr:housenumber": "129",
+    "addr:street": "проспект Фрунзе",
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:ru": "ВТБ",
+    "brand:wikidata": "Q1549389",
+    "check_date": "2026-06-26",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "ВТБ",
+    "operator:wikidata": "Q1549389"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13016491437,
+   "lat": 56.476627,
+   "lon": 84.9701653,
+   "tags": {
+    "addr:housenumber": "90/1",
+    "addr:street": "проспект Фрунзе",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2026-04-11",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13016497764,
+   "lat": 56.476576,
+   "lon": 84.9717643,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:en": "T-Bank",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "check_date": "2025-07-22",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "operator": "АО «ТБанк»"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13017353811,
+   "lat": 56.4762509,
+   "lon": 85.0003723,
+   "tags": {
+    "addr:housenumber": "186",
+    "addr:street": "проспект Фрунзе",
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:en": "T-Bank",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "check_date": "2025-11-15",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "opening_hours": "Mo-Su 07:30-23:00",
+    "operator": "АО «ТБанк»"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13028268167,
+   "lat": 56.464163,
+   "lon": 84.9572595,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:en": "T-Bank",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "brand:wikipedia": "ru:Т-Банк",
+    "check_date": "2025-07-27",
+    "contact:ok": "https://ok.ru/tbank/",
+    "contact:phone": "+7 800 7008822",
+    "contact:telegram": "https://t.me/tbank/",
+    "contact:twitter": "https://twitter.com/tbank_ru/",
+    "contact:vk": "https://vk.com/tbank/",
+    "contact:website": "https://www.tbank.ru/",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "operator": "АО «ТБанк»"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13041277644,
+   "lat": 56.4763071,
+   "lon": 84.9858851,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2025-12-27",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "ПАО Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13229913301,
+   "lat": 56.4919106,
+   "lon": 84.9495291,
+   "tags": {
+    "amenity": "atm",
+    "brand": "МТС Банк",
+    "check_date": "2026-01-25",
+    "contact:phone": "88002500520",
+    "contact:website": "https://www.mtsbank.ru",
+    "opening_hours": "24/7",
+    "operator": "ПАО \"МТС-Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 13229913304,
+   "lat": 56.4905039,
+   "lon": 84.9450097,
+   "tags": {
+    "amenity": "atm",
+    "brand": "МТС Банк",
+    "contact:phone": "88002500520",
+    "contact:website": "https://www.mtsbank.ru",
+    "opening_hours": "Mo-Su 09:00-19:00",
+    "operator": "ПАО \"МТС-Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 13229913362,
+   "lat": 56.475558,
+   "lon": 84.986474,
+   "tags": {
+    "amenity": "atm",
+    "brand": "МТС Банк",
+    "contact:phone": "88002500520",
+    "contact:website": "https://www.mtsbank.ru",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "operator": "ПАО \"МТС-Банк\""
+   }
+  },
+  {
+   "type": "node",
+   "id": 13305764755,
+   "lat": 56.4762506,
+   "lon": 84.9981805,
+   "tags": {
+    "addr:housenumber": "172",
+    "addr:street": "проспект Фрунзе",
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:ru": "ВТБ",
+    "brand:wikidata": "Q1549389",
+    "check_date": "2026-07-15",
+    "operator": "ВТБ",
+    "operator:wikidata": "Q1549389"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13305838557,
+   "lat": 56.4762501,
+   "lon": 85.0003426,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Авангард",
+    "brand:en": "Avangard Bank",
+    "brand:ru": "Авангард",
+    "brand:wikidata": "Q62122617",
+    "check_date": "2025-11-15",
+    "operator": "Авангард",
+    "operator:wikidata": "Q62122617"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13410498415,
+   "lat": 56.4763882,
+   "lon": 84.9826119,
+   "tags": {
+    "addr:housenumber": "112",
+    "addr:street": "проспект Фрунзе",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2026-07-24",
+    "operator": "Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13429956043,
+   "lat": 56.5015858,
+   "lon": 85.0738043,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2026-01-04",
+    "operator": "Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13461774058,
+   "lat": 56.4718267,
+   "lon": 84.9862594,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:ru": "ВТБ",
+    "brand:wikidata": "Q1549389",
+    "check_date": "2026-01-17",
+    "operator": "ВТБ",
+    "operator:wikidata": "Q1549389"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13687759664,
+   "lat": 56.4764349,
+   "lon": 84.9914209,
+   "tags": {
+    "addr:housenumber": "152",
+    "addr:street": "проспект Фрунзе",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2026-03-29",
+    "currency:RUB": "yes",
+    "drive_through": "no",
+    "operator": "Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 13816854662,
+   "lat": 56.4988248,
+   "lon": 84.9921346,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Альфа-Банк",
+    "brand:en": "Alfa-Bank",
+    "brand:ru": "Альфа-Банк",
+    "brand:wikidata": "Q1377835",
+    "check_date": "2026-05-11",
+    "operator": "Альфа-Банк",
+    "operator:wikidata": "Q1377835"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14050416130,
+   "lat": 56.4603873,
+   "lon": 84.9747799,
+   "tags": {
+    "amenity": "atm",
+    "brand": "ВТБ",
+    "brand:en": "VTB Bank",
+    "brand:ru": "ВТБ",
+    "brand:wikidata": "Q1549389",
+    "check_date": "2026-07-26",
+    "operator": "ВТБ",
+    "operator:wikidata": "Q1549389"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14092074977,
+   "lat": 56.5008667,
+   "lon": 85.03568,
+   "tags": {
+    "addr:housenumber": "20/1",
+    "addr:street": "улица Клюева",
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:en": "T-Bank",
+    "brand:fa": "تی-بانک",
+    "brand:he": "טי-בנק",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "check_date": "2026-08-13"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14092074978,
+   "lat": 56.5009012,
+   "lon": 85.035692,
+   "tags": {
+    "addr:housenumber": "20/1",
+    "addr:street": "улица Клюева",
+    "amenity": "atm",
+    "brand": "Сбербанк",
+    "brand:en": "Sberbank",
+    "brand:ru": "Сбербанк",
+    "brand:wikidata": "Q205012",
+    "check_date": "2026-08-13",
+    "operator": "Сбербанк",
+    "operator:wikidata": "Q205012"
+   }
+  },
+  {
+   "type": "node",
+   "id": 14221263241,
+   "lat": 56.4642065,
+   "lon": 84.9572332,
+   "tags": {
+    "amenity": "atm",
+    "brand": "Т-Банк",
+    "brand:en": "T-Bank",
+    "brand:fa": "تی-بانک",
+    "brand:he": "טי-בנק",
+    "brand:ru": "Т-Банк",
+    "brand:wikidata": "Q4457878",
+    "operator": "Т-Банк"
+   }
+  }
+ ]
+}
